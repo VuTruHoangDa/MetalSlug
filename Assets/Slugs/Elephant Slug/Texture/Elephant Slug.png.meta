@@ -1,0 +1,7215 @@
+fileFormatVersion: 2
+guid: 139fa046e063c854a990f128a169d0e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 150496711960124601
+    second: Elephant Slug_0
+  - first:
+      213: -2095806856205040766
+    second: Elephant Slug_1
+  - first:
+      213: 6905981843578807316
+    second: Elephant Slug_2
+  - first:
+      213: 5743163353500407970
+    second: Elephant Slug_3
+  - first:
+      213: 7630375965034212118
+    second: Elephant Slug_4
+  - first:
+      213: 5179844504289609098
+    second: Elephant Slug_5
+  - first:
+      213: -2068829515753889558
+    second: Elephant Slug_6
+  - first:
+      213: -9156746593052919506
+    second: Elephant Slug_7
+  - first:
+      213: -5559466044153128235
+    second: Elephant Slug_8
+  - first:
+      213: 1400933362026779180
+    second: Elephant Slug_9
+  - first:
+      213: -7103767637481662467
+    second: Elephant Slug_10
+  - first:
+      213: 5594097864347193589
+    second: Elephant Slug_11
+  - first:
+      213: 5648269440380096631
+    second: Elephant Slug_12
+  - first:
+      213: 6502275840901080059
+    second: Elephant Slug_13
+  - first:
+      213: -7401315992110353650
+    second: Elephant Slug_14
+  - first:
+      213: -6405994440633855641
+    second: Elephant Slug_15
+  - first:
+      213: 6392054143910416348
+    second: Elephant Slug_16
+  - first:
+      213: -5942567580622699033
+    second: Elephant Slug_17
+  - first:
+      213: -1660446446608854268
+    second: Elephant Slug_18
+  - first:
+      213: -6262013589081053128
+    second: Elephant Slug_19
+  - first:
+      213: -4255964854723952748
+    second: Elephant Slug_20
+  - first:
+      213: 5291898626847862145
+    second: Elephant Slug_21
+  - first:
+      213: -8931704603145536571
+    second: Elephant Slug_22
+  - first:
+      213: 7663648759138508162
+    second: Elephant Slug_23
+  - first:
+      213: 7793489846412473699
+    second: Elephant Slug_24
+  - first:
+      213: -4923730673611882688
+    second: Elephant Slug_25
+  - first:
+      213: -5580677875343234217
+    second: Elephant Slug_26
+  - first:
+      213: 2783227161496158177
+    second: Elephant Slug_27
+  - first:
+      213: -314591915905647452
+    second: Elephant Slug_28
+  - first:
+      213: 1033664642399125813
+    second: Elephant Slug_29
+  - first:
+      213: 4070633529889764423
+    second: Elephant Slug_30
+  - first:
+      213: -8860595592843989965
+    second: Elephant Slug_31
+  - first:
+      213: -9187946432981264772
+    second: Elephant Slug_32
+  - first:
+      213: -950015017474352725
+    second: Elephant Slug_33
+  - first:
+      213: -4634597571384047877
+    second: Elephant Slug_34
+  - first:
+      213: -199611953581407125
+    second: Elephant Slug_35
+  - first:
+      213: 4559995315698755042
+    second: Elephant Slug_36
+  - first:
+      213: 2654664408695884084
+    second: Elephant Slug_37
+  - first:
+      213: 3904043374689088603
+    second: Elephant Slug_38
+  - first:
+      213: 7908751951918156714
+    second: Elephant Slug_39
+  - first:
+      213: 7619019176081092483
+    second: Elephant Slug_40
+  - first:
+      213: -795047845869235666
+    second: Elephant Slug_41
+  - first:
+      213: -5502865649067037993
+    second: Elephant Slug_42
+  - first:
+      213: 1316256973755148811
+    second: Elephant Slug_43
+  - first:
+      213: -7480413906007119771
+    second: Elephant Slug_44
+  - first:
+      213: 3399099329725212048
+    second: Elephant Slug_45
+  - first:
+      213: -5957750948647676551
+    second: Elephant Slug_46
+  - first:
+      213: -6159565971578092261
+    second: Elephant Slug_47
+  - first:
+      213: -8351555871090142047
+    second: Elephant Slug_48
+  - first:
+      213: -627532152895895150
+    second: Elephant Slug_49
+  - first:
+      213: -7606938857267417033
+    second: Elephant Slug_50
+  - first:
+      213: 3649638186754882743
+    second: Elephant Slug_51
+  - first:
+      213: -6264772218149916783
+    second: Elephant Slug_52
+  - first:
+      213: -1896987379502026459
+    second: Elephant Slug_53
+  - first:
+      213: -3534857288160348920
+    second: Elephant Slug_54
+  - first:
+      213: -377126414710538773
+    second: Elephant Slug_55
+  - first:
+      213: -8768720776427485927
+    second: Elephant Slug_56
+  - first:
+      213: 5774035675874404782
+    second: Elephant Slug_57
+  - first:
+      213: 6214443417255247441
+    second: Elephant Slug_58
+  - first:
+      213: 4782035553722833147
+    second: Elephant Slug_59
+  - first:
+      213: 5142151086533822716
+    second: Elephant Slug_60
+  - first:
+      213: -6438460269042344417
+    second: Elephant Slug_61
+  - first:
+      213: -120887148266757594
+    second: Elephant Slug_62
+  - first:
+      213: -4535380960187926494
+    second: Elephant Slug_63
+  - first:
+      213: -5440649503780971116
+    second: Elephant Slug_64
+  - first:
+      213: -1804491731989507343
+    second: Elephant Slug_65
+  - first:
+      213: -3867707030227366192
+    second: Elephant Slug_66
+  - first:
+      213: 5543587791563956623
+    second: Elephant Slug_67
+  - first:
+      213: 3286294089736742771
+    second: Elephant Slug_68
+  - first:
+      213: -1167476646756178023
+    second: Elephant Slug_69
+  - first:
+      213: -7603810316260371907
+    second: Elephant Slug_70
+  - first:
+      213: 869311562742500481
+    second: Elephant Slug_71
+  - first:
+      213: -2396657156253916061
+    second: Elephant Slug_72
+  - first:
+      213: -6941334957412141770
+    second: Elephant Slug_73
+  - first:
+      213: 5963186135894996581
+    second: Elephant Slug_74
+  - first:
+      213: 5466142149110678419
+    second: Elephant Slug_75
+  - first:
+      213: 7292221527356638053
+    second: Elephant Slug_76
+  - first:
+      213: -4185162278402124611
+    second: Elephant Slug_77
+  - first:
+      213: 6340032320264673443
+    second: Elephant Slug_78
+  - first:
+      213: 127722350674810504
+    second: Elephant Slug_79
+  - first:
+      213: -3063684919455883799
+    second: Elephant Slug_80
+  - first:
+      213: 35167926117701741
+    second: Elephant Slug_81
+  - first:
+      213: 2203762658020141206
+    second: Elephant Slug_82
+  - first:
+      213: 5883357528279643301
+    second: Elephant Slug_83
+  - first:
+      213: -5904398440956609944
+    second: Elephant Slug_84
+  - first:
+      213: 5201760142222249271
+    second: Elephant Slug_85
+  - first:
+      213: 6534213681160719074
+    second: Elephant Slug_86
+  - first:
+      213: 1470504230786382816
+    second: Elephant Slug_87
+  - first:
+      213: -6534301226339029803
+    second: Elephant Slug_88
+  - first:
+      213: 7076773434689614342
+    second: Elephant Slug_89
+  - first:
+      213: -2550183259791225708
+    second: Elephant Slug_90
+  - first:
+      213: 8490123399013396641
+    second: Elephant Slug_91
+  - first:
+      213: 496809767140781055
+    second: Elephant Slug_92
+  - first:
+      213: -179835162868690390
+    second: Elephant Slug_93
+  - first:
+      213: -5761448209685177158
+    second: Elephant Slug_94
+  - first:
+      213: 1881287326422930410
+    second: Elephant Slug_95
+  - first:
+      213: 8126064829003463403
+    second: Elephant Slug_96
+  - first:
+      213: 1557051067058965245
+    second: Elephant Slug_97
+  - first:
+      213: -2292496826114962204
+    second: Elephant Slug_98
+  - first:
+      213: 1029520574227669459
+    second: Elephant Slug_99
+  - first:
+      213: 8503962214428347906
+    second: Elephant Slug_100
+  - first:
+      213: -4346681745466756039
+    second: Elephant Slug_101
+  - first:
+      213: -9066642671680015596
+    second: Elephant Slug_102
+  - first:
+      213: 3446686960995419615
+    second: Elephant Slug_103
+  - first:
+      213: -8179639853327869278
+    second: Elephant Slug_104
+  - first:
+      213: -4693958731467634624
+    second: Elephant Slug_105
+  - first:
+      213: -8186425954127309897
+    second: Elephant Slug_106
+  - first:
+      213: -5036384471441226739
+    second: Elephant Slug_107
+  - first:
+      213: 8415513477275023761
+    second: Elephant Slug_108
+  - first:
+      213: -8378877240644161540
+    second: Elephant Slug_109
+  - first:
+      213: -2962945333365572176
+    second: Elephant Slug_110
+  - first:
+      213: 2733826135962129332
+    second: Elephant Slug_111
+  - first:
+      213: 9187939105644574033
+    second: Elephant Slug_112
+  - first:
+      213: -5966445113331384372
+    second: Elephant Slug_113
+  - first:
+      213: 323612989811179671
+    second: Elephant Slug_114
+  - first:
+      213: -4492139596467024590
+    second: Elephant Slug_115
+  - first:
+      213: -6344808019778244377
+    second: Elephant Slug_116
+  - first:
+      213: 8685011910755536100
+    second: Elephant Slug_117
+  - first:
+      213: -1535142984086688753
+    second: Elephant Slug_118
+  - first:
+      213: -1686589856970829708
+    second: Elephant Slug_119
+  - first:
+      213: -7732496266716018728
+    second: Elephant Slug_120
+  - first:
+      213: -2094158185597300381
+    second: Elephant Slug_121
+  - first:
+      213: 8393041076102347541
+    second: Elephant Slug_122
+  - first:
+      213: 8394663641638250280
+    second: Elephant Slug_123
+  - first:
+      213: -5236379920250993324
+    second: Elephant Slug_124
+  - first:
+      213: 8495716745923416908
+    second: Elephant Slug_125
+  - first:
+      213: 8745229806718786512
+    second: Elephant Slug_126
+  - first:
+      213: -5436146223991056422
+    second: Elephant Slug_127
+  - first:
+      213: -5324815281598504907
+    second: Elephant Slug_128
+  - first:
+      213: -1470559850608529469
+    second: Elephant Slug_129
+  - first:
+      213: -5334524778645771972
+    second: Elephant Slug_130
+  - first:
+      213: -5204034659074709704
+    second: Elephant Slug_131
+  - first:
+      213: 5102200179040570624
+    second: Elephant Slug_132
+  - first:
+      213: 6462460504226452628
+    second: Elephant Slug_133
+  - first:
+      213: -6840951237308373048
+    second: Elephant Slug_134
+  - first:
+      213: -8391327945605252334
+    second: Elephant Slug_135
+  - first:
+      213: -5067027418859085048
+    second: Elephant Slug_136
+  - first:
+      213: -5976554641640440457
+    second: Elephant Slug_137
+  - first:
+      213: 4431044263220651835
+    second: Elephant Slug_138
+  - first:
+      213: 5563058452127609078
+    second: Elephant Slug_139
+  - first:
+      213: -3570490376275763380
+    second: Elephant Slug_140
+  - first:
+      213: 5869394679011468798
+    second: Elephant Slug_141
+  - first:
+      213: -1683216947388548400
+    second: Elephant Slug_142
+  - first:
+      213: -8651653301448186475
+    second: Elephant Slug_143
+  - first:
+      213: -7804799090622734268
+    second: Elephant Slug_144
+  - first:
+      213: 4334526704640754806
+    second: Elephant Slug_145
+  - first:
+      213: 548234663801672410
+    second: Elephant Slug_146
+  - first:
+      213: -2765872991304911072
+    second: Elephant Slug_147
+  - first:
+      213: 7295927469039340077
+    second: Elephant Slug_148
+  - first:
+      213: -1537923193849133447
+    second: Elephant Slug_149
+  - first:
+      213: -4825009913598235371
+    second: Elephant Slug_150
+  - first:
+      213: -395123187488540264
+    second: Elephant Slug_151
+  - first:
+      213: 4631652769344194432
+    second: Elephant Slug_152
+  - first:
+      213: 6823983194599887673
+    second: Elephant Slug_153
+  - first:
+      213: 9097270754283323157
+    second: Elephant Slug_154
+  - first:
+      213: 4932666572431437185
+    second: Elephant Slug_155
+  - first:
+      213: -1849911186352289042
+    second: Elephant Slug_156
+  - first:
+      213: -8336900851025575122
+    second: Elephant Slug_157
+  - first:
+      213: 4836334547076189548
+    second: Elephant Slug_158
+  - first:
+      213: 2192505905778354666
+    second: Elephant Slug_159
+  - first:
+      213: -4089380434999417539
+    second: Elephant Slug_160
+  - first:
+      213: 5660648948548894124
+    second: Elephant Slug_161
+  - first:
+      213: 8185630495351755732
+    second: Elephant Slug_162
+  - first:
+      213: -6912972338505625298
+    second: Elephant Slug_163
+  - first:
+      213: 3774711516949572634
+    second: Elephant Slug_164
+  - first:
+      213: 443634011502263633
+    second: Elephant Slug_165
+  - first:
+      213: -2119034355230139455
+    second: Elephant Slug_166
+  - first:
+      213: -2168985582225477347
+    second: Elephant Slug_167
+  - first:
+      213: -6450401407044742367
+    second: Elephant Slug_168
+  - first:
+      213: -6272536754419928029
+    second: Elephant Slug_169
+  - first:
+      213: 4165815160524141103
+    second: Elephant Slug_170
+  - first:
+      213: 2586186155165367982
+    second: Elephant Slug_171
+  - first:
+      213: -4373553261576828574
+    second: Elephant Slug_172
+  - first:
+      213: -209730593819838761
+    second: Elephant Slug_173
+  - first:
+      213: 1784388980141574506
+    second: Elephant Slug_174
+  - first:
+      213: 4939795873028450271
+    second: Elephant Slug_175
+  - first:
+      213: -5800608922246778286
+    second: Elephant Slug_176
+  - first:
+      213: 630928132105181353
+    second: Elephant Slug_177
+  - first:
+      213: -4783033033328784774
+    second: Elephant Slug_178
+  - first:
+      213: -7354581361551524639
+    second: Elephant Slug_179
+  - first:
+      213: 3096552871793460021
+    second: Elephant Slug_180
+  - first:
+      213: -7465044407210759685
+    second: Elephant Slug_181
+  - first:
+      213: -7036770123704737932
+    second: Elephant Slug_182
+  - first:
+      213: -6994198114852431451
+    second: Elephant Slug_183
+  - first:
+      213: 5060949011872322616
+    second: Elephant Slug_184
+  - first:
+      213: -8327406142237082394
+    second: Elephant Slug_185
+  - first:
+      213: 6629730737042148256
+    second: Elephant Slug_186
+  - first:
+      213: -5229563280516095726
+    second: Elephant Slug_187
+  - first:
+      213: 3975906085343462995
+    second: Elephant Slug_188
+  - first:
+      213: -8021397798173004849
+    second: Elephant Slug_189
+  - first:
+      213: 5258215692186210893
+    second: Elephant Slug_190
+  - first:
+      213: -8313357410053225125
+    second: Elephant Slug_191
+  - first:
+      213: -1232630104803164883
+    second: Elephant Slug_192
+  - first:
+      213: 5166114434520076753
+    second: Elephant Slug_193
+  - first:
+      213: 2978873279168819604
+    second: Elephant Slug_194
+  - first:
+      213: 3694507621754929569
+    second: Elephant Slug_195
+  - first:
+      213: 5747812878367152768
+    second: Elephant Slug_196
+  - first:
+      213: -1915651914968263519
+    second: Elephant Slug_197
+  - first:
+      213: -2679565554018375458
+    second: Elephant Slug_198
+  - first:
+      213: 4519852025193467570
+    second: Elephant Slug_199
+  - first:
+      213: -1809809828118087813
+    second: Elephant Slug_200
+  - first:
+      213: 5543070049654498140
+    second: Elephant Slug_201
+  - first:
+      213: 2221112497583082946
+    second: Elephant Slug_202
+  - first:
+      213: -5466978261160986980
+    second: Elephant Slug_203
+  - first:
+      213: -204141791763214898
+    second: Elephant Slug_204
+  - first:
+      213: -36649437097171453
+    second: Elephant Slug_205
+  - first:
+      213: -2148355299402808929
+    second: Elephant Slug_206
+  - first:
+      213: -5728972441423916628
+    second: Elephant Slug_207
+  - first:
+      213: 7172128758952557281
+    second: Elephant Slug_208
+  - first:
+      213: 2266307396952950272
+    second: Elephant Slug_209
+  - first:
+      213: 3431839345746818365
+    second: Elephant Slug_210
+  - first:
+      213: 5670242192178208513
+    second: Elephant Slug_211
+  - first:
+      213: 5043247286117785929
+    second: Elephant Slug_212
+  - first:
+      213: 6769189956584070048
+    second: Elephant Slug_213
+  - first:
+      213: -4506498954632818339
+    second: Elephant Slug_214
+  - first:
+      213: 6831459642533818217
+    second: Elephant Slug_215
+  - first:
+      213: 3365199240192440073
+    second: Elephant Slug_216
+  - first:
+      213: 2376522795966341624
+    second: Elephant Slug_217
+  - first:
+      213: 8570343087926643987
+    second: Elephant Slug_218
+  - first:
+      213: -995137701171850518
+    second: Elephant Slug_219
+  - first:
+      213: 1693599327792333769
+    second: Elephant Slug_220
+  - first:
+      213: 5962514249814654564
+    second: Elephant Slug_221
+  - first:
+      213: 2236490258542476683
+    second: Elephant Slug_222
+  - first:
+      213: 1516656694484989072
+    second: Elephant Slug_223
+  - first:
+      213: -1307529290567129065
+    second: Elephant Slug_224
+  - first:
+      213: -5653161361808333129
+    second: Elephant Slug_225
+  - first:
+      213: -2870455736633703717
+    second: Elephant Slug_226
+  - first:
+      213: -7496710126787288116
+    second: Elephant Slug_227
+  - first:
+      213: -1156068338068342361
+    second: Elephant Slug_228
+  - first:
+      213: 4164985879669862813
+    second: Elephant Slug_229
+  - first:
+      213: -154321065434272248
+    second: Elephant Slug_230
+  - first:
+      213: 1227919606974470109
+    second: Elephant Slug_231
+  - first:
+      213: -6910296405913456730
+    second: Elephant Slug_232
+  - first:
+      213: -2799121283133434155
+    second: Elephant Slug_233
+  - first:
+      213: -615798635961619925
+    second: Elephant Slug_234
+  - first:
+      213: 2145278520039848134
+    second: Elephant Slug_235
+  - first:
+      213: 6409789528254489671
+    second: Elephant Slug_236
+  - first:
+      213: 4520560174255766655
+    second: Elephant Slug_237
+  - first:
+      213: -5530074145608321286
+    second: Elephant Slug_238
+  - first:
+      213: -501497447845928863
+    second: Elephant Slug_239
+  - first:
+      213: -9090013534305527739
+    second: Elephant Slug_240
+  - first:
+      213: -7873081652200328475
+    second: Elephant Slug_241
+  - first:
+      213: -709307372363700197
+    second: Elephant Slug_242
+  - first:
+      213: 8475681435768743658
+    second: Elephant Slug_243
+  - first:
+      213: 114048142228056629
+    second: Elephant Slug_244
+  - first:
+      213: -4123200424576859466
+    second: Elephant Slug_245
+  - first:
+      213: 6798430205633527695
+    second: Elephant Slug_246
+  - first:
+      213: -2303793715976404549
+    second: Elephant Slug_247
+  - first:
+      213: -3800337634244837077
+    second: Elephant Slug_248
+  - first:
+      213: -2186055823608650500
+    second: Elephant Slug_249
+  - first:
+      213: 1748239517786361497
+    second: Elephant Slug_250
+  - first:
+      213: 6906751502564177424
+    second: Elephant Slug_251
+  - first:
+      213: 4651931033271559986
+    second: Elephant Slug_252
+  - first:
+      213: -6008740368706520676
+    second: Elephant Slug_253
+  - first:
+      213: -6891363288239236157
+    second: Elephant Slug_254
+  - first:
+      213: 3033325805760234428
+    second: Elephant Slug_255
+  - first:
+      213: 1512474310714446157
+    second: Elephant Slug_256
+  - first:
+      213: -1500709279540476575
+    second: Elephant Slug_257
+  - first:
+      213: 8942110062445740941
+    second: Elephant Slug_258
+  - first:
+      213: -5727044685860060939
+    second: Elephant Slug_259
+  - first:
+      213: -8075223148700327983
+    second: Elephant Slug_260
+  - first:
+      213: 4655537089375345173
+    second: Elephant Slug_261
+  - first:
+      213: 4272252287497175916
+    second: Elephant Slug_262
+  - first:
+      213: 1632508979503267331
+    second: Elephant Slug_263
+  - first:
+      213: 8939655551225885023
+    second: Elephant Slug_264
+  - first:
+      213: -7641111480617281973
+    second: Elephant Slug_265
+  - first:
+      213: 5396038558793511756
+    second: Elephant Slug_266
+  - first:
+      213: 3725124786290053182
+    second: Elephant Slug_267
+  - first:
+      213: 1501325579680371303
+    second: Elephant Slug_268
+  - first:
+      213: -8211498474029834222
+    second: Elephant Slug_269
+  - first:
+      213: 1945046100481307693
+    second: Elephant Slug_270
+  - first:
+      213: 9213508034866659720
+    second: Elephant Slug_271
+  - first:
+      213: 1522622218393625167
+    second: Elephant Slug_272
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elephant Slug_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2470
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5f3056fba61200800000000000000
+      internalID: 150496711960124601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2390
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830212b4c23ae2e0800000000000000
+      internalID: -2095806856205040766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2390
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414efc3b5e9f6df50800000000000000
+      internalID: 6905981843578807316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2390
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8de6434a0d3bf40800000000000000
+      internalID: 5743163353500407970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2389
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bea82438a84e960800000000000000
+      internalID: 7630375965034212118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2389
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8501f5f12182e740800000000000000
+      internalID: 5179844504289609098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2389
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae065ac348a0a43e0800000000000000
+      internalID: -2068829515753889558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2365
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ffc6fc73bce080800000000000000
+      internalID: -9156746593052919506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2365
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1861961fc8d2b0800000000000000
+      internalID: -5559466044153128235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2293
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229995687d117310800000000000000
+      internalID: 1400933362026779180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2293
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df75df898f85a6d90800000000000000
+      internalID: -7103767637481662467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2293
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09f2b6e5a32ad40800000000000000
+      internalID: 5594097864347193589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2293
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770dc85512fa26e40800000000000000
+      internalID: 5648269440380096631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2293
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf363804d69bc3a50800000000000000
+      internalID: 6502275840901080059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2293
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0338dba15e394990800000000000000
+      internalID: -7401315992110353650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2218
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76154e42ff55917a0800000000000000
+      internalID: -6405994440633855641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2218
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf08d8906325b850800000000000000
+      internalID: 6392054143910416348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2218
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54b3f3542c78da0800000000000000
+      internalID: -5942567580622699033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2216
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d15511c8e4f8e0800000000000000
+      internalID: -1660446446608854268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2216
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838a72c71dbd819a0800000000000000
+      internalID: -6262013589081053128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2216
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fb1a18386cfe4c0800000000000000
+      internalID: -4255964854723952748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2199
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de4a073c9907940800000000000000
+      internalID: 5291898626847862145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf9c25cf53c0480800000000000000
+      internalID: -8931704603145536571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d50d351ffba5a60800000000000000
+      internalID: 7663648759138508162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2199
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365770049b9082c60800000000000000
+      internalID: 7793489846412473699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2199
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3ba51a056babb0800000000000000
+      internalID: -4923730673611882688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2124
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be8424a037d82b0800000000000000
+      internalID: -5580677875343234217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2124
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef72327b5200a620800000000000000
+      internalID: 2783227161496158177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2124
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfb3bb15852abf0800000000000000
+      internalID: -314591915905647452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2124
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531c4130480585e00800000000000000
+      internalID: 1033664642399125813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2124
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744bfd7d0abcd7830800000000000000
+      internalID: 4070633529889764423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_31
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2089
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6426f047d80580800000000000000
+      internalID: -8860595592843989965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_32
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2089
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7695d6266bdd7080800000000000000
+      internalID: -9187946432981264772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2088
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99720006ed0d2f0800000000000000
+      internalID: -950015017474352725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_34
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2088
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf604c0601a9eafb0800000000000000
+      internalID: -4634597571384047877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2088
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64cbdd5cf5da3df0800000000000000
+      internalID: -199611953581407125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2037
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56ba9649b584f30800000000000000
+      internalID: 4559995315698755042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2037
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c036f63347d420800000000000000
+      internalID: 2654664408695884084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2037
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547f08c3c2fd2630800000000000000
+      internalID: 3904043374689088603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2037
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab42c67ff781cd60800000000000000
+      internalID: 7908751951918156714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2037
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe337c2913cb960800000000000000
+      internalID: 7619019176081092483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2014
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22568f423c67f4f0800000000000000
+      internalID: -795047845869235666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2014
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dae8acf8d4e1a3b0800000000000000
+      internalID: -5502865649067037993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2014
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6ec96eb8444210800000000000000
+      internalID: 1316256973755148811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1939
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ad877f2b303890800000000000000
+      internalID: -7480413906007119771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1939
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952a88c4d60c2f20800000000000000
+      internalID: 3399099329725212048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1939
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975db95e311d15da0800000000000000
+      internalID: -5957750948647676551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1939
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1501853263d48aa0800000000000000
+      internalID: -6159565971578092261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1939
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a418d50f20591c80800000000000000
+      internalID: -8351555871090142047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1861
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299018de4de8a47f0800000000000000
+      internalID: -627532152895895150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1861
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b570a969be6690800000000000000
+      internalID: -7606938857267417033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1861
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb930289e16a230800000000000000
+      internalID: 3649638186754882743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1861
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f207a1cde0f09a0800000000000000
+      internalID: -6264772218149916783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1836
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521f16d670c8ca5e0800000000000000
+      internalID: -1896987379502026459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1836
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805708f560aa1fec0800000000000000
+      internalID: -3534857288160348920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1836
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf2cf168d24caf0800000000000000
+      internalID: -377126414710538773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1759
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c37a99ee3f4680800000000000000
+      internalID: -8768720776427485927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1758
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92de4eade712050800000000000000
+      internalID: 5774035675874404782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1757
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e734acc532e3650800000000000000
+      internalID: 6214443417255247441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1757
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf810f2fff33d5240800000000000000
+      internalID: 4782035553722833147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_60
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1757
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8cc3e3b279c5740800000000000000
+      internalID: 5142151086533822716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1758
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed34b6f7ef5a6a0800000000000000
+      internalID: -6438460269042344417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_62
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1758
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62266a577c5825ef0800000000000000
+      internalID: -120887148266757594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_63
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1759
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228bde2db071f01c0800000000000000
+      internalID: -4535380960187926494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_64
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1759
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ddab32a1eee74b0800000000000000
+      internalID: -5440649503780971116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_65
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1759
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d2a2945825f6e0800000000000000
+      internalID: -1804491731989507343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1671
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de4400b2f4235ac0800000000000000
+      internalID: -3867707030227366192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1671
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ac59a9b7ceec40800000000000000
+      internalID: 5543587791563956623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1671
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377693620134b9d20800000000000000
+      internalID: 3286294089736742771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1671
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a882ec2a4ccfe0800000000000000
+      internalID: -1167476646756178023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_70
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1671
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3299d7ddc6d97690800000000000000
+      internalID: -7603810316260371907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_71
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1671
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0860b24a601c00800000000000000
+      internalID: 869311562742500481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_72
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1671
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646611b30d5dbed0800000000000000
+      internalID: -2396657156253916061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_73
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1671
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635b27c02ac6baf90800000000000000
+      internalID: -6941334957412141770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_74
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1671
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5663e8f323e71c250800000000000000
+      internalID: 5963186135894996581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_75
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1671
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934881e253abdb40800000000000000
+      internalID: 5466142149110678419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1584
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638c81e7dc233560800000000000000
+      internalID: 7292221527356638053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1584
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db41a7ce4115be5c0800000000000000
+      internalID: -4185162278402124611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1584
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81fd9edc15cf750800000000000000
+      internalID: 6340032320264673443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1584
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88699dd1dc2c5c100800000000000000
+      internalID: 127722350674810504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_80
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1493
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5c104cca9b75d0800000000000000
+      internalID: -3063684919455883799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1493
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d689bbfda01fc7000800000000000000
+      internalID: 35167926117701741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1493
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698af802676559e10800000000000000
+      internalID: 2203762658020141206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1492
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47ab72082e5a150800000000000000
+      internalID: 5883357528279643301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1491
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a396a96ec5f0ea0800000000000000
+      internalID: -5904398440956609944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1491
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d41fb0a4d503840800000000000000
+      internalID: 5201760142222249271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_86
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1490
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea051829b03eaa50800000000000000
+      internalID: 6534213681160719074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1490
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb3bbc8ec7486410800000000000000
+      internalID: 1470504230786382816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1490
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca9a4a7af7155a0800000000000000
+      internalID: -6534301226339029803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_89
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1491
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602789ac1ffb53260800000000000000
+      internalID: 7076773434689614342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_90
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1491
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0fff26ddeb9cd0800000000000000
+      internalID: -2550183259791225708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1491
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0fc61bf3af2d570800000000000000
+      internalID: 8490123399013396641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_92
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1412
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbee5bd9d505e600800000000000000
+      internalID: 496809767140781055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1412
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2256174fd8118df0800000000000000
+      internalID: -179835162868690390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1412
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc97e5f0693b00b0800000000000000
+      internalID: -5761448209685177158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1411
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae312eb1bdcab1a10800000000000000
+      internalID: 1881287326422930410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1411
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beafb8288e495c070800000000000000
+      internalID: 8126064829003463403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1411
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa413522b1cb9510800000000000000
+      internalID: 1557051067058965245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_98
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1408
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec05b6684a6f20e0800000000000000
+      internalID: -2292496826114962204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_99
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1408
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ebc3f187994e00800000000000000
+      internalID: 1029520574227669459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1408
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e885ef394240670800000000000000
+      internalID: 8503962214428347906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_101
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1409
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93477c17bfb7da3c0800000000000000
+      internalID: -4346681745466756039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_102
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1410
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133d19f680dc2280800000000000000
+      internalID: -9066642671680015596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_103
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1410
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd54a1a978715df20800000000000000
+      internalID: 3446686960995419615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1379
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa93c714e41c7e80800000000000000
+      internalID: -8179639853327869278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1379
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04847844765bbdeb0800000000000000
+      internalID: -4693958731467634624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1379
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31430e7f8f36e80800000000000000
+      internalID: -8186425954127309897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_107
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1379
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c373d10b2b1ab0800000000000000
+      internalID: -5036384471441226739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1299
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997d779be8e9c470800000000000000
+      internalID: 8415513477275023761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1298
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffacc6fa8f38bb80800000000000000
+      internalID: -8378877240644161540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_110
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1298
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf7dbeae081e6d0800000000000000
+      internalID: -2962945333365572176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1297
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b393bfd26080f520800000000000000
+      internalID: 2733826135962129332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1298
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1557dd1dfed128f70800000000000000
+      internalID: 9187939105644574033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1300
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7400f7cde23da0800000000000000
+      internalID: -5966445113331384372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_114
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1302
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790c566bc44bd7400800000000000000
+      internalID: 323612989811179671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1305
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dcd1f56d6b8a1c0800000000000000
+      internalID: -4492139596467024590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_116
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1302
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07115e8b6b2f7a0800000000000000
+      internalID: -6344808019778244377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_117
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1300
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecce92515c578870800000000000000
+      internalID: 8685011910755536100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1220
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c641ae69312bae0800000000000000
+      internalID: -1535142984086688753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1220
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4701a7506770898e0800000000000000
+      internalID: -1686589856970829708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_120
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1225
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d78b5b2d97a0b490800000000000000
+      internalID: -7732496266716018728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1228
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3611ffbb93e00f2e0800000000000000
+      internalID: -2094158185597300381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_122
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1232
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb756f3621a7470800000000000000
+      internalID: 8393041076102347541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_123
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1230
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272cb0fa16df7470800000000000000
+      internalID: 8394663641638250280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_124
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1227
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558370c434a457b0800000000000000
+      internalID: -5236379920250993324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_125
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1223
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435a114e59d6e570800000000000000
+      internalID: 8495716745923416908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_126
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1219
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db91accc2c4d5970800000000000000
+      internalID: 8745229806718786512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_127
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1217
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79eebafcdee84b0800000000000000
+      internalID: -5436146223991056422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_128
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1216
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530efb5a6b47a16b0800000000000000
+      internalID: -5324815281598504907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_129
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1216
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfe6837b95879be0800000000000000
+      internalID: -1470559850608529469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1195
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39ac433af5f7f5b0800000000000000
+      internalID: -5334524778645771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_131
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1195
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e70bbc0e87c7b0800000000000000
+      internalID: -5204034659074709704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_132
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1120
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dc5acb708aec640800000000000000
+      internalID: 5102200179040570624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_133
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1130
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494d869c6954fa950800000000000000
+      internalID: 6462460504226452628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_134
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1133
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c72776381f0011a0800000000000000
+      internalID: -6840951237308373048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_135
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1137
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf36051b30c8b80800000000000000
+      internalID: -8391327945605252334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_136
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1138
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8036db7a86d4ea9b0800000000000000
+      internalID: -5067027418859085048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_137
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1137
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3f44f7330f0da0800000000000000
+      internalID: -5976554641640440457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1054
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ac4dd74b3e7d30800000000000000
+      internalID: 4431044263220651835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1057
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0fcc71034f33d40800000000000000
+      internalID: 5563058452127609078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_140
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1058
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd1288be1137ec0800000000000000
+      internalID: -3570490376275763380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_141
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1054
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5eb09fc57447150800000000000000
+      internalID: 5869394679011468798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_142
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1051
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafcfaba1304a8e0800000000000000
+      internalID: -1683216947388548400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_143
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1041
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595685729272fe780800000000000000
+      internalID: -8651653301448186475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_144
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1029
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e3242498cfa390800000000000000
+      internalID: -7804799090622734268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1029
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748e839215572c30800000000000000
+      internalID: 4334526704640754806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_146
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1029
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25475a588bb9700800000000000000
+      internalID: 548234663801672410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 954
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277c6b2b25ad99d0800000000000000
+      internalID: -2765872991304911072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_148
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 964
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aca1ba067504560800000000000000
+      internalID: 7295927469039340077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_149
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 967
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c9c2e00338aae0800000000000000
+      internalID: -1537923193849133447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_150
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 891
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2d3e2c0f1a0db0800000000000000
+      internalID: -4825009913598235371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_151
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 891
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899b93fed8d348af0800000000000000
+      internalID: -395123187488540264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 891
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08707b777afe64040800000000000000
+      internalID: 4631652769344194432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_153
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 890
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339c5b7f88a3be50800000000000000
+      internalID: 6823983194599887673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_154
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 889
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7b963d8fff3e70800000000000000
+      internalID: 9097270754283323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_155
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 890
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d283dfc1a547440800000000000000
+      internalID: 4932666572431437185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_156
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 322
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea4377c39bc356e0800000000000000
+      internalID: -1849911186352289042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_157
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 841
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2308f6c8d06d4c80800000000000000
+      internalID: -8336900851025575122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_158
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 841
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0d6585ac1e1340800000000000000
+      internalID: 4836334547076189548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_159
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 841
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae96dd141885d6e10800000000000000
+      internalID: 2192505905778354666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_160
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 841
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d356d6c292a9f37c0800000000000000
+      internalID: -4089380434999417539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_161
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 838
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf1703a3aae8e40800000000000000
+      internalID: 5660648948548894124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_162
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 841
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3db02f093399170800000000000000
+      internalID: 8185630495351755732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 759
+        width: 322
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21554dd8403010a0800000000000000
+      internalID: -6912972338505625298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_164
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 750
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cea591028726430800000000000000
+      internalID: 3774711516949572634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_165
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 746
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dbfd178ca182600800000000000000
+      internalID: 443634011502263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 681
+        width: 322
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb98a52b7da792e0800000000000000
+      internalID: -2119034355230139455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_167
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 679
+        width: 322
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11b180da1736e1e0800000000000000
+      internalID: -2168985582225477347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_168
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 682
+        width: 322
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1231b6298129b76a0800000000000000
+      internalID: -6450401407044742367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_169
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 623
+        width: 322
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f7302e0973f8a0800000000000000
+      internalID: -6272536754419928029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_170
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 621
+        width: 322
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227afa21d2ffc930800000000000000
+      internalID: 4165815160524141103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_171
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 617
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3aad1b9af3e320800000000000000
+      internalID: 2586186155165367982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_172
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 563
+        width: 322
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269467d0b740e43c0800000000000000
+      internalID: -4373553261576828574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_173
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 564
+        width: 322
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d636d8d223e61df0800000000000000
+      internalID: -209730593819838761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_174
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 596
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69c576c25c63c810800000000000000
+      internalID: 1784388980141574506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_175
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 566
+        width: 322
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72dc2ac2ead8440800000000000000
+      internalID: 4939795873028450271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_176
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f48c0be8108fa0800000000000000
+      internalID: -5800608922246778286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_177
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 565
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a81ee81bc181c800800000000000000
+      internalID: 630928132105181353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_178
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 494
+        width: 322
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8a7b3cc04f9db0800000000000000
+      internalID: -4783033033328784774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_179
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 497
+        width: 322
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3309c7374fe990800000000000000
+      internalID: -7354581361551524639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_180
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 497
+        width: 306
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533077f3e6a29fa20800000000000000
+      internalID: 3096552871793460021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_181
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 527
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9afa3c9a5d66890800000000000000
+      internalID: -7465044407210759685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_182
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 442
+        width: 322
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f5f7adade585e90800000000000000
+      internalID: -7036770123704737932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_183
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 437
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a993831fdd9fee90800000000000000
+      internalID: -6994198114852431451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_184
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 432
+        width: 323
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834930fef4a1c3640800000000000000
+      internalID: 5060949011872322616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_185
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 470
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7d8feb3c1f6c80800000000000000
+      internalID: -8327406142237082394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_186
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 387
+        width: 322
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc2e1caf8810c50800000000000000
+      internalID: 6629730737042148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_187
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 415
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211696e57ebdc67b0800000000000000
+      internalID: -5229563280516095726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_188
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 369
+        width: 322
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560635f4814d2730800000000000000
+      internalID: 3975906085343462995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_189
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 376
+        width: 322
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb2cc5a3354ea090800000000000000
+      internalID: -8021397798173004849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_190
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 325
+        width: 322
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d425105fe8f840800000000000000
+      internalID: 5258215692186210893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_191
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 276
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558aea4b7501ac80800000000000000
+      internalID: -8313357410053225125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_192
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 275
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d31cf4371d4eee0800000000000000
+      internalID: -1232630104803164883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_193
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 276
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1569af4b9b1b740800000000000000
+      internalID: 5166114434520076753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_194
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 282
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b2c3f675175920800000000000000
+      internalID: 2978873279168819604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_195
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10dae8b17854330800000000000000
+      internalID: 3694507621754929569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_196
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 287
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a5d721c5554cf40800000000000000
+      internalID: 5747812878367152768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_197
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 288
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4150f9bbc3a65e0800000000000000
+      internalID: -1915651914968263519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_198
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 286
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ac58535540dad0800000000000000
+      internalID: -2679565554018375458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_199
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be8cfe387db9be30800000000000000
+      internalID: 4519852025193467570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_200
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b204dc8342e6e0800000000000000
+      internalID: -1809809828118087813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_201
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 272
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5363ca77d0fcec40800000000000000
+      internalID: 5543070049654498140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_202
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdce907c0af2de10800000000000000
+      internalID: 2221112497583082946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_203
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 324
+        width: 322
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9677bc9c346124b0800000000000000
+      internalID: -5466978261160986980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_204
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 270
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd442a3f1eba2df0800000000000000
+      internalID: -204141791763214898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_205
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 268
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306ea98f78bcd7ff0800000000000000
+      internalID: -36649437097171453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_206
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 274
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9184c7dc328f22e0800000000000000
+      internalID: -2148355299402808929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_207
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 269
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1dcecfae99e70b0800000000000000
+      internalID: -5728972441423916628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_208
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 275
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eafab05b15888360800000000000000
+      internalID: 7172128758952557281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_209
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 283
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068833f19a837f10800000000000000
+      internalID: 2266307396952950272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_210
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 280
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b279c3b750af20800000000000000
+      internalID: 3431839345746818365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_211
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 281
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fd6374b3fb0be40800000000000000
+      internalID: 5670242192178208513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_212
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 275
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e08bbfa63df540800000000000000
+      internalID: 5043247286117785929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_213
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 271
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd55b966ef0fd50800000000000000
+      internalID: 6769189956584070048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_214
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 265
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d511174c313b571c0800000000000000
+      internalID: -4506498954632818339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_215
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 268
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f25aaa9583ece50800000000000000
+      internalID: 6831459642533818217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_216
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 263
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b51e11e693be20800000000000000
+      internalID: 3365199240192440073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_217
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 259
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1213e34ea1bf020800000000000000
+      internalID: 2376522795966341624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_218
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 265
+        width: 333
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d871f71a9ffe670800000000000000
+      internalID: 8570343087926643987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_219
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 272
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29d03888f8032f0800000000000000
+      internalID: -995137701171850518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_220
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 270
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c307e49d9fd08710800000000000000
+      internalID: 1693599327792333769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_221
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 276
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e38649e1b1fb250800000000000000
+      internalID: 5962514249814654564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_222
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 271
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dbb0c6a0c990f10800000000000000
+      internalID: 2236490258542476683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_223
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 287
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094fef06a3f3c0510800000000000000
+      internalID: 1516656694484989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_224
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 284
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e35ea909badde0800000000000000
+      internalID: -1307529290567129065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_225
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 287
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6637371bfeb81b0800000000000000
+      internalID: -5653161361808333129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_226
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 271
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2477247b71a28d0800000000000000
+      internalID: -2870455736633703717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_227
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc325c4ebd556f790800000000000000
+      internalID: -7496710126787288116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_228
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 268
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a93c5db8f1d4ffe0800000000000000
+      internalID: -1156068338068342361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_229
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 242
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917d3c27900dc930800000000000000
+      internalID: 4164985879669862813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_230
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 242
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e2e610fcdbbddf0800000000000000
+      internalID: -154321065434272248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_231
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 205
+        width: 312
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7537270627a0110800000000000000
+      internalID: 1227919606974470109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_232
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 185
+        width: 162
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afaed8f702b910a0800000000000000
+      internalID: -6910296405913456730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_233
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 185
+        width: 162
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6989bf5068729d0800000000000000
+      internalID: -2799121283133434155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_234
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 185
+        width: 161
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a665a376e3477f0800000000000000
+      internalID: -615798635961619925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_235
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 100
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83043a27f85cd10800000000000000
+      internalID: 2145278520039848134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_236
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 107
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a0ac8d9524f850800000000000000
+      internalID: 6409789528254489671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_237
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cfa4c07814cbe30800000000000000
+      internalID: 4520560174255766655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_238
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 152
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6b1793dda3143b0800000000000000
+      internalID: -5530074145608321286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_239
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 152
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160e06d6ab25a09f0800000000000000
+      internalID: -501497447845928863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_240
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 103
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d93cf9d8c9d180800000000000000
+      internalID: -9090013534305527739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_241
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 100
+        width: 119
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e234f063f13db290800000000000000
+      internalID: -7873081652200328475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_242
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 74
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1822b1f3b80826f0800000000000000
+      internalID: -709307372363700197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_243
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae66e581c5baf9570800000000000000
+      internalID: 8475681435768743658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_244
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aebcc5e2e259100800000000000000
+      internalID: 114048142228056629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_245
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24b5b3f0377c6c0800000000000000
+      internalID: -4123200424576859466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_246
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f721d9040e85e50800000000000000
+      internalID: 6798430205633527695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_247
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1037342d74700e0800000000000000
+      internalID: -2303793715976404549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_248
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21c9448e0d724bc0800000000000000
+      internalID: -3800337634244837077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_249
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4e1a68fc199a1e0800000000000000
+      internalID: -2186055823608650500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_250
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec4ff249ef24810800000000000000
+      internalID: 1748239517786361497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_251
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 55
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016bb36e5e5b9df50800000000000000
+      internalID: 6906751502564177424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_252
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23764c5b0aafe8040800000000000000
+      internalID: 4651931033271559986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_253
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b2b7687aac9ca0800000000000000
+      internalID: -6008740368706520676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_254
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1552f995fc50a0800000000000000
+      internalID: -6891363288239236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_255
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34d54cfb9881a20800000000000000
+      internalID: 3033325805760234428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_256
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d9064f536df410800000000000000
+      internalID: 1512474310714446157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_257
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1658bd18cd86c2be0800000000000000
+      internalID: -1500709279540476575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_258
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 55
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83468679b1c81c70800000000000000
+      internalID: 8942110062445740941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_259
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0c58e83337580b0800000000000000
+      internalID: -5727044685860060939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_260
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df94b3a45b0fef80800000000000000
+      internalID: -8075223148700327983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_261
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a9fd2115acb9040800000000000000
+      internalID: 4655537089375345173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_262
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 55
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c638e13f1d61a4b30800000000000000
+      internalID: 4272252287497175916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_263
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e7de77446d7a610800000000000000
+      internalID: 1632508979503267331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_264
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51fa290c59001c70800000000000000
+      internalID: 8939655551225885023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_265
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 19
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46d5acb79155f590800000000000000
+      internalID: -7641111480617281973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_266
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b233da7492ea40800000000000000
+      internalID: 5396038558793511756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_267
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 19
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3052dea14d42b330800000000000000
+      internalID: 3725124786290053182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_268
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7625e0d09a7c5d410800000000000000
+      internalID: 1501325579680371303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_269
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102acde4a5ea0e80800000000000000
+      internalID: -8211498474029834222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_270
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 19
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2472f28f113efa10800000000000000
+      internalID: 1945046100481307693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_271
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814f611eb4fcdf70800000000000000
+      internalID: 9213508034866659720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant Slug_272
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 19
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42287627d0712510800000000000000
+      internalID: 1522622218393625167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elephant Slug_0: 150496711960124601
+      Elephant Slug_1: -2095806856205040766
+      Elephant Slug_10: -7103767637481662467
+      Elephant Slug_100: 8503962214428347906
+      Elephant Slug_101: -4346681745466756039
+      Elephant Slug_102: -9066642671680015596
+      Elephant Slug_103: 3446686960995419615
+      Elephant Slug_104: -8179639853327869278
+      Elephant Slug_105: -4693958731467634624
+      Elephant Slug_106: -8186425954127309897
+      Elephant Slug_107: -5036384471441226739
+      Elephant Slug_108: 8415513477275023761
+      Elephant Slug_109: -8378877240644161540
+      Elephant Slug_11: 5594097864347193589
+      Elephant Slug_110: -2962945333365572176
+      Elephant Slug_111: 2733826135962129332
+      Elephant Slug_112: 9187939105644574033
+      Elephant Slug_113: -5966445113331384372
+      Elephant Slug_114: 323612989811179671
+      Elephant Slug_115: -4492139596467024590
+      Elephant Slug_116: -6344808019778244377
+      Elephant Slug_117: 8685011910755536100
+      Elephant Slug_118: -1535142984086688753
+      Elephant Slug_119: -1686589856970829708
+      Elephant Slug_12: 5648269440380096631
+      Elephant Slug_120: -7732496266716018728
+      Elephant Slug_121: -2094158185597300381
+      Elephant Slug_122: 8393041076102347541
+      Elephant Slug_123: 8394663641638250280
+      Elephant Slug_124: -5236379920250993324
+      Elephant Slug_125: 8495716745923416908
+      Elephant Slug_126: 8745229806718786512
+      Elephant Slug_127: -5436146223991056422
+      Elephant Slug_128: -5324815281598504907
+      Elephant Slug_129: -1470559850608529469
+      Elephant Slug_13: 6502275840901080059
+      Elephant Slug_130: -5334524778645771972
+      Elephant Slug_131: -5204034659074709704
+      Elephant Slug_132: 5102200179040570624
+      Elephant Slug_133: 6462460504226452628
+      Elephant Slug_134: -6840951237308373048
+      Elephant Slug_135: -8391327945605252334
+      Elephant Slug_136: -5067027418859085048
+      Elephant Slug_137: -5976554641640440457
+      Elephant Slug_138: 4431044263220651835
+      Elephant Slug_139: 5563058452127609078
+      Elephant Slug_14: -7401315992110353650
+      Elephant Slug_140: -3570490376275763380
+      Elephant Slug_141: 5869394679011468798
+      Elephant Slug_142: -1683216947388548400
+      Elephant Slug_143: -8651653301448186475
+      Elephant Slug_144: -7804799090622734268
+      Elephant Slug_145: 4334526704640754806
+      Elephant Slug_146: 548234663801672410
+      Elephant Slug_147: -2765872991304911072
+      Elephant Slug_148: 7295927469039340077
+      Elephant Slug_149: -1537923193849133447
+      Elephant Slug_15: -6405994440633855641
+      Elephant Slug_150: -4825009913598235371
+      Elephant Slug_151: -395123187488540264
+      Elephant Slug_152: 4631652769344194432
+      Elephant Slug_153: 6823983194599887673
+      Elephant Slug_154: 9097270754283323157
+      Elephant Slug_155: 4932666572431437185
+      Elephant Slug_156: -1849911186352289042
+      Elephant Slug_157: -8336900851025575122
+      Elephant Slug_158: 4836334547076189548
+      Elephant Slug_159: 2192505905778354666
+      Elephant Slug_16: 6392054143910416348
+      Elephant Slug_160: -4089380434999417539
+      Elephant Slug_161: 5660648948548894124
+      Elephant Slug_162: 8185630495351755732
+      Elephant Slug_163: -6912972338505625298
+      Elephant Slug_164: 3774711516949572634
+      Elephant Slug_165: 443634011502263633
+      Elephant Slug_166: -2119034355230139455
+      Elephant Slug_167: -2168985582225477347
+      Elephant Slug_168: -6450401407044742367
+      Elephant Slug_169: -6272536754419928029
+      Elephant Slug_17: -5942567580622699033
+      Elephant Slug_170: 4165815160524141103
+      Elephant Slug_171: 2586186155165367982
+      Elephant Slug_172: -4373553261576828574
+      Elephant Slug_173: -209730593819838761
+      Elephant Slug_174: 1784388980141574506
+      Elephant Slug_175: 4939795873028450271
+      Elephant Slug_176: -5800608922246778286
+      Elephant Slug_177: 630928132105181353
+      Elephant Slug_178: -4783033033328784774
+      Elephant Slug_179: -7354581361551524639
+      Elephant Slug_18: -1660446446608854268
+      Elephant Slug_180: 3096552871793460021
+      Elephant Slug_181: -7465044407210759685
+      Elephant Slug_182: -7036770123704737932
+      Elephant Slug_183: -6994198114852431451
+      Elephant Slug_184: 5060949011872322616
+      Elephant Slug_185: -8327406142237082394
+      Elephant Slug_186: 6629730737042148256
+      Elephant Slug_187: -5229563280516095726
+      Elephant Slug_188: 3975906085343462995
+      Elephant Slug_189: -8021397798173004849
+      Elephant Slug_19: -6262013589081053128
+      Elephant Slug_190: 5258215692186210893
+      Elephant Slug_191: -8313357410053225125
+      Elephant Slug_192: -1232630104803164883
+      Elephant Slug_193: 5166114434520076753
+      Elephant Slug_194: 2978873279168819604
+      Elephant Slug_195: 3694507621754929569
+      Elephant Slug_196: 5747812878367152768
+      Elephant Slug_197: -1915651914968263519
+      Elephant Slug_198: -2679565554018375458
+      Elephant Slug_199: 4519852025193467570
+      Elephant Slug_2: 6905981843578807316
+      Elephant Slug_20: -4255964854723952748
+      Elephant Slug_200: -1809809828118087813
+      Elephant Slug_201: 5543070049654498140
+      Elephant Slug_202: 2221112497583082946
+      Elephant Slug_203: -5466978261160986980
+      Elephant Slug_204: -204141791763214898
+      Elephant Slug_205: -36649437097171453
+      Elephant Slug_206: -2148355299402808929
+      Elephant Slug_207: -5728972441423916628
+      Elephant Slug_208: 7172128758952557281
+      Elephant Slug_209: 2266307396952950272
+      Elephant Slug_21: 5291898626847862145
+      Elephant Slug_210: 3431839345746818365
+      Elephant Slug_211: 5670242192178208513
+      Elephant Slug_212: 5043247286117785929
+      Elephant Slug_213: 6769189956584070048
+      Elephant Slug_214: -4506498954632818339
+      Elephant Slug_215: 6831459642533818217
+      Elephant Slug_216: 3365199240192440073
+      Elephant Slug_217: 2376522795966341624
+      Elephant Slug_218: 8570343087926643987
+      Elephant Slug_219: -995137701171850518
+      Elephant Slug_22: -8931704603145536571
+      Elephant Slug_220: 1693599327792333769
+      Elephant Slug_221: 5962514249814654564
+      Elephant Slug_222: 2236490258542476683
+      Elephant Slug_223: 1516656694484989072
+      Elephant Slug_224: -1307529290567129065
+      Elephant Slug_225: -5653161361808333129
+      Elephant Slug_226: -2870455736633703717
+      Elephant Slug_227: -7496710126787288116
+      Elephant Slug_228: -1156068338068342361
+      Elephant Slug_229: 4164985879669862813
+      Elephant Slug_23: 7663648759138508162
+      Elephant Slug_230: -154321065434272248
+      Elephant Slug_231: 1227919606974470109
+      Elephant Slug_232: -6910296405913456730
+      Elephant Slug_233: -2799121283133434155
+      Elephant Slug_234: -615798635961619925
+      Elephant Slug_235: 2145278520039848134
+      Elephant Slug_236: 6409789528254489671
+      Elephant Slug_237: 4520560174255766655
+      Elephant Slug_238: -5530074145608321286
+      Elephant Slug_239: -501497447845928863
+      Elephant Slug_24: 7793489846412473699
+      Elephant Slug_240: -9090013534305527739
+      Elephant Slug_241: -7873081652200328475
+      Elephant Slug_242: -709307372363700197
+      Elephant Slug_243: 8475681435768743658
+      Elephant Slug_244: 114048142228056629
+      Elephant Slug_245: -4123200424576859466
+      Elephant Slug_246: 6798430205633527695
+      Elephant Slug_247: -2303793715976404549
+      Elephant Slug_248: -3800337634244837077
+      Elephant Slug_249: -2186055823608650500
+      Elephant Slug_25: -4923730673611882688
+      Elephant Slug_250: 1748239517786361497
+      Elephant Slug_251: 6906751502564177424
+      Elephant Slug_252: 4651931033271559986
+      Elephant Slug_253: -6008740368706520676
+      Elephant Slug_254: -6891363288239236157
+      Elephant Slug_255: 3033325805760234428
+      Elephant Slug_256: 1512474310714446157
+      Elephant Slug_257: -1500709279540476575
+      Elephant Slug_258: 8942110062445740941
+      Elephant Slug_259: -5727044685860060939
+      Elephant Slug_26: -5580677875343234217
+      Elephant Slug_260: -8075223148700327983
+      Elephant Slug_261: 4655537089375345173
+      Elephant Slug_262: 4272252287497175916
+      Elephant Slug_263: 1632508979503267331
+      Elephant Slug_264: 8939655551225885023
+      Elephant Slug_265: -7641111480617281973
+      Elephant Slug_266: 5396038558793511756
+      Elephant Slug_267: 3725124786290053182
+      Elephant Slug_268: 1501325579680371303
+      Elephant Slug_269: -8211498474029834222
+      Elephant Slug_27: 2783227161496158177
+      Elephant Slug_270: 1945046100481307693
+      Elephant Slug_271: 9213508034866659720
+      Elephant Slug_272: 1522622218393625167
+      Elephant Slug_28: -314591915905647452
+      Elephant Slug_29: 1033664642399125813
+      Elephant Slug_3: 5743163353500407970
+      Elephant Slug_30: 4070633529889764423
+      Elephant Slug_31: -8860595592843989965
+      Elephant Slug_32: -9187946432981264772
+      Elephant Slug_33: -950015017474352725
+      Elephant Slug_34: -4634597571384047877
+      Elephant Slug_35: -199611953581407125
+      Elephant Slug_36: 4559995315698755042
+      Elephant Slug_37: 2654664408695884084
+      Elephant Slug_38: 3904043374689088603
+      Elephant Slug_39: 7908751951918156714
+      Elephant Slug_4: 7630375965034212118
+      Elephant Slug_40: 7619019176081092483
+      Elephant Slug_41: -795047845869235666
+      Elephant Slug_42: -5502865649067037993
+      Elephant Slug_43: 1316256973755148811
+      Elephant Slug_44: -7480413906007119771
+      Elephant Slug_45: 3399099329725212048
+      Elephant Slug_46: -5957750948647676551
+      Elephant Slug_47: -6159565971578092261
+      Elephant Slug_48: -8351555871090142047
+      Elephant Slug_49: -627532152895895150
+      Elephant Slug_5: 5179844504289609098
+      Elephant Slug_50: -7606938857267417033
+      Elephant Slug_51: 3649638186754882743
+      Elephant Slug_52: -6264772218149916783
+      Elephant Slug_53: -1896987379502026459
+      Elephant Slug_54: -3534857288160348920
+      Elephant Slug_55: -377126414710538773
+      Elephant Slug_56: -8768720776427485927
+      Elephant Slug_57: 5774035675874404782
+      Elephant Slug_58: 6214443417255247441
+      Elephant Slug_59: 4782035553722833147
+      Elephant Slug_6: -2068829515753889558
+      Elephant Slug_60: 5142151086533822716
+      Elephant Slug_61: -6438460269042344417
+      Elephant Slug_62: -120887148266757594
+      Elephant Slug_63: -4535380960187926494
+      Elephant Slug_64: -5440649503780971116
+      Elephant Slug_65: -1804491731989507343
+      Elephant Slug_66: -3867707030227366192
+      Elephant Slug_67: 5543587791563956623
+      Elephant Slug_68: 3286294089736742771
+      Elephant Slug_69: -1167476646756178023
+      Elephant Slug_7: -9156746593052919506
+      Elephant Slug_70: -7603810316260371907
+      Elephant Slug_71: 869311562742500481
+      Elephant Slug_72: -2396657156253916061
+      Elephant Slug_73: -6941334957412141770
+      Elephant Slug_74: 5963186135894996581
+      Elephant Slug_75: 5466142149110678419
+      Elephant Slug_76: 7292221527356638053
+      Elephant Slug_77: -4185162278402124611
+      Elephant Slug_78: 6340032320264673443
+      Elephant Slug_79: 127722350674810504
+      Elephant Slug_8: -5559466044153128235
+      Elephant Slug_80: -3063684919455883799
+      Elephant Slug_81: 35167926117701741
+      Elephant Slug_82: 2203762658020141206
+      Elephant Slug_83: 5883357528279643301
+      Elephant Slug_84: -5904398440956609944
+      Elephant Slug_85: 5201760142222249271
+      Elephant Slug_86: 6534213681160719074
+      Elephant Slug_87: 1470504230786382816
+      Elephant Slug_88: -6534301226339029803
+      Elephant Slug_89: 7076773434689614342
+      Elephant Slug_9: 1400933362026779180
+      Elephant Slug_90: -2550183259791225708
+      Elephant Slug_91: 8490123399013396641
+      Elephant Slug_92: 496809767140781055
+      Elephant Slug_93: -179835162868690390
+      Elephant Slug_94: -5761448209685177158
+      Elephant Slug_95: 1881287326422930410
+      Elephant Slug_96: 8126064829003463403
+      Elephant Slug_97: 1557051067058965245
+      Elephant Slug_98: -2292496826114962204
+      Elephant Slug_99: 1029520574227669459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

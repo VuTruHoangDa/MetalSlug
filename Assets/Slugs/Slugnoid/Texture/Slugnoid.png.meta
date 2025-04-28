@@ -1,0 +1,6929 @@
+fileFormatVersion: 2
+guid: 14708fb234fd6eb46b12c518f30ec00a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1992486207962732988
+    second: Slugnoid_0
+  - first:
+      213: 4674063924936821286
+    second: Slugnoid_1
+  - first:
+      213: 1039709985022762678
+    second: Slugnoid_2
+  - first:
+      213: 3352641733015397979
+    second: Slugnoid_3
+  - first:
+      213: -8203676271488648921
+    second: Slugnoid_4
+  - first:
+      213: 3180471536150372266
+    second: Slugnoid_5
+  - first:
+      213: 5284508158888202045
+    second: Slugnoid_6
+  - first:
+      213: -197786323861539717
+    second: Slugnoid_7
+  - first:
+      213: 1566132136966616750
+    second: Slugnoid_8
+  - first:
+      213: 3595740074794391026
+    second: Slugnoid_9
+  - first:
+      213: 1603050215351750721
+    second: Slugnoid_10
+  - first:
+      213: -215217461937175277
+    second: Slugnoid_11
+  - first:
+      213: -460660660279768132
+    second: Slugnoid_12
+  - first:
+      213: -6391119627704646208
+    second: Slugnoid_13
+  - first:
+      213: 3429572527874624777
+    second: Slugnoid_14
+  - first:
+      213: 8141851619346923574
+    second: Slugnoid_15
+  - first:
+      213: 2989550738174828775
+    second: Slugnoid_16
+  - first:
+      213: -9138401361791697134
+    second: Slugnoid_17
+  - first:
+      213: -1281581510842072672
+    second: Slugnoid_18
+  - first:
+      213: -5264172674926394359
+    second: Slugnoid_19
+  - first:
+      213: 2828898150228180687
+    second: Slugnoid_20
+  - first:
+      213: 6231897745401842460
+    second: Slugnoid_21
+  - first:
+      213: 4374976108569022911
+    second: Slugnoid_22
+  - first:
+      213: 1495313586853979832
+    second: Slugnoid_23
+  - first:
+      213: -1759143573466861526
+    second: Slugnoid_24
+  - first:
+      213: -317824865033434203
+    second: Slugnoid_25
+  - first:
+      213: 7682370218924616248
+    second: Slugnoid_26
+  - first:
+      213: -7318625828344054159
+    second: Slugnoid_27
+  - first:
+      213: 4673156168235378535
+    second: Slugnoid_28
+  - first:
+      213: 2907392836599578668
+    second: Slugnoid_29
+  - first:
+      213: 1309785547277850322
+    second: Slugnoid_30
+  - first:
+      213: 5093032063101616354
+    second: Slugnoid_31
+  - first:
+      213: -3525980814907474027
+    second: Slugnoid_32
+  - first:
+      213: 6213668199986911472
+    second: Slugnoid_33
+  - first:
+      213: -9190919674236081371
+    second: Slugnoid_34
+  - first:
+      213: -2208348201818349053
+    second: Slugnoid_35
+  - first:
+      213: -7708213651511170717
+    second: Slugnoid_36
+  - first:
+      213: -2310244633200132146
+    second: Slugnoid_37
+  - first:
+      213: -6453117774413129730
+    second: Slugnoid_38
+  - first:
+      213: 7808785913289346043
+    second: Slugnoid_39
+  - first:
+      213: -8491569781331922994
+    second: Slugnoid_40
+  - first:
+      213: 6510515726308925630
+    second: Slugnoid_41
+  - first:
+      213: -8944890559703796187
+    second: Slugnoid_42
+  - first:
+      213: -8378261641365820630
+    second: Slugnoid_43
+  - first:
+      213: -5828829439186107221
+    second: Slugnoid_44
+  - first:
+      213: 6186921942297601093
+    second: Slugnoid_45
+  - first:
+      213: -9150609708800117474
+    second: Slugnoid_46
+  - first:
+      213: -1890423130004525615
+    second: Slugnoid_47
+  - first:
+      213: 2805771253364363818
+    second: Slugnoid_48
+  - first:
+      213: -8228964547113262242
+    second: Slugnoid_49
+  - first:
+      213: 340839046336661655
+    second: Slugnoid_50
+  - first:
+      213: 8331804001410120435
+    second: Slugnoid_51
+  - first:
+      213: -6232738201216000065
+    second: Slugnoid_52
+  - first:
+      213: -4423885710139341877
+    second: Slugnoid_53
+  - first:
+      213: 7858093834931720466
+    second: Slugnoid_54
+  - first:
+      213: -6065855849127054337
+    second: Slugnoid_55
+  - first:
+      213: 7210137724823433847
+    second: Slugnoid_56
+  - first:
+      213: 5993620147545516870
+    second: Slugnoid_57
+  - first:
+      213: -2554546187093399083
+    second: Slugnoid_58
+  - first:
+      213: -2973204550926753203
+    second: Slugnoid_59
+  - first:
+      213: 1691619053071992868
+    second: Slugnoid_60
+  - first:
+      213: -3011041806813153410
+    second: Slugnoid_61
+  - first:
+      213: -6316476088013603574
+    second: Slugnoid_62
+  - first:
+      213: -4212929148122449197
+    second: Slugnoid_63
+  - first:
+      213: 6617209530963375190
+    second: Slugnoid_64
+  - first:
+      213: 6611954698539562256
+    second: Slugnoid_65
+  - first:
+      213: -2460101331732457100
+    second: Slugnoid_66
+  - first:
+      213: 6171313570105694633
+    second: Slugnoid_67
+  - first:
+      213: -3798238101179450796
+    second: Slugnoid_68
+  - first:
+      213: -9028142927322398109
+    second: Slugnoid_69
+  - first:
+      213: 3355177969972646482
+    second: Slugnoid_70
+  - first:
+      213: -7367798956690837846
+    second: Slugnoid_71
+  - first:
+      213: -4283559087533655212
+    second: Slugnoid_72
+  - first:
+      213: -8367447060917000019
+    second: Slugnoid_73
+  - first:
+      213: 7925932139035837377
+    second: Slugnoid_74
+  - first:
+      213: 6561683500794102196
+    second: Slugnoid_75
+  - first:
+      213: -6926472716997018309
+    second: Slugnoid_76
+  - first:
+      213: 395346088715817708
+    second: Slugnoid_77
+  - first:
+      213: -2957963835114325982
+    second: Slugnoid_78
+  - first:
+      213: 4775726351872404428
+    second: Slugnoid_79
+  - first:
+      213: 5390181850115027994
+    second: Slugnoid_80
+  - first:
+      213: 7199349010371011063
+    second: Slugnoid_81
+  - first:
+      213: 5046359278137290424
+    second: Slugnoid_82
+  - first:
+      213: -1280518066580394005
+    second: Slugnoid_83
+  - first:
+      213: -1349262996381684612
+    second: Slugnoid_84
+  - first:
+      213: -7999675131050812068
+    second: Slugnoid_85
+  - first:
+      213: -7838809477014577491
+    second: Slugnoid_86
+  - first:
+      213: 7634675645618985115
+    second: Slugnoid_87
+  - first:
+      213: 5583414471247946303
+    second: Slugnoid_88
+  - first:
+      213: 6181381855168433429
+    second: Slugnoid_89
+  - first:
+      213: 8403556803280062096
+    second: Slugnoid_90
+  - first:
+      213: 1863876972382620157
+    second: Slugnoid_91
+  - first:
+      213: 3796573636216328493
+    second: Slugnoid_92
+  - first:
+      213: -4847952817052130327
+    second: Slugnoid_93
+  - first:
+      213: -4537182368987257031
+    second: Slugnoid_94
+  - first:
+      213: 3997442125626796319
+    second: Slugnoid_95
+  - first:
+      213: -1146285259229363372
+    second: Slugnoid_96
+  - first:
+      213: 4925137761499102330
+    second: Slugnoid_97
+  - first:
+      213: 3118436660056371277
+    second: Slugnoid_98
+  - first:
+      213: -912744359317842924
+    second: Slugnoid_99
+  - first:
+      213: 3227644457333384583
+    second: Slugnoid_100
+  - first:
+      213: 176078808813444610
+    second: Slugnoid_101
+  - first:
+      213: 7500026145612898539
+    second: Slugnoid_102
+  - first:
+      213: 4303078787622295894
+    second: Slugnoid_103
+  - first:
+      213: 434026757349647364
+    second: Slugnoid_104
+  - first:
+      213: 3949096501207814561
+    second: Slugnoid_105
+  - first:
+      213: -5914789466792203438
+    second: Slugnoid_106
+  - first:
+      213: 2329193079360304176
+    second: Slugnoid_107
+  - first:
+      213: -8556805201327010160
+    second: Slugnoid_108
+  - first:
+      213: 2771714552806997859
+    second: Slugnoid_109
+  - first:
+      213: -7575449810452919700
+    second: Slugnoid_110
+  - first:
+      213: 8893532109241940623
+    second: Slugnoid_111
+  - first:
+      213: 8621365543749246841
+    second: Slugnoid_112
+  - first:
+      213: -6533482617641061814
+    second: Slugnoid_113
+  - first:
+      213: 2285395577789986031
+    second: Slugnoid_114
+  - first:
+      213: 8597209742639371422
+    second: Slugnoid_115
+  - first:
+      213: -4871945014934456380
+    second: Slugnoid_116
+  - first:
+      213: 5502999393474751415
+    second: Slugnoid_117
+  - first:
+      213: 5381681003428108898
+    second: Slugnoid_118
+  - first:
+      213: -8945412290460428461
+    second: Slugnoid_119
+  - first:
+      213: 4478526446539882888
+    second: Slugnoid_120
+  - first:
+      213: -3800029213951812905
+    second: Slugnoid_121
+  - first:
+      213: -3232118607327018343
+    second: Slugnoid_122
+  - first:
+      213: -8230826051554299298
+    second: Slugnoid_123
+  - first:
+      213: 3486272624533410179
+    second: Slugnoid_124
+  - first:
+      213: 2158162755001245525
+    second: Slugnoid_125
+  - first:
+      213: 280689983382707320
+    second: Slugnoid_126
+  - first:
+      213: 4555146278149975298
+    second: Slugnoid_127
+  - first:
+      213: -7382316835282746088
+    second: Slugnoid_128
+  - first:
+      213: 4150355405082782748
+    second: Slugnoid_129
+  - first:
+      213: -7575779682609813073
+    second: Slugnoid_130
+  - first:
+      213: 4332613847241195576
+    second: Slugnoid_131
+  - first:
+      213: -7150236817987141781
+    second: Slugnoid_132
+  - first:
+      213: -2884204881874504463
+    second: Slugnoid_133
+  - first:
+      213: 3380085132838927404
+    second: Slugnoid_134
+  - first:
+      213: -4620105899257454445
+    second: Slugnoid_135
+  - first:
+      213: -4447576433833819982
+    second: Slugnoid_136
+  - first:
+      213: 7408526124984061995
+    second: Slugnoid_137
+  - first:
+      213: -5868853932922173406
+    second: Slugnoid_138
+  - first:
+      213: -4256559286553522381
+    second: Slugnoid_139
+  - first:
+      213: -8076351582663556520
+    second: Slugnoid_140
+  - first:
+      213: -3626218886205147350
+    second: Slugnoid_141
+  - first:
+      213: -9065538195317507612
+    second: Slugnoid_142
+  - first:
+      213: 6319226978299590225
+    second: Slugnoid_143
+  - first:
+      213: -4899885519729242881
+    second: Slugnoid_144
+  - first:
+      213: 7980278069622220056
+    second: Slugnoid_145
+  - first:
+      213: -8959189752960984691
+    second: Slugnoid_146
+  - first:
+      213: -6809120937457316351
+    second: Slugnoid_147
+  - first:
+      213: 2851447933466348599
+    second: Slugnoid_148
+  - first:
+      213: -8793215894184117282
+    second: Slugnoid_149
+  - first:
+      213: 8468403707700256366
+    second: Slugnoid_150
+  - first:
+      213: -705645755745883468
+    second: Slugnoid_151
+  - first:
+      213: 6821324908684383705
+    second: Slugnoid_152
+  - first:
+      213: 3835663255740292380
+    second: Slugnoid_153
+  - first:
+      213: -1397538620238207420
+    second: Slugnoid_154
+  - first:
+      213: -6797575007112439494
+    second: Slugnoid_155
+  - first:
+      213: -6004675981212300671
+    second: Slugnoid_156
+  - first:
+      213: -7650855858865261788
+    second: Slugnoid_157
+  - first:
+      213: 6710606045150290810
+    second: Slugnoid_158
+  - first:
+      213: -5798556488821573378
+    second: Slugnoid_159
+  - first:
+      213: 6226429505163870498
+    second: Slugnoid_160
+  - first:
+      213: 5688681749191122805
+    second: Slugnoid_161
+  - first:
+      213: -6472494295133136895
+    second: Slugnoid_162
+  - first:
+      213: -3950291085027066627
+    second: Slugnoid_163
+  - first:
+      213: 7489908594001131286
+    second: Slugnoid_164
+  - first:
+      213: -261538489090945499
+    second: Slugnoid_165
+  - first:
+      213: 2510462726571940966
+    second: Slugnoid_166
+  - first:
+      213: 6167079545505760794
+    second: Slugnoid_167
+  - first:
+      213: -4589782112993420209
+    second: Slugnoid_168
+  - first:
+      213: 8119807742551971252
+    second: Slugnoid_169
+  - first:
+      213: 2068742910408483480
+    second: Slugnoid_170
+  - first:
+      213: -885414550516864849
+    second: Slugnoid_171
+  - first:
+      213: -3887602768530911091
+    second: Slugnoid_172
+  - first:
+      213: 3705640316619347671
+    second: Slugnoid_173
+  - first:
+      213: 930543681020746323
+    second: Slugnoid_174
+  - first:
+      213: 1623188281651715533
+    second: Slugnoid_175
+  - first:
+      213: -1863653125226872322
+    second: Slugnoid_176
+  - first:
+      213: 1841549316026016294
+    second: Slugnoid_177
+  - first:
+      213: -8383485744995226898
+    second: Slugnoid_178
+  - first:
+      213: 1837126933445743646
+    second: Slugnoid_179
+  - first:
+      213: 3161323807965615934
+    second: Slugnoid_180
+  - first:
+      213: 3181884356366704674
+    second: Slugnoid_181
+  - first:
+      213: 5867894920379987198
+    second: Slugnoid_182
+  - first:
+      213: 9158936972173136402
+    second: Slugnoid_183
+  - first:
+      213: -7311556307457470033
+    second: Slugnoid_184
+  - first:
+      213: -6467378995360442322
+    second: Slugnoid_185
+  - first:
+      213: -4848287224956383692
+    second: Slugnoid_186
+  - first:
+      213: 295226822558285653
+    second: Slugnoid_187
+  - first:
+      213: -8190642825273516633
+    second: Slugnoid_188
+  - first:
+      213: -8886042575598421794
+    second: Slugnoid_189
+  - first:
+      213: -5948879616950132203
+    second: Slugnoid_190
+  - first:
+      213: -1152430226309051655
+    second: Slugnoid_191
+  - first:
+      213: -7428309722278536936
+    second: Slugnoid_192
+  - first:
+      213: -2861028491009601347
+    second: Slugnoid_193
+  - first:
+      213: -395615837136730482
+    second: Slugnoid_194
+  - first:
+      213: -9062576039796254919
+    second: Slugnoid_195
+  - first:
+      213: -945942646407614557
+    second: Slugnoid_196
+  - first:
+      213: -5305986236262224505
+    second: Slugnoid_197
+  - first:
+      213: -214208679249819554
+    second: Slugnoid_198
+  - first:
+      213: -101416209928806568
+    second: Slugnoid_199
+  - first:
+      213: -6282298966351035429
+    second: Slugnoid_200
+  - first:
+      213: 3902953394419303797
+    second: Slugnoid_201
+  - first:
+      213: 438879085410345553
+    second: Slugnoid_202
+  - first:
+      213: -8121661490187277578
+    second: Slugnoid_203
+  - first:
+      213: 8094731649923825194
+    second: Slugnoid_204
+  - first:
+      213: 802912655055312958
+    second: Slugnoid_205
+  - first:
+      213: -4410782161756970575
+    second: Slugnoid_206
+  - first:
+      213: 9073799910008501477
+    second: Slugnoid_207
+  - first:
+      213: -768224211009946878
+    second: Slugnoid_208
+  - first:
+      213: 8878190638479919129
+    second: Slugnoid_209
+  - first:
+      213: -4375645935582081003
+    second: Slugnoid_210
+  - first:
+      213: -4871371726549860797
+    second: Slugnoid_211
+  - first:
+      213: -7929853480111031508
+    second: Slugnoid_212
+  - first:
+      213: 407841568856096505
+    second: Slugnoid_213
+  - first:
+      213: -4321648016873055356
+    second: Slugnoid_214
+  - first:
+      213: -3144722336991971607
+    second: Slugnoid_215
+  - first:
+      213: -8044730806594182388
+    second: Slugnoid_216
+  - first:
+      213: 4310416492368803067
+    second: Slugnoid_217
+  - first:
+      213: 2637181624844557265
+    second: Slugnoid_218
+  - first:
+      213: -186506827976992880
+    second: Slugnoid_219
+  - first:
+      213: 688286828852363555
+    second: Slugnoid_220
+  - first:
+      213: -3357110922701305190
+    second: Slugnoid_221
+  - first:
+      213: 1934976790691606163
+    second: Slugnoid_222
+  - first:
+      213: -1490827976336226709
+    second: Slugnoid_223
+  - first:
+      213: -8496671615802583042
+    second: Slugnoid_224
+  - first:
+      213: -3814025099602329540
+    second: Slugnoid_225
+  - first:
+      213: 8047912655890872307
+    second: Slugnoid_226
+  - first:
+      213: 3559168310618794801
+    second: Slugnoid_227
+  - first:
+      213: -2524860174445664015
+    second: Slugnoid_228
+  - first:
+      213: -7761211722600109968
+    second: Slugnoid_229
+  - first:
+      213: 7138250905806817530
+    second: Slugnoid_230
+  - first:
+      213: 6993889270304241621
+    second: Slugnoid_231
+  - first:
+      213: 1942489935935519006
+    second: Slugnoid_232
+  - first:
+      213: -5353704973630296537
+    second: Slugnoid_233
+  - first:
+      213: -9016314806738765530
+    second: Slugnoid_234
+  - first:
+      213: -9059307176783137771
+    second: Slugnoid_235
+  - first:
+      213: -2630554997178305006
+    second: Slugnoid_236
+  - first:
+      213: -8711307622337396004
+    second: Slugnoid_237
+  - first:
+      213: -5699579611296764789
+    second: Slugnoid_238
+  - first:
+      213: -4928016767220107280
+    second: Slugnoid_239
+  - first:
+      213: 4332710672537655133
+    second: Slugnoid_240
+  - first:
+      213: 2159811953061564084
+    second: Slugnoid_241
+  - first:
+      213: -3732468211035247539
+    second: Slugnoid_242
+  - first:
+      213: 4024510182590616158
+    second: Slugnoid_243
+  - first:
+      213: 4806960861898629178
+    second: Slugnoid_244
+  - first:
+      213: 2265751870187589262
+    second: Slugnoid_245
+  - first:
+      213: 1571897001608245977
+    second: Slugnoid_246
+  - first:
+      213: -1672965554108423119
+    second: Slugnoid_247
+  - first:
+      213: 707694704849226767
+    second: Slugnoid_248
+  - first:
+      213: -3263268006161243066
+    second: Slugnoid_249
+  - first:
+      213: 3516519363078896757
+    second: Slugnoid_250
+  - first:
+      213: 7310920897419803083
+    second: Slugnoid_251
+  - first:
+      213: 2773237610758534379
+    second: Slugnoid_252
+  - first:
+      213: 398359803380835016
+    second: Slugnoid_253
+  - first:
+      213: 1116854725569991598
+    second: Slugnoid_254
+  - first:
+      213: 9052868227164441311
+    second: Slugnoid_255
+  - first:
+      213: 2661406575105829867
+    second: Slugnoid_256
+  - first:
+      213: 3957339258676434437
+    second: Slugnoid_257
+  - first:
+      213: 1221651345100495654
+    second: Slugnoid_258
+  - first:
+      213: -8879173707113047188
+    second: Slugnoid_259
+  - first:
+      213: -6970355064295865673
+    second: Slugnoid_260
+  - first:
+      213: -8088727443991793402
+    second: Slugnoid_261
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slugnoid_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2195
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9db7546abb6ab10800000000000000
+      internalID: 1992486207962732988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2129
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ac35f106c9dd040800000000000000
+      internalID: 4674063924936821286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2195
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be55b609bacd6e00800000000000000
+      internalID: 1039709985022762678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2129
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566883a4e9f68e20800000000000000
+      internalID: 3352641733015397979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7293e9165efa62e80800000000000000
+      internalID: -8203676271488648921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafdb72e20e432c20800000000000000
+      internalID: 3180471536150372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4f270c28565940800000000000000
+      internalID: 5284508158888202045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b747dc8e262514df0800000000000000
+      internalID: -197786323861539717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6f73f71e40cb510800000000000000
+      internalID: 1566132136966616750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2195
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f591c60c82a6e130800000000000000
+      internalID: 3595740074794391026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2154
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14097237dad2f3610800000000000000
+      internalID: 1603050215351750721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31506cfcbd4630df0800000000000000
+      internalID: -215217461937175277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0706f1976b99f0800000000000000
+      internalID: -460660660279768132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c543a96f8e2e47a0800000000000000
+      internalID: -6391119627704646208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1997
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dc76f1b0a489f20800000000000000
+      internalID: 3429572527874624777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630cc1119eaadf070800000000000000
+      internalID: 8141851619346923574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1997
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0eaea9e840d7920800000000000000
+      internalID: 2989550738174828775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb577f060ed2180800000000000000
+      internalID: -9138401361791697134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1997
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cc8fe768e63ee0800000000000000
+      internalID: -1281581510842072672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c1bac7d6e1f6b0800000000000000
+      internalID: -5264172674926394359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3c1621e3424720800000000000000
+      internalID: 2828898150228180687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b0c3f3bf52c7650800000000000000
+      internalID: 6231897745401842460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2063
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d314579907bc30800000000000000
+      internalID: 4374976108569022911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1997
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b62f34e8cb60c410800000000000000
+      internalID: 1495313586853979832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2023
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20b8928d344697e0800000000000000
+      internalID: -1759143573466861526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1979
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab45ea18fbd69bf0800000000000000
+      internalID: -317824865033434203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1979
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aaa0cd2034d9a60800000000000000
+      internalID: 7682370218924616248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1979
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ebd89b5940f6a90800000000000000
+      internalID: -7318625828344054159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1979
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767689b86c26ad040800000000000000
+      internalID: 4673156168235378535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1979
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2088008162295820800000000000000
+      internalID: 2907392836599578668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1979
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6df65040b4d2210800000000000000
+      internalID: 1309785547277850322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1963
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c8d66da51ea640800000000000000
+      internalID: 5093032063101616354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1963
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff89a5123311fc0800000000000000
+      internalID: -3525980814907474027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1913
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f85c547e426b3650800000000000000
+      internalID: 6213668199986911472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1929
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b620a704b437080800000000000000
+      internalID: -9190919674236081371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1929
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ae32c20f5a51e0800000000000000
+      internalID: -2208348201818349053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1929
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692cd8168ce60590800000000000000
+      internalID: -7708213651511170717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1929
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf7add0fbc50ffd0800000000000000
+      internalID: -2310244633200132146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1879
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79852039be176a0800000000000000
+      internalID: -6453117774413129730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1813
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8fa85a616e5c60800000000000000
+      internalID: 7808785913289346043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1813
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfe44e2642e72a80800000000000000
+      internalID: -8491569781331922994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1879
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ec331f8ff95a50800000000000000
+      internalID: 6510515726308925630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1879
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263c129d6d5dd380800000000000000
+      internalID: -8944890559703796187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2beb175d6f6abb80800000000000000
+      internalID: -8378261641365820630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba409fce186db1fa0800000000000000
+      internalID: -5828829439186107221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1879
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e7bf0abc5cd550800000000000000
+      internalID: 6186921942297601093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1813
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157abca3f0820180800000000000000
+      internalID: -9150609708800117474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1813
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dde5ecdd2ed3c5e0800000000000000
+      internalID: -1890423130004525615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1813
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2219cdd61a10f620800000000000000
+      internalID: 2805771253364363818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1813
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e704e758dccd80800000000000000
+      internalID: -8228964547113262242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1835
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798ca7a8e47eab400800000000000000
+      internalID: 340839046336661655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1747
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa7a32789380a370800000000000000
+      internalID: 8331804001410120435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1681
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5382e0add089a0800000000000000
+      internalID: -6232738201216000065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1747
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3c738a2633b92c0800000000000000
+      internalID: -4423885710139341877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1681
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211daca75be8d0d60800000000000000
+      internalID: 7858093834931720466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1747
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff37e065e30c1dba0800000000000000
+      internalID: -6065855849127054337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1747
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7727ebd4f0e8f0460800000000000000
+      internalID: 7210137724823433847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1747
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2315c4cd9d2350800000000000000
+      internalID: 5993620147545516870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1747
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d928f307cd6c8cd0800000000000000
+      internalID: -2554546187093399083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_59
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1681
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42af61b63e0db6d0800000000000000
+      internalID: -2973204550926753203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42883a1f096d97710800000000000000
+      internalID: 1691619053071992868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773d0d0e61a636d0800000000000000
+      internalID: -3011041806813153410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d33bdc67e5758a0800000000000000
+      internalID: -6316476088013603574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_63
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1707
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab546c24ba885c0800000000000000
+      internalID: -4212929148122449197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_64
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1696
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b669420d05db50800000000000000
+      internalID: 6617209530963375190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1697
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015fc6544c162cb50800000000000000
+      internalID: 6611954698539562256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1696
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791f9a7fd6fbddd0800000000000000
+      internalID: -2460101331732457100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1615
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a992b7bef8e4a550800000000000000
+      internalID: 6171313570105694633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1549
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a38d62292f94bc0800000000000000
+      internalID: -3798238101179450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1615
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3624e7b37d795b280800000000000000
+      internalID: -9028142927322398109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1549
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529f62569cff8e20800000000000000
+      internalID: 3355177969972646482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_71
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1615
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee2f992e150c990800000000000000
+      internalID: -7367798956690837846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1615
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf82584bdbd84c0800000000000000
+      internalID: -4283559087533655212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1615
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e7211b3bd0eb80800000000000000
+      internalID: -8367447060917000019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_74
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1615
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3451d79419efd60800000000000000
+      internalID: 7925932139035837377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1549
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1cf51f068cf0b50800000000000000
+      internalID: 6561683500794102196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1549
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d35fc03c930ef90800000000000000
+      internalID: -6926472716997018309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1549
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21f3d4c2d8c7500800000000000000
+      internalID: 395346088715817708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1549
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228fe8d509333f6d0800000000000000
+      internalID: -2957963835114325982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_79
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1573
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba3db60d9c64240800000000000000
+      internalID: 4775726351872404428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_80
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1562
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a143dd295d5cdca40800000000000000
+      internalID: 5390181850115027994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1563
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16939f7c939e360800000000000000
+      internalID: 7199349010371011063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1562
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beae56d605480640800000000000000
+      internalID: 5046359278137290424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1499
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef61095a9faa3ee0800000000000000
+      internalID: -1280518066580394005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1499
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c27181474764de0800000000000000
+      internalID: -1349262996381684612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1499
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d90373ad17bf090800000000000000
+      internalID: -7999675131050812068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1499
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae949cff44f63390800000000000000
+      internalID: -7838809477014577491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_87
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1520
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981278ac01d3f960800000000000000
+      internalID: 7634675645618985115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_88
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1520
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32628021e54c7d40800000000000000
+      internalID: 5583414471247946303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1520
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0c520c0ea8c550800000000000000
+      internalID: 6181381855168433429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1417
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096435d736e6f9470800000000000000
+      internalID: 8403556803280062096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df985eb2b32ddd910800000000000000
+      internalID: 1863876972382620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1351
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2199466b9320b430800000000000000
+      internalID: 3796573636216328493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1417
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3e0c3399c98bcb0800000000000000
+      internalID: -4847952817052130327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9376957aca0b801c0800000000000000
+      internalID: -4537182368987257031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1417
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ea241f64c97730800000000000000
+      internalID: 3997442125626796319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4530e5841a39710f0800000000000000
+      internalID: -1146285259229363372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1417
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c340813ba995440800000000000000
+      internalID: 4925137761499102330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d403731ce99e64b20800000000000000
+      internalID: 3118436660056371277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1417
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145e1457d74553f0800000000000000
+      internalID: -912744359317842924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_100
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7856d9c7885eacc20800000000000000
+      internalID: 3227644457333384583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1417
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9cc36ebe817200800000000000000
+      internalID: 176078808813444610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_102
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1335
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be02667ea02751860800000000000000
+      internalID: 7500026145612898539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1417
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659deb0db5b97bb30800000000000000
+      internalID: 4303078787622295894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1253
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40427d64909f50600800000000000000
+      internalID: 434026757349647364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_105
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1253
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1da3a38520ec630800000000000000
+      internalID: 3949096501207814561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1253
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be0ae51527aeda0800000000000000
+      internalID: -5914789466792203438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1290
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b19cd3c4f25020800000000000000
+      internalID: 2329193079360304176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_108
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1289
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e40ba510f104980800000000000000
+      internalID: -8556805201327010160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_109
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1290
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f77da53bb177620800000000000000
+      internalID: 2771714552806997859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_110
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1290
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a472aa8889ed690800000000000000
+      internalID: -7575449810452919700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_111
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1289
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a75e9555c2c6b70800000000000000
+      internalID: 8893532109241940623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1219
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f57f9b84e35a770800000000000000
+      internalID: 8621365543749246841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_113
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1219
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42b055dc286455a0800000000000000
+      internalID: -6533482617641061814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_114
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1219
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4bb616b2b57bf10800000000000000
+      internalID: 2285395577789986031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_115
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1203
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e941c8106bc6f4770800000000000000
+      internalID: 8597209742639371422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1203
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b89352df536cb0800000000000000
+      internalID: -4871945014934456380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_117
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1203
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba04fcac49e5c40800000000000000
+      internalID: 5502999393474751415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1153
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26adcc7fb529faa40800000000000000
+      internalID: 5381681003428108898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1103
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35751b9aae28bd380800000000000000
+      internalID: -8945412290460428461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_120
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1153
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c33b231ce62e30800000000000000
+      internalID: 4478526446539882888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1103
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da9b463095934bc0800000000000000
+      internalID: -3800029213951812905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1153
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992c75a40453523d0800000000000000
+      internalID: -3232118607327018343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1103
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52331d905b36cd80800000000000000
+      internalID: -8230826051554299298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_124
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1153
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3819b7f1b7ab16030800000000000000
+      internalID: 3486272624533410179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_125
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1153
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fd35b579553fd10800000000000000
+      internalID: 2158162755001245525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1069
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c598f7d0635e300800000000000000
+      internalID: 280689983382707320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_127
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1069
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6211e761273f30800000000000000
+      internalID: 4555146278149975298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_128
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1103
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815069593fdbc8990800000000000000
+      internalID: -7382316835282746088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_129
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1069
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce49b5046099930800000000000000
+      internalID: 4150355405082782748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1077
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ab61548c6dd690800000000000000
+      internalID: -7575779682609813073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_131
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1077
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83000c1c659802c30800000000000000
+      internalID: 4332613847241195576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_132
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1077
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ff4f36f7145cc90800000000000000
+      internalID: -7150236817987141781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1003
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f43c6ce0fe39f7d0800000000000000
+      internalID: -2884204881874504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_134
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1003
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7175158978ee20800000000000000
+      internalID: 3380085132838927404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1003
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a21ab92612efb0800000000000000
+      internalID: -4620105899257454445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_136
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1003
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0cfe53cc80742c0800000000000000
+      internalID: -4447576433833819982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_137
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1069
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2050e4324f50d660800000000000000
+      internalID: 7408526124984061995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_138
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1003
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22805894174ad8ea0800000000000000
+      internalID: -5868853932922173406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_139
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1003
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f469f81e9ade4c0800000000000000
+      internalID: -4256559286553522381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1025
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852cc22a6090bef80800000000000000
+      internalID: -8076351582663556520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 937
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27fde1b2251dadc0800000000000000
+      internalID: -3626218886205147350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_142
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 937
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e93d5aea0db03280800000000000000
+      internalID: -9065538195317507612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_143
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 937
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156bc90c47762b750800000000000000
+      internalID: 6319226978299590225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 937
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc457c941c100cb0800000000000000
+      internalID: -4899885519729242881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 965
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8152cac7f94afbe60800000000000000
+      internalID: 7980278069622220056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 887
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d07333609aa380800000000000000
+      internalID: -8959189752960984691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 837
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e8e2a65942181a0800000000000000
+      internalID: -6809120937457316351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_148
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 887
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c88c1b9c0629720800000000000000
+      internalID: 2851447933466348599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 837
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb36d19bb838f580800000000000000
+      internalID: -8793215894184117282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 887
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e131cfd40d58570800000000000000
+      internalID: 8468403707700256366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 871
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba218f7cea0536f0800000000000000
+      internalID: -705645755745883468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_152
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d518af0dd63aae50800000000000000
+      internalID: 6821324908684383705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1b6ca8630b3530800000000000000
+      internalID: 3835663255740292380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_154
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446efc48702fa9ce0800000000000000
+      internalID: -1397538620238207420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_155
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395dfecb892aa1a0800000000000000
+      internalID: -6797575007112439494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_156
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 871
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a458c520b1baca0800000000000000
+      internalID: -6004675981212300671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_157
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 871
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423be90e123b2d590800000000000000
+      internalID: -7650855858865261788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73a5ccc4acd02d50800000000000000
+      internalID: 6710606045150290810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_159
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8f0c17893678fa0800000000000000
+      internalID: -5798556488821573378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221cd4a55a8b86650800000000000000
+      internalID: 6226429505163870498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_161
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 837
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd8c439e142fe40800000000000000
+      internalID: 5688681749191122805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_162
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d8d73bb41d26a0800000000000000
+      internalID: -6472494295133136895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_163
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb19d003fbd29c0800000000000000
+      internalID: -3950291085027066627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_164
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6173599de2081f760800000000000000
+      internalID: 7489908594001131286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_165
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e44ae3124de5cf0800000000000000
+      internalID: -261538489090945499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cdd2f7c84f6d220800000000000000
+      internalID: 2510462726571940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c27b0c2ed59550800000000000000
+      internalID: 6167079545505760794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_168
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 796
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd5966c71dd40c0800000000000000
+      internalID: -4589782112993420209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d64b0f1a5fa070800000000000000
+      internalID: 8119807742551971252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892618267b6a5bc10800000000000000
+      internalID: 2068742910408483480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_171
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8ea7d482066b3f0800000000000000
+      internalID: -885414550516864849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_172
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d3e121e57c0ac0800000000000000
+      internalID: -3887602768530911091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d656711c341d6330800000000000000
+      internalID: 3705640316619347671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad9333c84f9ec00800000000000000
+      internalID: 930543681020746323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_175
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5d636429b68610800000000000000
+      internalID: 1623188281651715533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_176
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14e4e4b59f226e0800000000000000
+      internalID: -1863653125226872322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_177
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6222812985f7e8910800000000000000
+      internalID: 1841549316026016294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_178
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea220ee120e7ab80800000000000000
+      internalID: -8383485744995226898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_179
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1416536639ce7910800000000000000
+      internalID: 1837126933445743646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_180
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3796c101474fdb20800000000000000
+      internalID: 3161323807965615934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_181
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202c99b6f2582c20800000000000000
+      internalID: 3181884356366704674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_182
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef471943753fe6150800000000000000
+      internalID: 5867894920379987198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212529a66a41b1f70800000000000000
+      internalID: 9158936972173136402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11bb2d642288a90800000000000000
+      internalID: -7311556307457470033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_185
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d7b1c1114f36a0800000000000000
+      internalID: -6467378995360442322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_186
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e096bc47c67bcb0800000000000000
+      internalID: -4848287224956383692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_187
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ff0ce1b3bd81400800000000000000
+      internalID: 295226822558285653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_188
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 714
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad587d0fbdf45e80800000000000000
+      internalID: -8190642825273516633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_189
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 673
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed875769b5f6ea480800000000000000
+      internalID: -8886042575598421794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122024c185517da0800000000000000
+      internalID: -5948879616950132203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_191
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 673
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0d64a0deb100f0800000000000000
+      internalID: -1152430226309051655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_192
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d10a1aa759e890800000000000000
+      internalID: -7428309722278536936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_193
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d91deeb59b48d0800000000000000
+      internalID: -2861028491009601347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_194
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8642fffd7d728af0800000000000000
+      internalID: -395615837136730482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_195
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375afd7b134b3280800000000000000
+      internalID: -9062576039796254919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_196
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af2bf6cc265fd2f0800000000000000
+      internalID: -945942646407614557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_197
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6a7461a95d56b0800000000000000
+      internalID: -5305986236262224505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584285575af60df0800000000000000
+      internalID: -214208679249819554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_199
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f1ab09e72b79ef0800000000000000
+      internalID: -101416209928806568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_200
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 619
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c7d9006ac0d8a0800000000000000
+      internalID: -6282298966351035429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_201
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 565
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5758449fe631a2630800000000000000
+      internalID: 3902953394419303797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 522
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526b31f336371600800000000000000
+      internalID: 438879085410345553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_203
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 565
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faea63b7ef0a4f80800000000000000
+      internalID: -8121661490187277578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e32d14c83465070800000000000000
+      internalID: 8094731649923825194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 522
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38dc364ec4842b00800000000000000
+      internalID: 802912655055312958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_206
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 480
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a8d24ef0c9c2c0800000000000000
+      internalID: -4410782161756970575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_207
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 522
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4370f61fc9ced70800000000000000
+      internalID: 9073799910008501477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 522
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb5ea7628b655f0800000000000000
+      internalID: -768224211009946878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9184bc6d85ba53b70800000000000000
+      internalID: 8878190638479919129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_210
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 522
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5109fba64359643c0800000000000000
+      internalID: -4375645935582081003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_211
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 522
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3d1e6939656cb0800000000000000
+      internalID: -4871371726549860797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_212
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 522
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3615264083f190800000000000000
+      internalID: -7929853480111031508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 522
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3e4cfeb1f8a500800000000000000
+      internalID: 407841568856096505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_214
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9206960c6604c0800000000000000
+      internalID: -4321648016873055356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_215
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 438
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e67b5a22b3bb54d0800000000000000
+      internalID: -3144722336991971607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_216
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 480
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ef4744ff5b5090800000000000000
+      internalID: -8044730806594182388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_217
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 480
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b0a556fca1db30800000000000000
+      internalID: 4310416492368803067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_218
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 480
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1c0527b6299420800000000000000
+      internalID: 2637181624844557265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_219
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 480
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971f323705696df0800000000000000
+      internalID: -186506827976992880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_220
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321435169394d8900800000000000000
+      internalID: 688286828852363555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a0ecc07652961d0800000000000000
+      internalID: -3357110922701305190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_222
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 396
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e6cc1a32b6ada10800000000000000
+      internalID: 1934976790691606163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_223
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 438
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c341bad38f4be0800000000000000
+      internalID: -1490827976336226709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 438
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef751f6ce22c51a80800000000000000
+      internalID: -8496671615802583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_225
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 438
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3087c5216cd11bc0800000000000000
+      internalID: -3814025099602329540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_226
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 438
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7febdbbedefaf60800000000000000
+      internalID: 8047912655890872307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_227
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 438
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba242a8b4b46130800000000000000
+      internalID: 3559168310618794801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_228
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 438
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a2a27c05e5fcd0800000000000000
+      internalID: -2524860174445664015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_229
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a2d71f03aa4490800000000000000
+      internalID: -7761211722600109968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_230
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 396
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c936f069201360800000000000000
+      internalID: 7138250905806817530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_231
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d776e27c394f0160800000000000000
+      internalID: 6993889270304241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_232
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 396
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1935331e4c15fa10800000000000000
+      internalID: 1942489935935519006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_233
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 396
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e268e01b1d3b5b0800000000000000
+      internalID: -5353704973630296537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_234
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 396
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629bd39247d9fd280800000000000000
+      internalID: -9016314806738765530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_235
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 396
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b1b8fe10e64280800000000000000
+      internalID: -9059307176783137771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_236
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 344
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216fe07da246e7bd0800000000000000
+      internalID: -2630554997178305006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_237
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 344
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24d693fd73b1780800000000000000
+      internalID: -8711307622337396004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_238
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 348
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce89b8a8607e0b0800000000000000
+      internalID: -5699579611296764789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_239
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 345
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73da62cda2c9bb0800000000000000
+      internalID: -4928016767220107280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_240
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579627a661e02c30800000000000000
+      internalID: 4332710672537655133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_241
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 340
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be80e3378139fd10800000000000000
+      internalID: 2159811953061564084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_242
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 343
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6ec100fb933cc0800000000000000
+      internalID: -3732468211035247539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_243
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 354
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52914430bee9d730800000000000000
+      internalID: 4024510182590616158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_244
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 346
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306cae7f61c5b240800000000000000
+      internalID: 4806960861898629178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_245
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 335
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e45bb4251917f10800000000000000
+      internalID: 2265751870187589262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_246
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d27c54aeff70d510800000000000000
+      internalID: 1571897001608245977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_247
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 298
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13427e931be68c8e0800000000000000
+      internalID: -1672965554108423119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_248
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 307
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c86f3a59c32d900800000000000000
+      internalID: 707694704849226767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_249
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 281
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644acd5b90b86b2d0800000000000000
+      internalID: -3263268006161243066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_250
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 298
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb91ababf2dc030800000000000000
+      internalID: 3516519363078896757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_251
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 307
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9ffaf32db957560800000000000000
+      internalID: 7310920897419803083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_252
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f30be9e48c7620800000000000000
+      internalID: 2773237610758534379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_253
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 298
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22f4d6122478500800000000000000
+      internalID: 398359803380835016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_254
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 307
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d05f947ddf7f00800000000000000
+      internalID: 1116854725569991598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_255
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 288
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8e8e30bf32ad70800000000000000
+      internalID: 9052868227164441311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_256
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 278
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb6218ed273fe420800000000000000
+      internalID: 2661406575105829867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_257
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506dd11c61b4be630800000000000000
+      internalID: 3957339258676434437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_258
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 278
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd7100d6d24f010800000000000000
+      internalID: 1221651345100495654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_259
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bd988ae86d6c480800000000000000
+      internalID: -8879173707113047188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_260
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 278
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2cc42eff2544f90800000000000000
+      internalID: -6970355064295865673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugnoid_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 466
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017aefde311fbf80800000000000000
+      internalID: -8088727443991793402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slugnoid_0: 1992486207962732988
+      Slugnoid_1: 4674063924936821286
+      Slugnoid_10: 1603050215351750721
+      Slugnoid_100: 3227644457333384583
+      Slugnoid_101: 176078808813444610
+      Slugnoid_102: 7500026145612898539
+      Slugnoid_103: 4303078787622295894
+      Slugnoid_104: 434026757349647364
+      Slugnoid_105: 3949096501207814561
+      Slugnoid_106: -5914789466792203438
+      Slugnoid_107: 2329193079360304176
+      Slugnoid_108: -8556805201327010160
+      Slugnoid_109: 2771714552806997859
+      Slugnoid_11: -215217461937175277
+      Slugnoid_110: -7575449810452919700
+      Slugnoid_111: 8893532109241940623
+      Slugnoid_112: 8621365543749246841
+      Slugnoid_113: -6533482617641061814
+      Slugnoid_114: 2285395577789986031
+      Slugnoid_115: 8597209742639371422
+      Slugnoid_116: -4871945014934456380
+      Slugnoid_117: 5502999393474751415
+      Slugnoid_118: 5381681003428108898
+      Slugnoid_119: -8945412290460428461
+      Slugnoid_12: -460660660279768132
+      Slugnoid_120: 4478526446539882888
+      Slugnoid_121: -3800029213951812905
+      Slugnoid_122: -3232118607327018343
+      Slugnoid_123: -8230826051554299298
+      Slugnoid_124: 3486272624533410179
+      Slugnoid_125: 2158162755001245525
+      Slugnoid_126: 280689983382707320
+      Slugnoid_127: 4555146278149975298
+      Slugnoid_128: -7382316835282746088
+      Slugnoid_129: 4150355405082782748
+      Slugnoid_13: -6391119627704646208
+      Slugnoid_130: -7575779682609813073
+      Slugnoid_131: 4332613847241195576
+      Slugnoid_132: -7150236817987141781
+      Slugnoid_133: -2884204881874504463
+      Slugnoid_134: 3380085132838927404
+      Slugnoid_135: -4620105899257454445
+      Slugnoid_136: -4447576433833819982
+      Slugnoid_137: 7408526124984061995
+      Slugnoid_138: -5868853932922173406
+      Slugnoid_139: -4256559286553522381
+      Slugnoid_14: 3429572527874624777
+      Slugnoid_140: -8076351582663556520
+      Slugnoid_141: -3626218886205147350
+      Slugnoid_142: -9065538195317507612
+      Slugnoid_143: 6319226978299590225
+      Slugnoid_144: -4899885519729242881
+      Slugnoid_145: 7980278069622220056
+      Slugnoid_146: -8959189752960984691
+      Slugnoid_147: -6809120937457316351
+      Slugnoid_148: 2851447933466348599
+      Slugnoid_149: -8793215894184117282
+      Slugnoid_15: 8141851619346923574
+      Slugnoid_150: 8468403707700256366
+      Slugnoid_151: -705645755745883468
+      Slugnoid_152: 6821324908684383705
+      Slugnoid_153: 3835663255740292380
+      Slugnoid_154: -1397538620238207420
+      Slugnoid_155: -6797575007112439494
+      Slugnoid_156: -6004675981212300671
+      Slugnoid_157: -7650855858865261788
+      Slugnoid_158: 6710606045150290810
+      Slugnoid_159: -5798556488821573378
+      Slugnoid_16: 2989550738174828775
+      Slugnoid_160: 6226429505163870498
+      Slugnoid_161: 5688681749191122805
+      Slugnoid_162: -6472494295133136895
+      Slugnoid_163: -3950291085027066627
+      Slugnoid_164: 7489908594001131286
+      Slugnoid_165: -261538489090945499
+      Slugnoid_166: 2510462726571940966
+      Slugnoid_167: 6167079545505760794
+      Slugnoid_168: -4589782112993420209
+      Slugnoid_169: 8119807742551971252
+      Slugnoid_17: -9138401361791697134
+      Slugnoid_170: 2068742910408483480
+      Slugnoid_171: -885414550516864849
+      Slugnoid_172: -3887602768530911091
+      Slugnoid_173: 3705640316619347671
+      Slugnoid_174: 930543681020746323
+      Slugnoid_175: 1623188281651715533
+      Slugnoid_176: -1863653125226872322
+      Slugnoid_177: 1841549316026016294
+      Slugnoid_178: -8383485744995226898
+      Slugnoid_179: 1837126933445743646
+      Slugnoid_18: -1281581510842072672
+      Slugnoid_180: 3161323807965615934
+      Slugnoid_181: 3181884356366704674
+      Slugnoid_182: 5867894920379987198
+      Slugnoid_183: 9158936972173136402
+      Slugnoid_184: -7311556307457470033
+      Slugnoid_185: -6467378995360442322
+      Slugnoid_186: -4848287224956383692
+      Slugnoid_187: 295226822558285653
+      Slugnoid_188: -8190642825273516633
+      Slugnoid_189: -8886042575598421794
+      Slugnoid_19: -5264172674926394359
+      Slugnoid_190: -5948879616950132203
+      Slugnoid_191: -1152430226309051655
+      Slugnoid_192: -7428309722278536936
+      Slugnoid_193: -2861028491009601347
+      Slugnoid_194: -395615837136730482
+      Slugnoid_195: -9062576039796254919
+      Slugnoid_196: -945942646407614557
+      Slugnoid_197: -5305986236262224505
+      Slugnoid_198: -214208679249819554
+      Slugnoid_199: -101416209928806568
+      Slugnoid_2: 1039709985022762678
+      Slugnoid_20: 2828898150228180687
+      Slugnoid_200: -6282298966351035429
+      Slugnoid_201: 3902953394419303797
+      Slugnoid_202: 438879085410345553
+      Slugnoid_203: -8121661490187277578
+      Slugnoid_204: 8094731649923825194
+      Slugnoid_205: 802912655055312958
+      Slugnoid_206: -4410782161756970575
+      Slugnoid_207: 9073799910008501477
+      Slugnoid_208: -768224211009946878
+      Slugnoid_209: 8878190638479919129
+      Slugnoid_21: 6231897745401842460
+      Slugnoid_210: -4375645935582081003
+      Slugnoid_211: -4871371726549860797
+      Slugnoid_212: -7929853480111031508
+      Slugnoid_213: 407841568856096505
+      Slugnoid_214: -4321648016873055356
+      Slugnoid_215: -3144722336991971607
+      Slugnoid_216: -8044730806594182388
+      Slugnoid_217: 4310416492368803067
+      Slugnoid_218: 2637181624844557265
+      Slugnoid_219: -186506827976992880
+      Slugnoid_22: 4374976108569022911
+      Slugnoid_220: 688286828852363555
+      Slugnoid_221: -3357110922701305190
+      Slugnoid_222: 1934976790691606163
+      Slugnoid_223: -1490827976336226709
+      Slugnoid_224: -8496671615802583042
+      Slugnoid_225: -3814025099602329540
+      Slugnoid_226: 8047912655890872307
+      Slugnoid_227: 3559168310618794801
+      Slugnoid_228: -2524860174445664015
+      Slugnoid_229: -7761211722600109968
+      Slugnoid_23: 1495313586853979832
+      Slugnoid_230: 7138250905806817530
+      Slugnoid_231: 6993889270304241621
+      Slugnoid_232: 1942489935935519006
+      Slugnoid_233: -5353704973630296537
+      Slugnoid_234: -9016314806738765530
+      Slugnoid_235: -9059307176783137771
+      Slugnoid_236: -2630554997178305006
+      Slugnoid_237: -8711307622337396004
+      Slugnoid_238: -5699579611296764789
+      Slugnoid_239: -4928016767220107280
+      Slugnoid_24: -1759143573466861526
+      Slugnoid_240: 4332710672537655133
+      Slugnoid_241: 2159811953061564084
+      Slugnoid_242: -3732468211035247539
+      Slugnoid_243: 4024510182590616158
+      Slugnoid_244: 4806960861898629178
+      Slugnoid_245: 2265751870187589262
+      Slugnoid_246: 1571897001608245977
+      Slugnoid_247: -1672965554108423119
+      Slugnoid_248: 707694704849226767
+      Slugnoid_249: -3263268006161243066
+      Slugnoid_25: -317824865033434203
+      Slugnoid_250: 3516519363078896757
+      Slugnoid_251: 7310920897419803083
+      Slugnoid_252: 2773237610758534379
+      Slugnoid_253: 398359803380835016
+      Slugnoid_254: 1116854725569991598
+      Slugnoid_255: 9052868227164441311
+      Slugnoid_256: 2661406575105829867
+      Slugnoid_257: 3957339258676434437
+      Slugnoid_258: 1221651345100495654
+      Slugnoid_259: -8879173707113047188
+      Slugnoid_26: 7682370218924616248
+      Slugnoid_260: -6970355064295865673
+      Slugnoid_261: -8088727443991793402
+      Slugnoid_27: -7318625828344054159
+      Slugnoid_28: 4673156168235378535
+      Slugnoid_29: 2907392836599578668
+      Slugnoid_3: 3352641733015397979
+      Slugnoid_30: 1309785547277850322
+      Slugnoid_31: 5093032063101616354
+      Slugnoid_32: -3525980814907474027
+      Slugnoid_33: 6213668199986911472
+      Slugnoid_34: -9190919674236081371
+      Slugnoid_35: -2208348201818349053
+      Slugnoid_36: -7708213651511170717
+      Slugnoid_37: -2310244633200132146
+      Slugnoid_38: -6453117774413129730
+      Slugnoid_39: 7808785913289346043
+      Slugnoid_4: -8203676271488648921
+      Slugnoid_40: -8491569781331922994
+      Slugnoid_41: 6510515726308925630
+      Slugnoid_42: -8944890559703796187
+      Slugnoid_43: -8378261641365820630
+      Slugnoid_44: -5828829439186107221
+      Slugnoid_45: 6186921942297601093
+      Slugnoid_46: -9150609708800117474
+      Slugnoid_47: -1890423130004525615
+      Slugnoid_48: 2805771253364363818
+      Slugnoid_49: -8228964547113262242
+      Slugnoid_5: 3180471536150372266
+      Slugnoid_50: 340839046336661655
+      Slugnoid_51: 8331804001410120435
+      Slugnoid_52: -6232738201216000065
+      Slugnoid_53: -4423885710139341877
+      Slugnoid_54: 7858093834931720466
+      Slugnoid_55: -6065855849127054337
+      Slugnoid_56: 7210137724823433847
+      Slugnoid_57: 5993620147545516870
+      Slugnoid_58: -2554546187093399083
+      Slugnoid_59: -2973204550926753203
+      Slugnoid_6: 5284508158888202045
+      Slugnoid_60: 1691619053071992868
+      Slugnoid_61: -3011041806813153410
+      Slugnoid_62: -6316476088013603574
+      Slugnoid_63: -4212929148122449197
+      Slugnoid_64: 6617209530963375190
+      Slugnoid_65: 6611954698539562256
+      Slugnoid_66: -2460101331732457100
+      Slugnoid_67: 6171313570105694633
+      Slugnoid_68: -3798238101179450796
+      Slugnoid_69: -9028142927322398109
+      Slugnoid_7: -197786323861539717
+      Slugnoid_70: 3355177969972646482
+      Slugnoid_71: -7367798956690837846
+      Slugnoid_72: -4283559087533655212
+      Slugnoid_73: -8367447060917000019
+      Slugnoid_74: 7925932139035837377
+      Slugnoid_75: 6561683500794102196
+      Slugnoid_76: -6926472716997018309
+      Slugnoid_77: 395346088715817708
+      Slugnoid_78: -2957963835114325982
+      Slugnoid_79: 4775726351872404428
+      Slugnoid_8: 1566132136966616750
+      Slugnoid_80: 5390181850115027994
+      Slugnoid_81: 7199349010371011063
+      Slugnoid_82: 5046359278137290424
+      Slugnoid_83: -1280518066580394005
+      Slugnoid_84: -1349262996381684612
+      Slugnoid_85: -7999675131050812068
+      Slugnoid_86: -7838809477014577491
+      Slugnoid_87: 7634675645618985115
+      Slugnoid_88: 5583414471247946303
+      Slugnoid_89: 6181381855168433429
+      Slugnoid_9: 3595740074794391026
+      Slugnoid_90: 8403556803280062096
+      Slugnoid_91: 1863876972382620157
+      Slugnoid_92: 3796573636216328493
+      Slugnoid_93: -4847952817052130327
+      Slugnoid_94: -4537182368987257031
+      Slugnoid_95: 3997442125626796319
+      Slugnoid_96: -1146285259229363372
+      Slugnoid_97: 4925137761499102330
+      Slugnoid_98: 3118436660056371277
+      Slugnoid_99: -912744359317842924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
