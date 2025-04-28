@@ -1,0 +1,5655 @@
+fileFormatVersion: 2
+guid: e99ad86aa2a4ea44fb0c5b3bb959159a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1193603217483900543
+    second: Bradley Ptolemaic_0
+  - first:
+      213: 1907423033138834494
+    second: Bradley Ptolemaic_1
+  - first:
+      213: -6226092529033853369
+    second: Bradley Ptolemaic_2
+  - first:
+      213: 4009078095846500503
+    second: Bradley Ptolemaic_3
+  - first:
+      213: 5998633006559397875
+    second: Bradley Ptolemaic_4
+  - first:
+      213: -4008119145528683184
+    second: Bradley Ptolemaic_5
+  - first:
+      213: -747449413839736321
+    second: Bradley Ptolemaic_6
+  - first:
+      213: -5204225403424813933
+    second: Bradley Ptolemaic_7
+  - first:
+      213: 7688348142257258039
+    second: Bradley Ptolemaic_8
+  - first:
+      213: 540869111209784251
+    second: Bradley Ptolemaic_9
+  - first:
+      213: 1317854990106561918
+    second: Bradley Ptolemaic_10
+  - first:
+      213: -1468477356317483684
+    second: Bradley Ptolemaic_11
+  - first:
+      213: -3519723443738207419
+    second: Bradley Ptolemaic_12
+  - first:
+      213: -4587111167336273077
+    second: Bradley Ptolemaic_13
+  - first:
+      213: 379629322614760732
+    second: Bradley Ptolemaic_14
+  - first:
+      213: 4947848256629624442
+    second: Bradley Ptolemaic_15
+  - first:
+      213: 8511421935394022374
+    second: Bradley Ptolemaic_16
+  - first:
+      213: 5008182032297180176
+    second: Bradley Ptolemaic_17
+  - first:
+      213: 7347569908788053091
+    second: Bradley Ptolemaic_18
+  - first:
+      213: 195674419347304623
+    second: Bradley Ptolemaic_19
+  - first:
+      213: -1791083968125376363
+    second: Bradley Ptolemaic_20
+  - first:
+      213: 9018098437199716029
+    second: Bradley Ptolemaic_21
+  - first:
+      213: 3023225121144811300
+    second: Bradley Ptolemaic_22
+  - first:
+      213: 2337543574332313750
+    second: Bradley Ptolemaic_23
+  - first:
+      213: 2747563916369742481
+    second: Bradley Ptolemaic_24
+  - first:
+      213: -849053765520080561
+    second: Bradley Ptolemaic_25
+  - first:
+      213: 3618018571991442458
+    second: Bradley Ptolemaic_26
+  - first:
+      213: 8248979623965593460
+    second: Bradley Ptolemaic_27
+  - first:
+      213: 315348984504018785
+    second: Bradley Ptolemaic_28
+  - first:
+      213: 5825176341303307159
+    second: Bradley Ptolemaic_29
+  - first:
+      213: -8722924397585561280
+    second: Bradley Ptolemaic_30
+  - first:
+      213: -6382757228130221975
+    second: Bradley Ptolemaic_31
+  - first:
+      213: -7626655922165328553
+    second: Bradley Ptolemaic_32
+  - first:
+      213: 30674138945412259
+    second: Bradley Ptolemaic_33
+  - first:
+      213: 4147254814890490421
+    second: Bradley Ptolemaic_34
+  - first:
+      213: -3382821832814369969
+    second: Bradley Ptolemaic_35
+  - first:
+      213: 5782071612501798164
+    second: Bradley Ptolemaic_36
+  - first:
+      213: -1172495914907099506
+    second: Bradley Ptolemaic_37
+  - first:
+      213: 8502835395225618514
+    second: Bradley Ptolemaic_38
+  - first:
+      213: -1010636900028406570
+    second: Bradley Ptolemaic_39
+  - first:
+      213: 1301991815641070209
+    second: Bradley Ptolemaic_40
+  - first:
+      213: 1988777774283555041
+    second: Bradley Ptolemaic_41
+  - first:
+      213: -8622748239284504789
+    second: Bradley Ptolemaic_42
+  - first:
+      213: 2079112485628945058
+    second: Bradley Ptolemaic_43
+  - first:
+      213: -7342347540435366928
+    second: Bradley Ptolemaic_44
+  - first:
+      213: 3925467898718028099
+    second: Bradley Ptolemaic_45
+  - first:
+      213: 1918485808518807088
+    second: Bradley Ptolemaic_46
+  - first:
+      213: 2557840338189922903
+    second: Bradley Ptolemaic_47
+  - first:
+      213: -2513817682298241621
+    second: Bradley Ptolemaic_48
+  - first:
+      213: -8116680871646718278
+    second: Bradley Ptolemaic_49
+  - first:
+      213: -8623690403711218367
+    second: Bradley Ptolemaic_50
+  - first:
+      213: -4315748596909582548
+    second: Bradley Ptolemaic_51
+  - first:
+      213: 6072668309560058547
+    second: Bradley Ptolemaic_52
+  - first:
+      213: 8162352081905218320
+    second: Bradley Ptolemaic_53
+  - first:
+      213: 7689862014122715110
+    second: Bradley Ptolemaic_54
+  - first:
+      213: 3678090182647555679
+    second: Bradley Ptolemaic_55
+  - first:
+      213: -6781701130012095864
+    second: Bradley Ptolemaic_56
+  - first:
+      213: -2981309583582328050
+    second: Bradley Ptolemaic_57
+  - first:
+      213: -4426176806548348321
+    second: Bradley Ptolemaic_58
+  - first:
+      213: 5871707169696042583
+    second: Bradley Ptolemaic_59
+  - first:
+      213: -7479921240459789386
+    second: Bradley Ptolemaic_60
+  - first:
+      213: 328148929162691641
+    second: Bradley Ptolemaic_61
+  - first:
+      213: -125432485700648047
+    second: Bradley Ptolemaic_62
+  - first:
+      213: 2729828914718689530
+    second: Bradley Ptolemaic_63
+  - first:
+      213: 2904699279125585918
+    second: Bradley Ptolemaic_64
+  - first:
+      213: -2523834277406207156
+    second: Bradley Ptolemaic_65
+  - first:
+      213: -5255278828779895222
+    second: Bradley Ptolemaic_66
+  - first:
+      213: -4109777914233326050
+    second: Bradley Ptolemaic_67
+  - first:
+      213: 5225501452094312488
+    second: Bradley Ptolemaic_68
+  - first:
+      213: -6029250946286991975
+    second: Bradley Ptolemaic_69
+  - first:
+      213: 4865760979944985445
+    second: Bradley Ptolemaic_70
+  - first:
+      213: -4401230797984581426
+    second: Bradley Ptolemaic_71
+  - first:
+      213: 2812895294600818491
+    second: Bradley Ptolemaic_72
+  - first:
+      213: 5914043549964475079
+    second: Bradley Ptolemaic_73
+  - first:
+      213: 5030645039495346030
+    second: Bradley Ptolemaic_74
+  - first:
+      213: 5976853050606973527
+    second: Bradley Ptolemaic_75
+  - first:
+      213: 257990911604707561
+    second: Bradley Ptolemaic_76
+  - first:
+      213: -3985975711772191741
+    second: Bradley Ptolemaic_77
+  - first:
+      213: 2100419870196842343
+    second: Bradley Ptolemaic_78
+  - first:
+      213: 7662410669004264179
+    second: Bradley Ptolemaic_79
+  - first:
+      213: 6355767955144491001
+    second: Bradley Ptolemaic_80
+  - first:
+      213: -7882632168129989147
+    second: Bradley Ptolemaic_81
+  - first:
+      213: 3715986139151573690
+    second: Bradley Ptolemaic_82
+  - first:
+      213: -619886605313049009
+    second: Bradley Ptolemaic_83
+  - first:
+      213: -5623198334318720392
+    second: Bradley Ptolemaic_84
+  - first:
+      213: -1521650869166731595
+    second: Bradley Ptolemaic_85
+  - first:
+      213: 7602938224657858588
+    second: Bradley Ptolemaic_86
+  - first:
+      213: -391976968388598687
+    second: Bradley Ptolemaic_87
+  - first:
+      213: -6899623350194492875
+    second: Bradley Ptolemaic_88
+  - first:
+      213: -3035158361312070488
+    second: Bradley Ptolemaic_89
+  - first:
+      213: -3550889983810591544
+    second: Bradley Ptolemaic_90
+  - first:
+      213: -4586901025011451617
+    second: Bradley Ptolemaic_91
+  - first:
+      213: 8682749232151059160
+    second: Bradley Ptolemaic_92
+  - first:
+      213: -1983418910096601720
+    second: Bradley Ptolemaic_93
+  - first:
+      213: -3674313901524189097
+    second: Bradley Ptolemaic_94
+  - first:
+      213: 4358404300542291339
+    second: Bradley Ptolemaic_95
+  - first:
+      213: -1280151723172642946
+    second: Bradley Ptolemaic_96
+  - first:
+      213: 3528846441600837035
+    second: Bradley Ptolemaic_97
+  - first:
+      213: -1132184536857929239
+    second: Bradley Ptolemaic_98
+  - first:
+      213: -4382988269870995287
+    second: Bradley Ptolemaic_99
+  - first:
+      213: 2398399536502402002
+    second: Bradley Ptolemaic_100
+  - first:
+      213: 5761913928016116784
+    second: Bradley Ptolemaic_101
+  - first:
+      213: -5887860709410850000
+    second: Bradley Ptolemaic_102
+  - first:
+      213: 2421605170064932717
+    second: Bradley Ptolemaic_103
+  - first:
+      213: 2155497841375891613
+    second: Bradley Ptolemaic_104
+  - first:
+      213: 9168767212455560913
+    second: Bradley Ptolemaic_105
+  - first:
+      213: 6744208265803991739
+    second: Bradley Ptolemaic_106
+  - first:
+      213: -865307801189080435
+    second: Bradley Ptolemaic_107
+  - first:
+      213: 4850938645056433712
+    second: Bradley Ptolemaic_108
+  - first:
+      213: -1672066713107668169
+    second: Bradley Ptolemaic_109
+  - first:
+      213: -1836909237094067148
+    second: Bradley Ptolemaic_110
+  - first:
+      213: -886127824179876201
+    second: Bradley Ptolemaic_111
+  - first:
+      213: 4079224429060788336
+    second: Bradley Ptolemaic_112
+  - first:
+      213: 8395553481533433864
+    second: Bradley Ptolemaic_113
+  - first:
+      213: -9079104515403191798
+    second: Bradley Ptolemaic_114
+  - first:
+      213: -1811597814030439502
+    second: Bradley Ptolemaic_115
+  - first:
+      213: 185126878259410977
+    second: Bradley Ptolemaic_116
+  - first:
+      213: 7443954761011119265
+    second: Bradley Ptolemaic_117
+  - first:
+      213: -2916039025343051568
+    second: Bradley Ptolemaic_118
+  - first:
+      213: -6649554885378795375
+    second: Bradley Ptolemaic_119
+  - first:
+      213: -2906137467851618480
+    second: Bradley Ptolemaic_120
+  - first:
+      213: -5578568069168328499
+    second: Bradley Ptolemaic_121
+  - first:
+      213: 3030028031016500653
+    second: Bradley Ptolemaic_122
+  - first:
+      213: 3418563853922891767
+    second: Bradley Ptolemaic_123
+  - first:
+      213: 3035535722272635840
+    second: Bradley Ptolemaic_124
+  - first:
+      213: -1024717282311699405
+    second: Bradley Ptolemaic_125
+  - first:
+      213: 920730407522531234
+    second: Bradley Ptolemaic_126
+  - first:
+      213: -3977349116553111955
+    second: Bradley Ptolemaic_127
+  - first:
+      213: 6169341913547684743
+    second: Bradley Ptolemaic_128
+  - first:
+      213: 6806327757572054103
+    second: Bradley Ptolemaic_129
+  - first:
+      213: 8249787035087677579
+    second: Bradley Ptolemaic_130
+  - first:
+      213: 3466502591064882919
+    second: Bradley Ptolemaic_131
+  - first:
+      213: 8499516117632499964
+    second: Bradley Ptolemaic_132
+  - first:
+      213: 101631856286497620
+    second: Bradley Ptolemaic_133
+  - first:
+      213: 4681318816578323039
+    second: Bradley Ptolemaic_134
+  - first:
+      213: -8134536344276042746
+    second: Bradley Ptolemaic_135
+  - first:
+      213: 7177750355888990343
+    second: Bradley Ptolemaic_136
+  - first:
+      213: -4830488420543445265
+    second: Bradley Ptolemaic_137
+  - first:
+      213: -3935290330102903149
+    second: Bradley Ptolemaic_138
+  - first:
+      213: -7424127647898253094
+    second: Bradley Ptolemaic_139
+  - first:
+      213: 8389351123316467632
+    second: Bradley Ptolemaic_140
+  - first:
+      213: 1285199200815132592
+    second: Bradley Ptolemaic_141
+  - first:
+      213: -48251098903513870
+    second: Bradley Ptolemaic_142
+  - first:
+      213: 1297015725107038957
+    second: Bradley Ptolemaic_143
+  - first:
+      213: 3081014129965616836
+    second: Bradley Ptolemaic_144
+  - first:
+      213: 5370492056399466909
+    second: Bradley Ptolemaic_145
+  - first:
+      213: 9037091115602053789
+    second: Bradley Ptolemaic_146
+  - first:
+      213: -3153408121424407851
+    second: Bradley Ptolemaic_147
+  - first:
+      213: 980214688617136852
+    second: Bradley Ptolemaic_148
+  - first:
+      213: 3701789177817222713
+    second: Bradley Ptolemaic_149
+  - first:
+      213: -4001423792214326182
+    second: Bradley Ptolemaic_150
+  - first:
+      213: 6383753750947304649
+    second: Bradley Ptolemaic_151
+  - first:
+      213: 4378135221675782701
+    second: Bradley Ptolemaic_152
+  - first:
+      213: 8432334943651084713
+    second: Bradley Ptolemaic_153
+  - first:
+      213: 2981319376744546300
+    second: Bradley Ptolemaic_154
+  - first:
+      213: 2329863171058567226
+    second: Bradley Ptolemaic_155
+  - first:
+      213: 3856899837526443174
+    second: Bradley Ptolemaic_156
+  - first:
+      213: -6427735849766029998
+    second: Bradley Ptolemaic_157
+  - first:
+      213: -2935514122077591718
+    second: Bradley Ptolemaic_158
+  - first:
+      213: 4172774029182966624
+    second: Bradley Ptolemaic_159
+  - first:
+      213: 4294516533386036501
+    second: Bradley Ptolemaic_160
+  - first:
+      213: 2234533718381590194
+    second: Bradley Ptolemaic_161
+  - first:
+      213: 7526347955024746744
+    second: Bradley Ptolemaic_162
+  - first:
+      213: -1899982027191824428
+    second: Bradley Ptolemaic_163
+  - first:
+      213: -2808901699393069500
+    second: Bradley Ptolemaic_164
+  - first:
+      213: 1826330350516103640
+    second: Bradley Ptolemaic_165
+  - first:
+      213: 1481652243577185923
+    second: Bradley Ptolemaic_166
+  - first:
+      213: 5890532991040342965
+    second: Bradley Ptolemaic_167
+  - first:
+      213: -7160385938398294618
+    second: Bradley Ptolemaic_168
+  - first:
+      213: 880189660557461262
+    second: Bradley Ptolemaic_169
+  - first:
+      213: -3296720124816134900
+    second: Bradley Ptolemaic_170
+  - first:
+      213: -8769457062874895703
+    second: Bradley Ptolemaic_171
+  - first:
+      213: 3804745277664402795
+    second: Bradley Ptolemaic_172
+  - first:
+      213: -3145382812710283656
+    second: Bradley Ptolemaic_173
+  - first:
+      213: 3146274742254265117
+    second: Bradley Ptolemaic_174
+  - first:
+      213: -4039866843492015871
+    second: Bradley Ptolemaic_175
+  - first:
+      213: -1098048278781021489
+    second: Bradley Ptolemaic_176
+  - first:
+      213: 4372984584752577055
+    second: Bradley Ptolemaic_177
+  - first:
+      213: 652388829643552323
+    second: Bradley Ptolemaic_178
+  - first:
+      213: 159703517731196494
+    second: Bradley Ptolemaic_179
+  - first:
+      213: 6259113789161973239
+    second: Bradley Ptolemaic_180
+  - first:
+      213: -7225346775104776161
+    second: Bradley Ptolemaic_181
+  - first:
+      213: 3856964965159212969
+    second: Bradley Ptolemaic_182
+  - first:
+      213: -855133789707119050
+    second: Bradley Ptolemaic_183
+  - first:
+      213: 352954094964335432
+    second: Bradley Ptolemaic_184
+  - first:
+      213: 5667018692068697498
+    second: Bradley Ptolemaic_185
+  - first:
+      213: 741864185395071243
+    second: Bradley Ptolemaic_186
+  - first:
+      213: 236523929000897011
+    second: Bradley Ptolemaic_187
+  - first:
+      213: -7492860438616835243
+    second: Bradley Ptolemaic_188
+  - first:
+      213: -8954083918669981153
+    second: Bradley Ptolemaic_189
+  - first:
+      213: 1981956176613619335
+    second: Bradley Ptolemaic_190
+  - first:
+      213: -1347827259036452568
+    second: Bradley Ptolemaic_191
+  - first:
+      213: -5744603967538650927
+    second: Bradley Ptolemaic_192
+  - first:
+      213: -7218032116356033363
+    second: Bradley Ptolemaic_193
+  - first:
+      213: -3740755925840411808
+    second: Bradley Ptolemaic_194
+  - first:
+      213: -4898903131087816134
+    second: Bradley Ptolemaic_195
+  - first:
+      213: -3146431456989775839
+    second: Bradley Ptolemaic_196
+  - first:
+      213: 2836054972001186762
+    second: Bradley Ptolemaic_197
+  - first:
+      213: 4912072730334454079
+    second: Bradley Ptolemaic_198
+  - first:
+      213: 3242403548559173622
+    second: Bradley Ptolemaic_199
+  - first:
+      213: -8144620611551644127
+    second: Bradley Ptolemaic_200
+  - first:
+      213: 5238437088932847394
+    second: Bradley Ptolemaic_201
+  - first:
+      213: 8908637503738148078
+    second: Bradley Ptolemaic_202
+  - first:
+      213: -725808647758472909
+    second: Bradley Ptolemaic_203
+  - first:
+      213: 5108329506428251424
+    second: Bradley Ptolemaic_204
+  - first:
+      213: 4986449516548358036
+    second: Bradley Ptolemaic_205
+  - first:
+      213: 4218322708949443105
+    second: Bradley Ptolemaic_206
+  - first:
+      213: 2053835100780173960
+    second: Bradley Ptolemaic_207
+  - first:
+      213: 294100740594904518
+    second: Bradley Ptolemaic_208
+  - first:
+      213: 193002514075189777
+    second: Bradley Ptolemaic_209
+  - first:
+      213: -5596627750162914882
+    second: Bradley Ptolemaic_210
+  - first:
+      213: 9138883371969156679
+    second: Bradley Ptolemaic_211
+  - first:
+      213: 5840947042872233173
+    second: Bradley Ptolemaic_212
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1302
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189db1b92387f6fe0800000000000000
+      internalID: -1193603217483900543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1302
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c63a68427887a10800000000000000
+      internalID: 1907423033138834494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1330
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746493405d97899a0800000000000000
+      internalID: -6226092529033853369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1330
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798eab3894b13a730800000000000000
+      internalID: 4009078095846500503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f708e5ffec6f3350800000000000000
+      internalID: 5998633006559397875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05512518fdc4068c0800000000000000
+      internalID: -4008119145528683184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1233
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13280e7b680a5f0800000000000000
+      internalID: -747449413839736321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1233
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cccc99190e6c7b0800000000000000
+      internalID: -5204225403424813933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1233
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e37c896ef72ba60800000000000000
+      internalID: 7688348142257258039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1233
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f3ab479d818700800000000000000
+      internalID: 540869111209784251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1233
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d07c69126f94210800000000000000
+      internalID: 1317854990106561918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1233
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dddffef9bee9be0800000000000000
+      internalID: -1468477356317483684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9e5c1d2e672fc0800000000000000
+      internalID: -3519723443738207419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ba1b562be4750c0800000000000000
+      internalID: -4587111167336273077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1263
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1566c88bd6b44500800000000000000
+      internalID: 379629322614760732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1263
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec1fa46c94aa440800000000000000
+      internalID: 4947848256629624442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1263
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e0a0a725ae1670800000000000000
+      internalID: 8511421935394022374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c319d1603a08540800000000000000
+      internalID: 5008182032297180176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36449a727efc7f560800000000000000
+      internalID: 7347569908788053091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1165
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b3d009dc27b200800000000000000
+      internalID: 195674419347304623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1165
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986dfcde9ac427e0800000000000000
+      internalID: -1791083968125376363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1165
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5bcaafb8b62d70800000000000000
+      internalID: 9018098437199716029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1165
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fafddda37a4f920800000000000000
+      internalID: 3023225121144811300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1165
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690131bfe7f907020800000000000000
+      internalID: 2337543574332313750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1165
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a46e023de412620800000000000000
+      internalID: 2747563916369742481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c7f6491e8734f0800000000000000
+      internalID: -849053765520080561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1184
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e05ed8b8c53230800000000000000
+      internalID: 3618018571991442458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f87e553434a7270800000000000000
+      internalID: 8248979623965593460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1184
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16764a90b38506400800000000000000
+      internalID: 315348984504018785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ba461f40f27d050800000000000000
+      internalID: 5825176341303307159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_30
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1184
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0490357f972f1f680800000000000000
+      internalID: -8722924397585561280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1184
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960cdb94e14eb67a0800000000000000
+      internalID: -6382757228130221975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_32
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1197
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d437b8dca82690800000000000000
+      internalID: -7626655922165328553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd1a387f9fc6000800000000000000
+      internalID: 30674138945412259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1184
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a7392f7420e8930800000000000000
+      internalID: 4147254814890490421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e9ac477dcd01d0800000000000000
+      internalID: -3382821832814369969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1197
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d2a013f7b0e3050800000000000000
+      internalID: 5782071612501798164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1184
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e9d537d257abfe0800000000000000
+      internalID: -1172495914907099506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2588a04fdb3200670800000000000000
+      internalID: 8502835395225618514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1184
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a7e0181f79f1f0800000000000000
+      internalID: -1010636900028406570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a70c778aa911210800000000000000
+      internalID: 1301991815641070209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e00d5549de899b10800000000000000
+      internalID: 1988777774283555041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2772d16928d55880800000000000000
+      internalID: -8622748239284504789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22ef14acd7adc10800000000000000
+      internalID: 2079112485628945058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb03ea30ddba1a90800000000000000
+      internalID: -7342347540435366928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1096
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341894081401a7630800000000000000
+      internalID: 3925467898718028099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1118
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e3463ada4df9a10800000000000000
+      internalID: 1918485808518807088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752b9fd4c364f7320800000000000000
+      internalID: 2557840338189922903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad748003202d1dd0800000000000000
+      internalID: -2513817682298241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61a4250c1cb5f80800000000000000
+      internalID: -8116680871646718278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d09d1a44f725880800000000000000
+      internalID: -8623690403711218367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1118
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27505554816b14c0800000000000000
+      internalID: -4315748596909582548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_52
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1118
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2691637a3764450800000000000000
+      internalID: 6072668309560058547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01371a5f8ff764170800000000000000
+      internalID: 8162352081905218320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_54
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ed8b52c0e7ba60800000000000000
+      internalID: 7689862014122715110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f562f84a8833b0330800000000000000
+      internalID: 3678090182647555679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_56
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1118
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a83c4d0ce82e1a0800000000000000
+      internalID: -6781701130012095864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_57
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b8b19bab240a6d0800000000000000
+      internalID: -2981309583582328050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_58
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1118
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52ec9435af0392c0800000000000000
+      internalID: -4426176806548348321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec8daaf8e7c7150800000000000000
+      internalID: 5871707169696042583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_60
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1118
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbbe7a134bf13890800000000000000
+      internalID: -7479921240459789386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1027
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ca2466b1dd8400800000000000000
+      internalID: 328148929162691641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1027
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193c48e91df524ef0800000000000000
+      internalID: -125432485700648047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1027
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c5674fec42e520800000000000000
+      internalID: 2729828914718689530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1027
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff1d97ca909f4820800000000000000
+      internalID: 2904699279125585918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1027
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c439f37b81a89fcd0800000000000000
+      internalID: -2523834277406207156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1027
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4681f6bfbf7117b0800000000000000
+      internalID: -5255278828779895222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1027
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167064f2c227f6c0800000000000000
+      internalID: -4109777914233326050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_68
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1027
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8209e5182e5b48840800000000000000
+      internalID: 5225501452094312488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 958
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99540ec653cc35ca0800000000000000
+      internalID: -6029250946286991975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 958
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d393d4d7a68340800000000000000
+      internalID: 4865760979944985445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 958
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8be9f68efabe2c0800000000000000
+      internalID: -4401230797984581426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 987
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fac09fd59690720800000000000000
+      internalID: 2812895294600818491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_73
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca92d55647e21250800000000000000
+      internalID: 5914043549964475079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67733a820170d540800000000000000
+      internalID: 5030645039495346030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752732cce2c02f250800000000000000
+      internalID: 5976853050606973527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 987
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05a710e51949300800000000000000
+      internalID: 257990911604707561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304db707538fea8c0800000000000000
+      internalID: -3985975711772191741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f31425eb0362d10800000000000000
+      internalID: 2100419870196842343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_79
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 986
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2992108e9565a60800000000000000
+      internalID: 7662410669004264179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_80
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb239e749343850800000000000000
+      internalID: 6355767955144491001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57b8b9ec34b9290800000000000000
+      internalID: -7882632168129989147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2a76694b5d19330800000000000000
+      internalID: 3715986139151573690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 987
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efa41ba68b567f0800000000000000
+      internalID: -619886605313049009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_84
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 987
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a4d5d68e266f1b0800000000000000
+      internalID: -5623198334318720392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_85
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 987
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be0727b89202eae0800000000000000
+      internalID: -1521650869166731595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_86
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 986
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1088f18800138960800000000000000
+      internalID: 7602938224657858588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 889
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1642017260b6f8af0800000000000000
+      internalID: -391976968388598687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 889
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aaaa76e1d9f30a0800000000000000
+      internalID: -6899623350194492875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 889
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4ffe42d83f0e5d0800000000000000
+      internalID: -3035158361312070488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 889
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42a768f54b8bec0800000000000000
+      internalID: -3550889983810591544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_91
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 889
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193158f1dd0850c0800000000000000
+      internalID: -4586901025011451617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_92
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 889
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad8286c625f7870800000000000000
+      internalID: 8682749232151059160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_93
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 923
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d46e6820b7974e0800000000000000
+      internalID: -1983418910096601720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 913
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500f5259f6320dc0800000000000000
+      internalID: -3674313901524189097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 923
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dab599e992c7c30800000000000000
+      internalID: 4358404300542291339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_96
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 913
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb0b15accfb3ee0800000000000000
+      internalID: -1280151723172642946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_97
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 923
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e48a542bf8f030800000000000000
+      internalID: 3528846441600837035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_98
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 923
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9946c892ca940f0800000000000000
+      internalID: -1132184536857929239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 913
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a2aff36f7c23c0800000000000000
+      internalID: -4382988269870995287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_100
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 923
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbefa2dba3d84120800000000000000
+      internalID: 2398399536502402002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_101
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 913
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb6c9803e66ff40800000000000000
+      internalID: 5761913928016116784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_102
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 923
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b369841ed1a4ea0800000000000000
+      internalID: -5887860709410850000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_103
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 913
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f38fb62154b9120800000000000000
+      internalID: 2421605170064932717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_104
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 923
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d45dcdddd9ed10800000000000000
+      internalID: 2155497841375891613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_105
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 913
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d689a693310e3f70800000000000000
+      internalID: 9168767212455560913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 923
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba00867fad389d50800000000000000
+      internalID: 6744208265803991739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_107
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 913
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8220c0b32fcdf3f0800000000000000
+      internalID: -865307801189080435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_108
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 923
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eadcd0ffef15340800000000000000
+      internalID: 4850938645056433712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 817
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7336674fe20abc8e0800000000000000
+      internalID: -1672066713107668169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_110
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 817
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434df5ef7ccf186e0800000000000000
+      internalID: -1836909237094067148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 817
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e2b265077d3b3f0800000000000000
+      internalID: -886127824179876201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_112
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 817
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070934d61015c9830800000000000000
+      internalID: 4079224429060788336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_113
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 844
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808289fe86ff28470800000000000000
+      internalID: 8395553481533433864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 844
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6fb0eb8a800280800000000000000
+      internalID: -9079104515403191798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 844
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb67dae269ebd6e0800000000000000
+      internalID: -1811597814030439502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_116
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 844
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12877093ae3b19200800000000000000
+      internalID: 185126878259410977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 844
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a445265a6d3e4760800000000000000
+      internalID: 7443954761011119265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 844
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8404fc4f52887d0800000000000000
+      internalID: -2916039025343051568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_119
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 844
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1989886001908b3a0800000000000000
+      internalID: -6649554885378795375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 844
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574040de535ba7d0800000000000000
+      internalID: -2906137467851618480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc092e9c5e1f492b0800000000000000
+      internalID: -5578568069168328499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 750
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadf630c072dc0a20800000000000000
+      internalID: 3030028031016500653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_123
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 750
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7701b76bd217f20800000000000000
+      internalID: 3418563853922891767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 750
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb11d08a3602a20800000000000000
+      internalID: 3035535722272635840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3348b989f0977c1f0800000000000000
+      internalID: -1024717282311699405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_126
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 750
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f74a6d6717cc00800000000000000
+      internalID: 920730407522531234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_127
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 750
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6653282d0e9dc8c0800000000000000
+      internalID: -3977349116553111955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 679
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b30f6a8c7ed9550800000000000000
+      internalID: 6169341913547684743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_129
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 679
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c96f6b80fe47e50800000000000000
+      internalID: 6806327757572054103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 679
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88260369912d7270800000000000000
+      internalID: 8249787035087677579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_131
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 679
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeb4618dbd7b1030800000000000000
+      internalID: 3466502591064882919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_132
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 679
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0413a60e854f570800000000000000
+      internalID: 8499516117632499964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_133
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 679
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf1d382a1196100800000000000000
+      internalID: 101631856286497620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 622
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c08639a267f040800000000000000
+      internalID: 4681318816578323039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 622
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cfbe22b425c1f80800000000000000
+      internalID: -8134536344276042746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 622
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78862395bed7c9360800000000000000
+      internalID: 7177750355888990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 622
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6ced1ef58a6fcb0800000000000000
+      internalID: -4830488420543445265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_138
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 622
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ecf2a7b4a0369c0800000000000000
+      internalID: -3935290330102903149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 570
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84edb2d3338f890800000000000000
+      internalID: -7424127647898253094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_140
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b76d41e566fc6470800000000000000
+      internalID: 8389351123316467632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 531
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa3362dd1f5d110800000000000000
+      internalID: 1285199200815132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_142
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 529
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f475d591e3945ff0800000000000000
+      internalID: -48251098903513870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 526
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac91b1eeceff110800000000000000
+      internalID: 1297015725107038957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 545
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce4f8cf606f1ca20800000000000000
+      internalID: 3081014129965616836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 526
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d915fba3212d78a40800000000000000
+      internalID: 5370492056399466909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_146
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8c443d723a6d70800000000000000
+      internalID: 9037091115602053789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_147
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29aa26508dc34d0800000000000000
+      internalID: -3153408121424407851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_148
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 518
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d205aed01c6a9d00800000000000000
+      internalID: 980214688617136852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_149
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4e21f4a56f5330800000000000000
+      internalID: 3701789177817222713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_150
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 591
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54c44de2461878c0800000000000000
+      internalID: -4001423792214326182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c418c2c636a79850800000000000000
+      internalID: 6383753750947304649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227c9aa9c242cc30800000000000000
+      internalID: 4378135221675782701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9bf6f64fba50570800000000000000
+      internalID: 8432334943651084713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_154
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff8dc6d26cf5920800000000000000
+      internalID: 2981319376744546300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_155
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 590
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38063eb536555020800000000000000
+      internalID: 2329863171058567226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_156
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 517
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4860ea7f5768530800000000000000
+      internalID: 3856899837526443174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_157
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 591
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255f6acdc481cc6a0800000000000000
+      internalID: -6427735849766029998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_158
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572c608575f247d0800000000000000
+      internalID: -2935514122077591718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_159
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1d690fdba8e930800000000000000
+      internalID: 4172774029182966624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_160
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154486a800399b30800000000000000
+      internalID: 4294516533386036501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_161
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b674cae398a20f10800000000000000
+      internalID: 2234533718381590194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_162
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 544
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8dc3bb695f27860800000000000000
+      internalID: 7526347955024746744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_163
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 471
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfca9da968e1a5e0800000000000000
+      internalID: -1899982027191824428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_164
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 553
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5fae59c6c409d0800000000000000
+      internalID: -2808901699393069500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_165
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 553
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e60907cd685910800000000000000
+      internalID: 1826330350516103640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_166
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 553
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386241b8dd2ef8410800000000000000
+      internalID: 1481652243577185923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_167
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 553
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcda4cb806fb150800000000000000
+      internalID: 5890532991040342965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_168
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 553
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad41172de231ac90800000000000000
+      internalID: -7160385938398294618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_169
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 553
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cf7435df073c00800000000000000
+      internalID: 880189660557461262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_170
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 553
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0de3746382bf32d0800000000000000
+      internalID: -3296720124816134900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_171
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 553
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2d4e8341ac4680800000000000000
+      internalID: -8769457062874895703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_172
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 553
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d1800fbab2dc430800000000000000
+      internalID: 3804745277664402795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_173
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876d8cd2ffa5954d0800000000000000
+      internalID: -3145382812710283656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_174
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 524
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1369d95530d9ab20800000000000000
+      internalID: 3146274742254265117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_175
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 527
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101a7cd82828fe7c0800000000000000
+      internalID: -4039866843492015871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2370d78e2f2c0f0800000000000000
+      internalID: -1098048278781021489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 474
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1abf6e8f46ffac30800000000000000
+      internalID: 4372984584752577055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 480
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346365e1f20cd0900800000000000000
+      internalID: 652388829643552323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_179
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 434
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e8fb3d081673200800000000000000
+      internalID: 159703517731196494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_180
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 471
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5afbb34d6dcd650800000000000000
+      internalID: 6259113789161973239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_181
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 471
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f189ddab3696abb90800000000000000
+      internalID: -7225346775104776161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_182
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 471
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a711736331b68530800000000000000
+      internalID: 3856964965159212969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_183
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 472
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d2155954f124f0800000000000000
+      internalID: -855133789707119050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_184
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 475
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8436e5c11e1f5e400800000000000000
+      internalID: 352954094964335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_185
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 475
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e04ca97b45ae40800000000000000
+      internalID: 5667018692068697498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ce0acb81ab4a00800000000000000
+      internalID: 741864185395071243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_187
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f96af0a24d484300800000000000000
+      internalID: 236523929000897011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_188
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 434
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b7aa44123040890800000000000000
+      internalID: -7492860438616835243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_189
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 434
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a53a2ed14bcb380800000000000000
+      internalID: -8954083918669981153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786327b44a2518b10800000000000000
+      internalID: 1981956176613619335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_191
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 447
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293b8ebf3e8b4de0800000000000000
+      internalID: -1347827259036452568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_192
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02f83b0211740b0800000000000000
+      internalID: -5744603967538650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 404
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4dc3f680664db90800000000000000
+      internalID: -7218032116356033363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_194
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 405
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06348d80e4a261cc0800000000000000
+      internalID: -3740755925840411808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_195
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 405
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a367ace89930cb0800000000000000
+      internalID: -4898903131087816134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1287208a241a554d0800000000000000
+      internalID: -3146431456989775839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_197
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 406
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37c9198f0bb5720800000000000000
+      internalID: 2836054972001186762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_198
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e77a7f103b2440800000000000000
+      internalID: 4912072730334454079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_199
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 408
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e55239d45ffc20800000000000000
+      internalID: 3242403548559173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_200
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 409
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b322b4be78fe80800000000000000
+      internalID: -8144620611551644127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_201
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 410
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd21827caa2b840800000000000000
+      internalID: 5238437088932847394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 409
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f8031c96d1ab70800000000000000
+      internalID: 8908637503738148078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_203
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 408
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339137f51e86de5f0800000000000000
+      internalID: -725808647758472909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_204
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 407
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6d4afe9e64e640800000000000000
+      internalID: 5108329506428251424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_205
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 406
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f784c7a6d633540800000000000000
+      internalID: 4986449516548358036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_206
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 405
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12225e6772e7a8a30800000000000000
+      internalID: 4218322708949443105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_207
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 404
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1b397420b08c10800000000000000
+      internalID: 2053835100780173960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_208
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 404
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda65bb01bd41400800000000000000
+      internalID: 294100740594904518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_209
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 404
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112853493ceada200800000000000000
+      internalID: 193002514075189777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_210
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 404
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12273a6b8c452b0800000000000000
+      internalID: -5596627750162914882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_211
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 411
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74612f5c106d3de70800000000000000
+      internalID: 9138883371969156679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bradley Ptolemaic_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 556
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc844a83663f0150800000000000000
+      internalID: 5840947042872233173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bradley Ptolemaic_0: -1193603217483900543
+      Bradley Ptolemaic_1: 1907423033138834494
+      Bradley Ptolemaic_10: 1317854990106561918
+      Bradley Ptolemaic_100: 2398399536502402002
+      Bradley Ptolemaic_101: 5761913928016116784
+      Bradley Ptolemaic_102: -5887860709410850000
+      Bradley Ptolemaic_103: 2421605170064932717
+      Bradley Ptolemaic_104: 2155497841375891613
+      Bradley Ptolemaic_105: 9168767212455560913
+      Bradley Ptolemaic_106: 6744208265803991739
+      Bradley Ptolemaic_107: -865307801189080435
+      Bradley Ptolemaic_108: 4850938645056433712
+      Bradley Ptolemaic_109: -1672066713107668169
+      Bradley Ptolemaic_11: -1468477356317483684
+      Bradley Ptolemaic_110: -1836909237094067148
+      Bradley Ptolemaic_111: -886127824179876201
+      Bradley Ptolemaic_112: 4079224429060788336
+      Bradley Ptolemaic_113: 8395553481533433864
+      Bradley Ptolemaic_114: -9079104515403191798
+      Bradley Ptolemaic_115: -1811597814030439502
+      Bradley Ptolemaic_116: 185126878259410977
+      Bradley Ptolemaic_117: 7443954761011119265
+      Bradley Ptolemaic_118: -2916039025343051568
+      Bradley Ptolemaic_119: -6649554885378795375
+      Bradley Ptolemaic_12: -3519723443738207419
+      Bradley Ptolemaic_120: -2906137467851618480
+      Bradley Ptolemaic_121: -5578568069168328499
+      Bradley Ptolemaic_122: 3030028031016500653
+      Bradley Ptolemaic_123: 3418563853922891767
+      Bradley Ptolemaic_124: 3035535722272635840
+      Bradley Ptolemaic_125: -1024717282311699405
+      Bradley Ptolemaic_126: 920730407522531234
+      Bradley Ptolemaic_127: -3977349116553111955
+      Bradley Ptolemaic_128: 6169341913547684743
+      Bradley Ptolemaic_129: 6806327757572054103
+      Bradley Ptolemaic_13: -4587111167336273077
+      Bradley Ptolemaic_130: 8249787035087677579
+      Bradley Ptolemaic_131: 3466502591064882919
+      Bradley Ptolemaic_132: 8499516117632499964
+      Bradley Ptolemaic_133: 101631856286497620
+      Bradley Ptolemaic_134: 4681318816578323039
+      Bradley Ptolemaic_135: -8134536344276042746
+      Bradley Ptolemaic_136: 7177750355888990343
+      Bradley Ptolemaic_137: -4830488420543445265
+      Bradley Ptolemaic_138: -3935290330102903149
+      Bradley Ptolemaic_139: -7424127647898253094
+      Bradley Ptolemaic_14: 379629322614760732
+      Bradley Ptolemaic_140: 8389351123316467632
+      Bradley Ptolemaic_141: 1285199200815132592
+      Bradley Ptolemaic_142: -48251098903513870
+      Bradley Ptolemaic_143: 1297015725107038957
+      Bradley Ptolemaic_144: 3081014129965616836
+      Bradley Ptolemaic_145: 5370492056399466909
+      Bradley Ptolemaic_146: 9037091115602053789
+      Bradley Ptolemaic_147: -3153408121424407851
+      Bradley Ptolemaic_148: 980214688617136852
+      Bradley Ptolemaic_149: 3701789177817222713
+      Bradley Ptolemaic_15: 4947848256629624442
+      Bradley Ptolemaic_150: -4001423792214326182
+      Bradley Ptolemaic_151: 6383753750947304649
+      Bradley Ptolemaic_152: 4378135221675782701
+      Bradley Ptolemaic_153: 8432334943651084713
+      Bradley Ptolemaic_154: 2981319376744546300
+      Bradley Ptolemaic_155: 2329863171058567226
+      Bradley Ptolemaic_156: 3856899837526443174
+      Bradley Ptolemaic_157: -6427735849766029998
+      Bradley Ptolemaic_158: -2935514122077591718
+      Bradley Ptolemaic_159: 4172774029182966624
+      Bradley Ptolemaic_16: 8511421935394022374
+      Bradley Ptolemaic_160: 4294516533386036501
+      Bradley Ptolemaic_161: 2234533718381590194
+      Bradley Ptolemaic_162: 7526347955024746744
+      Bradley Ptolemaic_163: -1899982027191824428
+      Bradley Ptolemaic_164: -2808901699393069500
+      Bradley Ptolemaic_165: 1826330350516103640
+      Bradley Ptolemaic_166: 1481652243577185923
+      Bradley Ptolemaic_167: 5890532991040342965
+      Bradley Ptolemaic_168: -7160385938398294618
+      Bradley Ptolemaic_169: 880189660557461262
+      Bradley Ptolemaic_17: 5008182032297180176
+      Bradley Ptolemaic_170: -3296720124816134900
+      Bradley Ptolemaic_171: -8769457062874895703
+      Bradley Ptolemaic_172: 3804745277664402795
+      Bradley Ptolemaic_173: -3145382812710283656
+      Bradley Ptolemaic_174: 3146274742254265117
+      Bradley Ptolemaic_175: -4039866843492015871
+      Bradley Ptolemaic_176: -1098048278781021489
+      Bradley Ptolemaic_177: 4372984584752577055
+      Bradley Ptolemaic_178: 652388829643552323
+      Bradley Ptolemaic_179: 159703517731196494
+      Bradley Ptolemaic_18: 7347569908788053091
+      Bradley Ptolemaic_180: 6259113789161973239
+      Bradley Ptolemaic_181: -7225346775104776161
+      Bradley Ptolemaic_182: 3856964965159212969
+      Bradley Ptolemaic_183: -855133789707119050
+      Bradley Ptolemaic_184: 352954094964335432
+      Bradley Ptolemaic_185: 5667018692068697498
+      Bradley Ptolemaic_186: 741864185395071243
+      Bradley Ptolemaic_187: 236523929000897011
+      Bradley Ptolemaic_188: -7492860438616835243
+      Bradley Ptolemaic_189: -8954083918669981153
+      Bradley Ptolemaic_19: 195674419347304623
+      Bradley Ptolemaic_190: 1981956176613619335
+      Bradley Ptolemaic_191: -1347827259036452568
+      Bradley Ptolemaic_192: -5744603967538650927
+      Bradley Ptolemaic_193: -7218032116356033363
+      Bradley Ptolemaic_194: -3740755925840411808
+      Bradley Ptolemaic_195: -4898903131087816134
+      Bradley Ptolemaic_196: -3146431456989775839
+      Bradley Ptolemaic_197: 2836054972001186762
+      Bradley Ptolemaic_198: 4912072730334454079
+      Bradley Ptolemaic_199: 3242403548559173622
+      Bradley Ptolemaic_2: -6226092529033853369
+      Bradley Ptolemaic_20: -1791083968125376363
+      Bradley Ptolemaic_200: -8144620611551644127
+      Bradley Ptolemaic_201: 5238437088932847394
+      Bradley Ptolemaic_202: 8908637503738148078
+      Bradley Ptolemaic_203: -725808647758472909
+      Bradley Ptolemaic_204: 5108329506428251424
+      Bradley Ptolemaic_205: 4986449516548358036
+      Bradley Ptolemaic_206: 4218322708949443105
+      Bradley Ptolemaic_207: 2053835100780173960
+      Bradley Ptolemaic_208: 294100740594904518
+      Bradley Ptolemaic_209: 193002514075189777
+      Bradley Ptolemaic_21: 9018098437199716029
+      Bradley Ptolemaic_210: -5596627750162914882
+      Bradley Ptolemaic_211: 9138883371969156679
+      Bradley Ptolemaic_212: 5840947042872233173
+      Bradley Ptolemaic_22: 3023225121144811300
+      Bradley Ptolemaic_23: 2337543574332313750
+      Bradley Ptolemaic_24: 2747563916369742481
+      Bradley Ptolemaic_25: -849053765520080561
+      Bradley Ptolemaic_26: 3618018571991442458
+      Bradley Ptolemaic_27: 8248979623965593460
+      Bradley Ptolemaic_28: 315348984504018785
+      Bradley Ptolemaic_29: 5825176341303307159
+      Bradley Ptolemaic_3: 4009078095846500503
+      Bradley Ptolemaic_30: -8722924397585561280
+      Bradley Ptolemaic_31: -6382757228130221975
+      Bradley Ptolemaic_32: -7626655922165328553
+      Bradley Ptolemaic_33: 30674138945412259
+      Bradley Ptolemaic_34: 4147254814890490421
+      Bradley Ptolemaic_35: -3382821832814369969
+      Bradley Ptolemaic_36: 5782071612501798164
+      Bradley Ptolemaic_37: -1172495914907099506
+      Bradley Ptolemaic_38: 8502835395225618514
+      Bradley Ptolemaic_39: -1010636900028406570
+      Bradley Ptolemaic_4: 5998633006559397875
+      Bradley Ptolemaic_40: 1301991815641070209
+      Bradley Ptolemaic_41: 1988777774283555041
+      Bradley Ptolemaic_42: -8622748239284504789
+      Bradley Ptolemaic_43: 2079112485628945058
+      Bradley Ptolemaic_44: -7342347540435366928
+      Bradley Ptolemaic_45: 3925467898718028099
+      Bradley Ptolemaic_46: 1918485808518807088
+      Bradley Ptolemaic_47: 2557840338189922903
+      Bradley Ptolemaic_48: -2513817682298241621
+      Bradley Ptolemaic_49: -8116680871646718278
+      Bradley Ptolemaic_5: -4008119145528683184
+      Bradley Ptolemaic_50: -8623690403711218367
+      Bradley Ptolemaic_51: -4315748596909582548
+      Bradley Ptolemaic_52: 6072668309560058547
+      Bradley Ptolemaic_53: 8162352081905218320
+      Bradley Ptolemaic_54: 7689862014122715110
+      Bradley Ptolemaic_55: 3678090182647555679
+      Bradley Ptolemaic_56: -6781701130012095864
+      Bradley Ptolemaic_57: -2981309583582328050
+      Bradley Ptolemaic_58: -4426176806548348321
+      Bradley Ptolemaic_59: 5871707169696042583
+      Bradley Ptolemaic_6: -747449413839736321
+      Bradley Ptolemaic_60: -7479921240459789386
+      Bradley Ptolemaic_61: 328148929162691641
+      Bradley Ptolemaic_62: -125432485700648047
+      Bradley Ptolemaic_63: 2729828914718689530
+      Bradley Ptolemaic_64: 2904699279125585918
+      Bradley Ptolemaic_65: -2523834277406207156
+      Bradley Ptolemaic_66: -5255278828779895222
+      Bradley Ptolemaic_67: -4109777914233326050
+      Bradley Ptolemaic_68: 5225501452094312488
+      Bradley Ptolemaic_69: -6029250946286991975
+      Bradley Ptolemaic_7: -5204225403424813933
+      Bradley Ptolemaic_70: 4865760979944985445
+      Bradley Ptolemaic_71: -4401230797984581426
+      Bradley Ptolemaic_72: 2812895294600818491
+      Bradley Ptolemaic_73: 5914043549964475079
+      Bradley Ptolemaic_74: 5030645039495346030
+      Bradley Ptolemaic_75: 5976853050606973527
+      Bradley Ptolemaic_76: 257990911604707561
+      Bradley Ptolemaic_77: -3985975711772191741
+      Bradley Ptolemaic_78: 2100419870196842343
+      Bradley Ptolemaic_79: 7662410669004264179
+      Bradley Ptolemaic_8: 7688348142257258039
+      Bradley Ptolemaic_80: 6355767955144491001
+      Bradley Ptolemaic_81: -7882632168129989147
+      Bradley Ptolemaic_82: 3715986139151573690
+      Bradley Ptolemaic_83: -619886605313049009
+      Bradley Ptolemaic_84: -5623198334318720392
+      Bradley Ptolemaic_85: -1521650869166731595
+      Bradley Ptolemaic_86: 7602938224657858588
+      Bradley Ptolemaic_87: -391976968388598687
+      Bradley Ptolemaic_88: -6899623350194492875
+      Bradley Ptolemaic_89: -3035158361312070488
+      Bradley Ptolemaic_9: 540869111209784251
+      Bradley Ptolemaic_90: -3550889983810591544
+      Bradley Ptolemaic_91: -4586901025011451617
+      Bradley Ptolemaic_92: 8682749232151059160
+      Bradley Ptolemaic_93: -1983418910096601720
+      Bradley Ptolemaic_94: -3674313901524189097
+      Bradley Ptolemaic_95: 4358404300542291339
+      Bradley Ptolemaic_96: -1280151723172642946
+      Bradley Ptolemaic_97: 3528846441600837035
+      Bradley Ptolemaic_98: -1132184536857929239
+      Bradley Ptolemaic_99: -4382988269870995287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

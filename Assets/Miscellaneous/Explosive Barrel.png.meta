@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: c809fa58d5720c04292098872e8bdb60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1524532009654437961
+    second: Explosive Barrel_0
+  - first:
+      213: 2403364239651121737
+    second: Explosive Barrel_1
+  - first:
+      213: -4363676646737351928
+    second: Explosive Barrel_2
+  - first:
+      213: 7167266196826059801
+    second: Explosive Barrel_3
+  - first:
+      213: -4889750133702238981
+    second: Explosive Barrel_4
+  - first:
+      213: 3747439130255216594
+    second: Explosive Barrel_5
+  - first:
+      213: 493472787100787302
+    second: Explosive Barrel_6
+  - first:
+      213: -4586405479206834288
+    second: Explosive Barrel_7
+  - first:
+      213: -5259269179972674447
+    second: Explosive Barrel_8
+  - first:
+      213: 6800288870803043419
+    second: Explosive Barrel_9
+  - first:
+      213: -8731458328279197808
+    second: Explosive Barrel_10
+  - first:
+      213: -5573636602432867821
+    second: Explosive Barrel_11
+  - first:
+      213: -6941157800066679847
+    second: Explosive Barrel_12
+  - first:
+      213: 5749478766227078748
+    second: Explosive Barrel_13
+  - first:
+      213: -6843876177559678698
+    second: Explosive Barrel_14
+  - first:
+      213: -1418510682625586047
+    second: Explosive Barrel_15
+  - first:
+      213: 6740042433148699363
+    second: Explosive Barrel_16
+  - first:
+      213: 7548821685275019540
+    second: Explosive Barrel_17
+  - first:
+      213: 533691010578315520
+    second: Explosive Barrel_18
+  - first:
+      213: 259592016375659511
+    second: Explosive Barrel_19
+  - first:
+      213: -2143994109390129048
+    second: Explosive Barrel_20
+  - first:
+      213: 503080511152589785
+    second: Explosive Barrel_21
+  - first:
+      213: -4187431911528698860
+    second: Explosive Barrel_22
+  - first:
+      213: 4124884068328467714
+    second: Explosive Barrel_23
+  - first:
+      213: 84944521868278485
+    second: Explosive Barrel_24
+  - first:
+      213: -6964511952772188510
+    second: Explosive Barrel_25
+  - first:
+      213: 3573411382148094576
+    second: Explosive Barrel_26
+  - first:
+      213: -6116328669129836754
+    second: Explosive Barrel_27
+  - first:
+      213: 6426012779205300694
+    second: Explosive Barrel_28
+  - first:
+      213: -5805640114747457156
+    second: Explosive Barrel_29
+  - first:
+      213: 4481351774831498161
+    second: Explosive Barrel_30
+  - first:
+      213: -81374769605241120
+    second: Explosive Barrel_31
+  - first:
+      213: -6051749701610545568
+    second: Explosive Barrel_32
+  - first:
+      213: 6740851273786847204
+    second: Explosive Barrel_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosive Barrel_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 563
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9484a2419c9382510800000000000000
+      internalID: 1524532009654437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 150
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a284ada077a5120800000000000000
+      internalID: 2403364239651121737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 150
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6d84a53b1173c0800000000000000
+      internalID: -4363676646737351928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 150
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9147b78d1ae377360800000000000000
+      internalID: 7167266196826059801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 150
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc5240192e142cb0800000000000000
+      internalID: -4889750133702238981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 149
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfc240c804910430800000000000000
+      internalID: 3747439130255216594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 148
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e675a2ea29d600800000000000000
+      internalID: 493472787100787302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 148
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa8f73480d950c0800000000000000
+      internalID: -4586405479206834288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 148
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c919dab825307b0800000000000000
+      internalID: -5259269179972674447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 147
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54f142d2ba7f5e50800000000000000
+      internalID: 6800288870803043419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 146
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097dac369e0a3d680800000000000000
+      internalID: -8731458328279197808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 112
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312bfdc5a0776a2b0800000000000000
+      internalID: -5573636602432867821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 115
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf715b1cd0caf90800000000000000
+      internalID: -6941157800066679847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 119
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ebd90d9704acf40800000000000000
+      internalID: 5749478766227078748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111ccd70eaa501a0800000000000000
+      internalID: -6843876177559678698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c410cbc00705ce0800000000000000
+      internalID: -1418510682625586047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e243e6f1e0798d50800000000000000
+      internalID: 6740042433148699363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419459fc35dc2c860800000000000000
+      internalID: 7548821685275019540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 90
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f651852d086700800000000000000
+      internalID: 533691010578315520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 88
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb399240914a9300800000000000000
+      internalID: 259592016375659511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 72
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868754587b00f32e0800000000000000
+      internalID: -2143994109390129048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 72
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db0ca83f0d4bf600800000000000000
+      internalID: 503080511152589785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 100
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c6238ccd043e5c0800000000000000
+      internalID: -4187431911528698860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 110
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de260a4388e3930800000000000000
+      internalID: 4124884068328467714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 112
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf293b798cd2100800000000000000
+      internalID: 84944521868278485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63d0d4745195f90800000000000000
+      internalID: -6964511952772188510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 74
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a564528be479130800000000000000
+      internalID: 3573411382148094576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 77
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e277afa2b7f6e1ba0800000000000000
+      internalID: -6116328669129836754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d117a28398cd2950800000000000000
+      internalID: 6426012779205300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7148b243193e6fa0800000000000000
+      internalID: -5805640114747457156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d56c22b5f03e30800000000000000
+      internalID: 4481351774831498161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 72
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e610040416eedef0800000000000000
+      internalID: -81374769605241120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5dedb5bdd30ca0800000000000000
+      internalID: -6051749701610545568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Barrel_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 584
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efedc9d4805c8d50800000000000000
+      internalID: 6740851273786847204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a217732503a2ed43b5b64050ead3cb9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosive Barrel_0: 1524532009654437961
+      Explosive Barrel_1: 2403364239651121737
+      Explosive Barrel_10: -8731458328279197808
+      Explosive Barrel_11: -5573636602432867821
+      Explosive Barrel_12: -6941157800066679847
+      Explosive Barrel_13: 5749478766227078748
+      Explosive Barrel_14: -6843876177559678698
+      Explosive Barrel_15: -1418510682625586047
+      Explosive Barrel_16: 6740042433148699363
+      Explosive Barrel_17: 7548821685275019540
+      Explosive Barrel_18: 533691010578315520
+      Explosive Barrel_19: 259592016375659511
+      Explosive Barrel_2: -4363676646737351928
+      Explosive Barrel_20: -2143994109390129048
+      Explosive Barrel_21: 503080511152589785
+      Explosive Barrel_22: -4187431911528698860
+      Explosive Barrel_23: 4124884068328467714
+      Explosive Barrel_24: 84944521868278485
+      Explosive Barrel_25: -6964511952772188510
+      Explosive Barrel_26: 3573411382148094576
+      Explosive Barrel_27: -6116328669129836754
+      Explosive Barrel_28: 6426012779205300694
+      Explosive Barrel_29: -5805640114747457156
+      Explosive Barrel_3: 7167266196826059801
+      Explosive Barrel_30: 4481351774831498161
+      Explosive Barrel_31: -81374769605241120
+      Explosive Barrel_32: -6051749701610545568
+      Explosive Barrel_33: 6740851273786847204
+      Explosive Barrel_4: -4889750133702238981
+      Explosive Barrel_5: 3747439130255216594
+      Explosive Barrel_6: 493472787100787302
+      Explosive Barrel_7: -4586405479206834288
+      Explosive Barrel_8: -5259269179972674447
+      Explosive Barrel_9: 6800288870803043419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

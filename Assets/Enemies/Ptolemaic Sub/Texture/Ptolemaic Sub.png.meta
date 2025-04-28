@@ -1,0 +1,5395 @@
+fileFormatVersion: 2
+guid: af428565d1e5028488ab258a6ae83cd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -991577508648602008
+    second: Ptolemaic Sub_0
+  - first:
+      213: -6084066583671194786
+    second: Ptolemaic Sub_1
+  - first:
+      213: -4580061431205691304
+    second: Ptolemaic Sub_2
+  - first:
+      213: -4356833190310222476
+    second: Ptolemaic Sub_3
+  - first:
+      213: -7361033740616006178
+    second: Ptolemaic Sub_4
+  - first:
+      213: 5572541981733365288
+    second: Ptolemaic Sub_5
+  - first:
+      213: -4494072025358658551
+    second: Ptolemaic Sub_6
+  - first:
+      213: -6815271260664984713
+    second: Ptolemaic Sub_7
+  - first:
+      213: -4290687862918027687
+    second: Ptolemaic Sub_8
+  - first:
+      213: 8286336413655069995
+    second: Ptolemaic Sub_9
+  - first:
+      213: -6416364193547642633
+    second: Ptolemaic Sub_10
+  - first:
+      213: 6079093846897334730
+    second: Ptolemaic Sub_11
+  - first:
+      213: -3344983057171476654
+    second: Ptolemaic Sub_12
+  - first:
+      213: 2646755927415778709
+    second: Ptolemaic Sub_13
+  - first:
+      213: 6846758110098015190
+    second: Ptolemaic Sub_14
+  - first:
+      213: -2807570803152698156
+    second: Ptolemaic Sub_15
+  - first:
+      213: -7192941735631707503
+    second: Ptolemaic Sub_16
+  - first:
+      213: 3291559946194776806
+    second: Ptolemaic Sub_17
+  - first:
+      213: 2534180398594941424
+    second: Ptolemaic Sub_18
+  - first:
+      213: -8340343612546840659
+    second: Ptolemaic Sub_19
+  - first:
+      213: -7011736945530057295
+    second: Ptolemaic Sub_20
+  - first:
+      213: -4675783348387613930
+    second: Ptolemaic Sub_21
+  - first:
+      213: 5262296300527379795
+    second: Ptolemaic Sub_22
+  - first:
+      213: -8288662749060663832
+    second: Ptolemaic Sub_23
+  - first:
+      213: -7586183681590550852
+    second: Ptolemaic Sub_24
+  - first:
+      213: 2592074037386689779
+    second: Ptolemaic Sub_25
+  - first:
+      213: -479612949522788196
+    second: Ptolemaic Sub_26
+  - first:
+      213: -4340652417898822603
+    second: Ptolemaic Sub_27
+  - first:
+      213: 246542271057493935
+    second: Ptolemaic Sub_28
+  - first:
+      213: -337699269888185547
+    second: Ptolemaic Sub_29
+  - first:
+      213: 938799582539975249
+    second: Ptolemaic Sub_30
+  - first:
+      213: -1348682452546812884
+    second: Ptolemaic Sub_31
+  - first:
+      213: -2786834981978365540
+    second: Ptolemaic Sub_32
+  - first:
+      213: -3381897305703943391
+    second: Ptolemaic Sub_33
+  - first:
+      213: -8139431512095663252
+    second: Ptolemaic Sub_34
+  - first:
+      213: 1820089095556851877
+    second: Ptolemaic Sub_35
+  - first:
+      213: 3126577104547287472
+    second: Ptolemaic Sub_36
+  - first:
+      213: -4699915029328989048
+    second: Ptolemaic Sub_37
+  - first:
+      213: 6477943825860455931
+    second: Ptolemaic Sub_38
+  - first:
+      213: 1478051031430675698
+    second: Ptolemaic Sub_39
+  - first:
+      213: 8073019718813061494
+    second: Ptolemaic Sub_40
+  - first:
+      213: -732724351836690387
+    second: Ptolemaic Sub_41
+  - first:
+      213: -874802298040078074
+    second: Ptolemaic Sub_42
+  - first:
+      213: -7076468448345775798
+    second: Ptolemaic Sub_43
+  - first:
+      213: 7374895571207633308
+    second: Ptolemaic Sub_44
+  - first:
+      213: -735172304194876014
+    second: Ptolemaic Sub_45
+  - first:
+      213: -4064682807159334435
+    second: Ptolemaic Sub_46
+  - first:
+      213: 6779032831409463834
+    second: Ptolemaic Sub_47
+  - first:
+      213: 1974922615485172053
+    second: Ptolemaic Sub_48
+  - first:
+      213: 3835786985438237456
+    second: Ptolemaic Sub_49
+  - first:
+      213: 7194154718658555454
+    second: Ptolemaic Sub_50
+  - first:
+      213: -4477822048668994561
+    second: Ptolemaic Sub_51
+  - first:
+      213: -2680533370339682812
+    second: Ptolemaic Sub_52
+  - first:
+      213: -8234769011196464903
+    second: Ptolemaic Sub_53
+  - first:
+      213: -7385600493322759734
+    second: Ptolemaic Sub_54
+  - first:
+      213: -2003200649561070708
+    second: Ptolemaic Sub_55
+  - first:
+      213: 7419086108189193109
+    second: Ptolemaic Sub_56
+  - first:
+      213: -2518150459726540917
+    second: Ptolemaic Sub_57
+  - first:
+      213: 344862712039434130
+    second: Ptolemaic Sub_58
+  - first:
+      213: 6446225468493235494
+    second: Ptolemaic Sub_59
+  - first:
+      213: 8642806570627118640
+    second: Ptolemaic Sub_60
+  - first:
+      213: -3050841807376608792
+    second: Ptolemaic Sub_61
+  - first:
+      213: 3921840196253282663
+    second: Ptolemaic Sub_62
+  - first:
+      213: -6916639441881608638
+    second: Ptolemaic Sub_63
+  - first:
+      213: 980134779775619418
+    second: Ptolemaic Sub_64
+  - first:
+      213: -6082134413298680147
+    second: Ptolemaic Sub_65
+  - first:
+      213: 8576663134151170920
+    second: Ptolemaic Sub_66
+  - first:
+      213: 922526722518615071
+    second: Ptolemaic Sub_67
+  - first:
+      213: 944939930938482357
+    second: Ptolemaic Sub_68
+  - first:
+      213: -2224622346189370234
+    second: Ptolemaic Sub_69
+  - first:
+      213: -4997455116131704828
+    second: Ptolemaic Sub_70
+  - first:
+      213: 5804657697734021661
+    second: Ptolemaic Sub_71
+  - first:
+      213: -864589306655137925
+    second: Ptolemaic Sub_72
+  - first:
+      213: 1680611622891637914
+    second: Ptolemaic Sub_73
+  - first:
+      213: -8324684416786765413
+    second: Ptolemaic Sub_74
+  - first:
+      213: -7958016027056369968
+    second: Ptolemaic Sub_75
+  - first:
+      213: 5032595631719960180
+    second: Ptolemaic Sub_76
+  - first:
+      213: -5461619863889059662
+    second: Ptolemaic Sub_77
+  - first:
+      213: -2821532249473003546
+    second: Ptolemaic Sub_78
+  - first:
+      213: 2057682211992348268
+    second: Ptolemaic Sub_79
+  - first:
+      213: -6839336627071946780
+    second: Ptolemaic Sub_80
+  - first:
+      213: 5773413615891678903
+    second: Ptolemaic Sub_81
+  - first:
+      213: 3257889935041322488
+    second: Ptolemaic Sub_82
+  - first:
+      213: -1454360369828329633
+    second: Ptolemaic Sub_83
+  - first:
+      213: -2016038986091543835
+    second: Ptolemaic Sub_84
+  - first:
+      213: 8442102282330637318
+    second: Ptolemaic Sub_85
+  - first:
+      213: -6993694747507802626
+    second: Ptolemaic Sub_86
+  - first:
+      213: 4517550738086828213
+    second: Ptolemaic Sub_87
+  - first:
+      213: 6192868925711770588
+    second: Ptolemaic Sub_88
+  - first:
+      213: 523304516521660197
+    second: Ptolemaic Sub_89
+  - first:
+      213: 6645670387885219295
+    second: Ptolemaic Sub_90
+  - first:
+      213: 540575781029342770
+    second: Ptolemaic Sub_91
+  - first:
+      213: -8665765049704897602
+    second: Ptolemaic Sub_92
+  - first:
+      213: 7563457173626334117
+    second: Ptolemaic Sub_93
+  - first:
+      213: 6329648906788496118
+    second: Ptolemaic Sub_94
+  - first:
+      213: -5434117955156163026
+    second: Ptolemaic Sub_95
+  - first:
+      213: -560527434283095552
+    second: Ptolemaic Sub_96
+  - first:
+      213: 6451292831412746921
+    second: Ptolemaic Sub_97
+  - first:
+      213: -6637171789918837637
+    second: Ptolemaic Sub_98
+  - first:
+      213: 589976278890555605
+    second: Ptolemaic Sub_99
+  - first:
+      213: -4401800773582750138
+    second: Ptolemaic Sub_100
+  - first:
+      213: -7157441987379570215
+    second: Ptolemaic Sub_101
+  - first:
+      213: -8240094361161626870
+    second: Ptolemaic Sub_102
+  - first:
+      213: -1858093118168303634
+    second: Ptolemaic Sub_103
+  - first:
+      213: -6037579097466576471
+    second: Ptolemaic Sub_104
+  - first:
+      213: -7550316422480274564
+    second: Ptolemaic Sub_105
+  - first:
+      213: 7958620724571478124
+    second: Ptolemaic Sub_106
+  - first:
+      213: -8794216370310738553
+    second: Ptolemaic Sub_107
+  - first:
+      213: 5083746495902362915
+    second: Ptolemaic Sub_108
+  - first:
+      213: 1951306964580268433
+    second: Ptolemaic Sub_109
+  - first:
+      213: -3668738586953820045
+    second: Ptolemaic Sub_110
+  - first:
+      213: 8847327745947835705
+    second: Ptolemaic Sub_111
+  - first:
+      213: 4556485203923474588
+    second: Ptolemaic Sub_112
+  - first:
+      213: 7741294969322587454
+    second: Ptolemaic Sub_113
+  - first:
+      213: 2886303684629425759
+    second: Ptolemaic Sub_114
+  - first:
+      213: -1608985021047638279
+    second: Ptolemaic Sub_115
+  - first:
+      213: -612017243343649144
+    second: Ptolemaic Sub_116
+  - first:
+      213: 9104377813843817963
+    second: Ptolemaic Sub_117
+  - first:
+      213: -1141057094129686071
+    second: Ptolemaic Sub_118
+  - first:
+      213: -8139586554701231508
+    second: Ptolemaic Sub_119
+  - first:
+      213: -5495999864816734678
+    second: Ptolemaic Sub_120
+  - first:
+      213: -4292823005557428516
+    second: Ptolemaic Sub_121
+  - first:
+      213: 667031965086386764
+    second: Ptolemaic Sub_122
+  - first:
+      213: 1479212557157931623
+    second: Ptolemaic Sub_123
+  - first:
+      213: -6846451329611096671
+    second: Ptolemaic Sub_124
+  - first:
+      213: 6742714163579128335
+    second: Ptolemaic Sub_125
+  - first:
+      213: -329579548816306792
+    second: Ptolemaic Sub_126
+  - first:
+      213: -9115312144079675170
+    second: Ptolemaic Sub_127
+  - first:
+      213: -4770061686945786239
+    second: Ptolemaic Sub_128
+  - first:
+      213: -8957804991894319776
+    second: Ptolemaic Sub_129
+  - first:
+      213: -6520576453627153344
+    second: Ptolemaic Sub_130
+  - first:
+      213: 8912505376556612388
+    second: Ptolemaic Sub_131
+  - first:
+      213: -6146960080849360620
+    second: Ptolemaic Sub_132
+  - first:
+      213: -2322246585501138834
+    second: Ptolemaic Sub_133
+  - first:
+      213: 6157694879146949644
+    second: Ptolemaic Sub_134
+  - first:
+      213: -2580438705098765796
+    second: Ptolemaic Sub_135
+  - first:
+      213: 7788945559206713470
+    second: Ptolemaic Sub_136
+  - first:
+      213: -6697081499875138048
+    second: Ptolemaic Sub_137
+  - first:
+      213: -6844491033490247476
+    second: Ptolemaic Sub_138
+  - first:
+      213: 723463393007739610
+    second: Ptolemaic Sub_139
+  - first:
+      213: 8272937910836029303
+    second: Ptolemaic Sub_140
+  - first:
+      213: -1607328708185803668
+    second: Ptolemaic Sub_141
+  - first:
+      213: -5389858289063749641
+    second: Ptolemaic Sub_142
+  - first:
+      213: -3245165026338386806
+    second: Ptolemaic Sub_143
+  - first:
+      213: 4339845662997251006
+    second: Ptolemaic Sub_144
+  - first:
+      213: -8600948308604439431
+    second: Ptolemaic Sub_145
+  - first:
+      213: -1559333842451225099
+    second: Ptolemaic Sub_146
+  - first:
+      213: 7875712146052760983
+    second: Ptolemaic Sub_147
+  - first:
+      213: 2004283347239498079
+    second: Ptolemaic Sub_148
+  - first:
+      213: -7958328886215117556
+    second: Ptolemaic Sub_149
+  - first:
+      213: -7749872359679388824
+    second: Ptolemaic Sub_150
+  - first:
+      213: -1098771294886506576
+    second: Ptolemaic Sub_151
+  - first:
+      213: 2287556416690709015
+    second: Ptolemaic Sub_152
+  - first:
+      213: 4734329309644805930
+    second: Ptolemaic Sub_153
+  - first:
+      213: -5586147923588908361
+    second: Ptolemaic Sub_154
+  - first:
+      213: -6337853617721696899
+    second: Ptolemaic Sub_155
+  - first:
+      213: -6185077392016800751
+    second: Ptolemaic Sub_156
+  - first:
+      213: 4005409060878411493
+    second: Ptolemaic Sub_157
+  - first:
+      213: 2899353000339426775
+    second: Ptolemaic Sub_158
+  - first:
+      213: 1636844092245853651
+    second: Ptolemaic Sub_159
+  - first:
+      213: -8398821558698277806
+    second: Ptolemaic Sub_160
+  - first:
+      213: -2663768034478245338
+    second: Ptolemaic Sub_161
+  - first:
+      213: -5203336733497099567
+    second: Ptolemaic Sub_162
+  - first:
+      213: 4886848100466724839
+    second: Ptolemaic Sub_163
+  - first:
+      213: 5696646437403907408
+    second: Ptolemaic Sub_164
+  - first:
+      213: -3205936278162931773
+    second: Ptolemaic Sub_165
+  - first:
+      213: -7071378093894207542
+    second: Ptolemaic Sub_166
+  - first:
+      213: 3039407126865820734
+    second: Ptolemaic Sub_167
+  - first:
+      213: 1718797338786493450
+    second: Ptolemaic Sub_168
+  - first:
+      213: 3426410570427764413
+    second: Ptolemaic Sub_169
+  - first:
+      213: -386020398509874819
+    second: Ptolemaic Sub_170
+  - first:
+      213: 7263184457526692873
+    second: Ptolemaic Sub_171
+  - first:
+      213: 6414980980389540847
+    second: Ptolemaic Sub_172
+  - first:
+      213: 2072874869301560955
+    second: Ptolemaic Sub_173
+  - first:
+      213: 7272160289672822056
+    second: Ptolemaic Sub_174
+  - first:
+      213: -3483001546979777177
+    second: Ptolemaic Sub_175
+  - first:
+      213: -6044303438162031318
+    second: Ptolemaic Sub_176
+  - first:
+      213: -7648778571487696163
+    second: Ptolemaic Sub_177
+  - first:
+      213: 8472751628828158591
+    second: Ptolemaic Sub_178
+  - first:
+      213: 7361618097700587844
+    second: Ptolemaic Sub_179
+  - first:
+      213: 5441169021602454299
+    second: Ptolemaic Sub_180
+  - first:
+      213: -685241007811987430
+    second: Ptolemaic Sub_181
+  - first:
+      213: 3430186165446547441
+    second: Ptolemaic Sub_182
+  - first:
+      213: 4023012770237174904
+    second: Ptolemaic Sub_183
+  - first:
+      213: -6794909362164132927
+    second: Ptolemaic Sub_184
+  - first:
+      213: -1189606215632585198
+    second: Ptolemaic Sub_185
+  - first:
+      213: -1308772327584606160
+    second: Ptolemaic Sub_186
+  - first:
+      213: -7714008069569796651
+    second: Ptolemaic Sub_187
+  - first:
+      213: 421835012952467642
+    second: Ptolemaic Sub_188
+  - first:
+      213: -5987711914228783069
+    second: Ptolemaic Sub_189
+  - first:
+      213: -6293838636175419856
+    second: Ptolemaic Sub_190
+  - first:
+      213: 2407921551550842409
+    second: Ptolemaic Sub_191
+  - first:
+      213: -7178920799740960018
+    second: Ptolemaic Sub_192
+  - first:
+      213: 2600294320960242402
+    second: Ptolemaic Sub_193
+  - first:
+      213: -3727362950211285854
+    second: Ptolemaic Sub_194
+  - first:
+      213: 4729611038597263572
+    second: Ptolemaic Sub_195
+  - first:
+      213: 2709029572963169220
+    second: Ptolemaic Sub_196
+  - first:
+      213: 518637094899396463
+    second: Ptolemaic Sub_197
+  - first:
+      213: 4085690191432767262
+    second: Ptolemaic Sub_198
+  - first:
+      213: 539388729881047306
+    second: Ptolemaic Sub_199
+  - first:
+      213: -551044879449496009
+    second: Ptolemaic Sub_200
+  - first:
+      213: 5925665285840183071
+    second: Ptolemaic Sub_201
+  - first:
+      213: 8487576512439808888
+    second: Ptolemaic Sub_202
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ptolemaic Sub_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 613
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866bbbd62853d32f0800000000000000
+      internalID: -991577508648602008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 613
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b347a4dad019ba0800000000000000
+      internalID: -6084066583671194786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 613
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850848ff46a5070c0800000000000000
+      internalID: -4580061431205691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 613
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756de10c4b6983c0800000000000000
+      internalID: -4356833190310222476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 613
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50be630da58d990800000000000000
+      internalID: -7361033740616006178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 611
+        width: 739
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262b256865a55d40800000000000000
+      internalID: 5572541981733365288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 558
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041a75bd49d1a1c0800000000000000
+      internalID: -4494072025358658551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 558
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b8224b5ea4b61a0800000000000000
+      internalID: -6815271260664984713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 558
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e0b82f1a6474c0800000000000000
+      internalID: -4290687862918027687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 558
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257b49b01bfef270800000000000000
+      internalID: 8286336413655069995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 558
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f89e06e2ce74f6a0800000000000000
+      internalID: -6416364193547642633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 558
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9149435a74d5450800000000000000
+      internalID: 6079093846897334730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 558
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0899c1ab3491d0800000000000000
+      internalID: -3344983057171476654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 535
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de6cc2e7a2bb420800000000000000
+      internalID: 2646755927415778709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 535
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ca67b932940f50800000000000000
+      internalID: 6846758110098015190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 535
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4435cca318909d0800000000000000
+      internalID: -2807570803152698156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 535
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192279de9998d2c90800000000000000
+      internalID: -7192941735631707503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 533
+        width: 750
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2f7d5e458fdad20800000000000000
+      internalID: 3291559946194776806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 468
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1620755a73b2320800000000000000
+      internalID: 2534180398594941424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 468
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da782756ca5214c80800000000000000
+      internalID: -8340343612546840659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 468
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc237d56e41be90800000000000000
+      internalID: -7011736945530057295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 468
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137ba861d74c1fb0800000000000000
+      internalID: -4675783348387613930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 468
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35569cfba9e670940800000000000000
+      internalID: 5262296300527379795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 468
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5f93b1521c8fc80800000000000000
+      internalID: -8288662749060663832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 468
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe1ee9822678b690800000000000000
+      internalID: -7586183681590550852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 468
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc32f58a95e8f320800000000000000
+      internalID: 2592074037386689779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 468
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90540240921859f0800000000000000
+      internalID: -479612949522788196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 468
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53443b9af97e2c3c0800000000000000
+      internalID: -4340652417898822603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafff78a3e4eb6300800000000000000
+      internalID: 246542271057493935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 444
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53be761ad40405bf0800000000000000
+      internalID: -337699269888185547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a84901f39470d00800000000000000
+      internalID: 938799582539975249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 753
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24052d7474884de0800000000000000
+      internalID: -1348682452546812884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 376
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c912c83695c2359d0800000000000000
+      internalID: -2786834981978365540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 376
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237aaa81561111d0800000000000000
+      internalID: -3381897305703943391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 376
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdaef0a2eea0f80800000000000000
+      internalID: -8139431512095663252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 376
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86a30a361424910800000000000000
+      internalID: 1820089095556851877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 376
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1196faf45d36b20800000000000000
+      internalID: 3126577104547287472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 376
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884735a9e2c86ceb0800000000000000
+      internalID: -4699915029328989048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 353
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde857869746e950800000000000000
+      internalID: 6477943825860455931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 353
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc33500597138410800000000000000
+      internalID: 1478051031430675698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671939c59a0290070800000000000000
+      internalID: 8073019718813061494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 351
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ee7a8517d4d5f0800000000000000
+      internalID: -732724351836690387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60130a0e1f31cd3f0800000000000000
+      internalID: -874802298040078074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 351
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41271060755bcd90800000000000000
+      internalID: -7076468448345775798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99be69b274e85660800000000000000
+      internalID: 7374895571207633308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 353
+        width: 728
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d42c73fa42cc5f0800000000000000
+      internalID: -735172304194876014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 286
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd951a2c5885797c0800000000000000
+      internalID: -4064682807159334435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 286
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a122fdc7176f31e50800000000000000
+      internalID: 6779032831409463834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 286
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55901eab7a5586b10800000000000000
+      internalID: 1974922615485172053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 286
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013dc1db0f37b3530800000000000000
+      internalID: 3835786985438237456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 286
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee7d0b995c6d360800000000000000
+      internalID: 7194154718658555454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_51
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 286
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff33cad32949bd1c0800000000000000
+      internalID: -4477822048668994561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 266
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406925c0a15dccad0800000000000000
+      internalID: -2680533370339682812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07d38c63938bd80800000000000000
+      internalID: -8234769011196464903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 266
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac11c8e5b73118990800000000000000
+      internalID: -7385600493322759734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 266
+        width: 755
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83a4156f933334e0800000000000000
+      internalID: -2003200649561070708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 228
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f6a4e183e5f660800000000000000
+      internalID: 7419086108189193109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4305af7bbd0dd0800000000000000
+      internalID: -2518150459726540917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29763673fc239c400800000000000000
+      internalID: 344862712039434130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 241
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6258d97f8e7957950800000000000000
+      internalID: 6446225468493235494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 240
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03634a0d8ca61f770800000000000000
+      internalID: 8642806570627118640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 228
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1186d4a8b39a5d0800000000000000
+      internalID: -3050841807376608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761768331ec2d6630800000000000000
+      internalID: 3921840196253282663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec033d2192300a0800000000000000
+      internalID: -6916639441881608638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a511884a3632a9d00800000000000000
+      internalID: 980134779775619418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3723c9fae79ba0800000000000000
+      internalID: -6082134413298680147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 223
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd44dedad660770800000000000000
+      internalID: 8576663134151170920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1407879a297dcc00800000000000000
+      internalID: 922526722518615071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 223
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be9ba55cd91d1d00800000000000000
+      internalID: 944939930938482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c8cff33cd8021e0800000000000000
+      internalID: -2224622346189370234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_70
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 244
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e20eac0975aab0800000000000000
+      internalID: -4997455116131704828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 243
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125c24fb694e8050800000000000000
+      internalID: 5804657697734021661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_72
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 241
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f183c3b9c5004f0800000000000000
+      internalID: -864589306655137925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_73
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 223
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c49d3ed5bb25710800000000000000
+      internalID: 1680611622891637914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e13601a7c87c80800000000000000
+      internalID: -8324684416786765413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de807636927f8190800000000000000
+      internalID: -7958016027056369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 222
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ec9de201f57d540800000000000000
+      internalID: 5032595631719960180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 222
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0eca2bbad6434b0800000000000000
+      internalID: -5461619863889059662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_78
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4ad34e57e7d8d0800000000000000
+      internalID: -2821532249473003546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_79
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 222
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a17ad11b5e8c10800000000000000
+      internalID: 2057682211992348268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 222
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efee04f29bc511a0800000000000000
+      internalID: -6839336627071946780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_81
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 222
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b680a448194f1050800000000000000
+      internalID: 5773413615891678903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 228
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd557782a9563d20800000000000000
+      internalID: 3257889935041322488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 228
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570afcf2f211dbe0800000000000000
+      internalID: -1454360369828329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 228
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ccac39379504e0800000000000000
+      internalID: -2016038986091543835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405df2c4f582570800000000000000
+      internalID: 8442102282330637318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 223
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd384b6ea761fe90800000000000000
+      internalID: -6993694747507802626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_87
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 241
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b81876167091be30800000000000000
+      internalID: 4517550738086828213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3ea990a7d71f550800000000000000
+      internalID: 6192868925711770588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_89
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f81a86fa6234700800000000000000
+      internalID: 523304516521660197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd1b3ce10a2a3c50800000000000000
+      internalID: 6645670387885219295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 200
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eee6a0fc2808700800000000000000
+      internalID: 540575781029342770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 200
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32859b9940db780800000000000000
+      internalID: -8665765049704897602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba0ebf93cc6f860800000000000000
+      internalID: 7563457173626334117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 200
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26112152e67d750800000000000000
+      internalID: 6329648906788496118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_95
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26485fc2822694b0800000000000000
+      internalID: -5434117955156163026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_96
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 164
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae1b0b44b9838f0800000000000000
+      internalID: -560527434283095552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_97
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 201
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa716656a8978950800000000000000
+      internalID: 6451292831412746921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 205
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e4ac1c6704e3a0800000000000000
+      internalID: -6637171789918837637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 164
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ad21cc44003800800000000000000
+      internalID: 589976278890555605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_100
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7f86a489a9e2c0800000000000000
+      internalID: -4401800773582750138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 164
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d956c92f68abac90800000000000000
+      internalID: -7157441987379570215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 164
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b034f16dd45ad80800000000000000
+      internalID: -8240094361161626870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 164
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7faf3572ab636e0800000000000000
+      internalID: -1858093118168303634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_104
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 164
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16e20acc5363ca0800000000000000
+      internalID: -6037579097466576471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_105
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 164
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd3409733e73790800000000000000
+      internalID: -7550316422480274564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_106
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c681526e163b27e60800000000000000
+      internalID: 7958620724571478124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_107
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 164
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d04b11ecaa4f580800000000000000
+      internalID: -8794216370310738553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da560d0881d8640800000000000000
+      internalID: 5083746495902362915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_109
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997d87885f641b10800000000000000
+      internalID: 1951306964580268433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_110
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 164
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37859d661b5061dc0800000000000000
+      internalID: -3668738586953820045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_111
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9da4b5b508ca70800000000000000
+      internalID: 8847327745947835705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_112
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 164
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989e24d623eb3f30800000000000000
+      internalID: 4556485203923474588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_113
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 164
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35cdfb62ca9e6b60800000000000000
+      internalID: 7741294969322587454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_114
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 164
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eec3ca8e53e0820800000000000000
+      internalID: 2886303684629425759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_115
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 190
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f78be5acbba9e0800000000000000
+      internalID: -1608985021047638279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_116
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 164
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886861e4f8da187f0800000000000000
+      internalID: -612017243343649144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_117
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 164
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5bb17726f395e70800000000000000
+      internalID: 9104377813843817963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_118
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9e5f35e962a20f0800000000000000
+      internalID: -1141057094129686071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 186
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6acc7467216a0f80800000000000000
+      internalID: -8139586554701231508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_120
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 188
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee004fd394ab3b0800000000000000
+      internalID: -5495999864816734678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_121
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 189
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeef168834dc64c0800000000000000
+      internalID: -4292823005557428516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_122
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 189
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0ec4c906c14900800000000000000
+      internalID: 667031965086386764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_123
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a12b8cbf7378410800000000000000
+      internalID: 1479212557157931623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_124
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad978e2ac48cf0a0800000000000000
+      internalID: -6846451329611096671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a012eaecee29d50800000000000000
+      internalID: 6742714163579128335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_126
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d029385291d6bf0800000000000000
+      internalID: -329579548816306792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a35366e7ef7180800000000000000
+      internalID: -9115312144079675170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_128
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18655e82b265dcdb0800000000000000
+      internalID: -4770061686945786239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_129
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d0be202db7fa380800000000000000
+      internalID: -8957804991894319776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_130
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 111
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f6ce43424285a0800000000000000
+      internalID: -6520576453627153344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_131
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 470
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b7a646b649fab70800000000000000
+      internalID: 8912505376556612388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a77cdf5c91baa0800000000000000
+      internalID: -6146960080849360620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_133
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604756c809b5cfd0800000000000000
+      internalID: -2322246585501138834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_134
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 92
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cbbc22ed6847550800000000000000
+      internalID: 6157694879146949644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_135
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a4be16ba0703cd0800000000000000
+      internalID: -2580438705098765796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e785f5fe7b4e71c60800000000000000
+      internalID: 7788945559206713470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_137
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062a18cbdf2f03a0800000000000000
+      internalID: -6697081499875138048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_138
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b7703bab7301a0800000000000000
+      internalID: -6844491033490247476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a9347f124a0a00800000000000000
+      internalID: 723463393007739610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_140
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776e30b2316fc270800000000000000
+      internalID: 8272937910836029303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_141
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c643c4f4e0f91b9e0800000000000000
+      internalID: -1607328708185803668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_142
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f719aa51706335b0800000000000000
+      internalID: -5389858289063749641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_143
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c44972a9bd6f2d0800000000000000
+      internalID: -3245165026338386806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_144
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb388f213aa3a3c30800000000000000
+      internalID: 4339845662997251006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b226451b43a880800000000000000
+      internalID: -8600948308604439431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_146
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5237ac1222c5ae0800000000000000
+      internalID: -1559333842451225099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_147
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79544b238762c4d60800000000000000
+      internalID: 7875712146052760983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51f07dc515a0db10800000000000000
+      internalID: 2004283347239498079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_149
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05fa630b065e8190800000000000000
+      internalID: -7958328886215117556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86311b2462ce27490800000000000000
+      internalID: -7749872359679388824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_151
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc4ee245160c0f0800000000000000
+      internalID: -1098771294886506576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_152
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e384e0780fbf10800000000000000
+      internalID: 2287556416690709015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27591f6c67b3b140800000000000000
+      internalID: 4734329309644805930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_154
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba72b76f040a72b0800000000000000
+      internalID: -5586147923588908361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_155
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d164dc6bb6b08a0800000000000000
+      internalID: -6337853617721696899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_156
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1140a84c1e03a2aa0800000000000000
+      internalID: -6185077392016800751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_157
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e9cdb152169730800000000000000
+      internalID: 4005409060878411493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_158
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc1bf31329c3820800000000000000
+      internalID: 2899353000339426775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_159
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c20f870d37b610800000000000000
+      internalID: 1636844092245853651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_160
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25485ed8a44617b80800000000000000
+      internalID: -8398821558698277806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_161
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a32ecf515680bd0800000000000000
+      internalID: -2663768034478245338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_162
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf9213fc80ac7b0800000000000000
+      internalID: -5203336733497099567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8c9ba47291d340800000000000000
+      internalID: 4886848100466724839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_164
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555470b0cd8e0f40800000000000000
+      internalID: 5696646437403907408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 94
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7f87d0f93283d0800000000000000
+      internalID: -3205936278162931773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_166
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f4f0e61b6ddd90800000000000000
+      internalID: -7071378093894207542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_167
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb0acada42e2a20800000000000000
+      internalID: 3039407126865820734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_168
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a047143b2156ad710800000000000000
+      internalID: 1718797338786493450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_169
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8df8824e0d8f20800000000000000
+      internalID: 3426410570427764413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a3c62e7494aaf0800000000000000
+      internalID: -386020398509874819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_171
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 60
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c440938c30cc460800000000000000
+      internalID: 7263184457526692873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_172
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 61
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe37101b637960950800000000000000
+      internalID: 6414980980389540847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_173
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76cd8806b454cc10800000000000000
+      internalID: 2072874869301560955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_174
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 62
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d76aff047ebe460800000000000000
+      internalID: 7272160289672822056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_175
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7656228fb84e9afc0800000000000000
+      internalID: -3483001546979777177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_176
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 65
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d0ead0c025e1ca0800000000000000
+      internalID: -6044303438162031318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_177
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2bd80a641ad590800000000000000
+      internalID: -7648778571487696163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_178
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a2a6247b2459570800000000000000
+      internalID: 8472751628828158591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_179
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 62
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449c78508a8b92660800000000000000
+      internalID: 7361618097700587844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_180
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 61
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5977856ae28b40800000000000000
+      internalID: 5441169021602454299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f5d71fe88d76f0800000000000000
+      internalID: -685241007811987430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_182
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 14
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f796e0c4287a9f20800000000000000
+      internalID: 3430186165446547441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_183
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d8d8bccc94d730800000000000000
+      internalID: 4023012770237174904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_184
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31b33afe1a3b1a0800000000000000
+      internalID: -6794909362164132927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_185
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7f9e137bad7fe0800000000000000
+      internalID: -1189606215632585198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_186
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385572908e46dde0800000000000000
+      internalID: -1308772327584606160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_187
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5abc2088652f490800000000000000
+      internalID: -7714008069569796651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_188
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8aad495b8aad500800000000000000
+      internalID: 421835012952467642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_189
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e40ffcbf57eca0800000000000000
+      internalID: -5987711914228783069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_190
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03692294b1bc7a8a0800000000000000
+      internalID: -6293838636175419856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_191
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 30
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260237b4e7aa6120800000000000000
+      internalID: 2407921551550842409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_192
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e6c471995f5c90800000000000000
+      internalID: -7178920799740960018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_193
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20d4078e9161420800000000000000
+      internalID: 2600294320960242402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_194
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac44bb252fb54cc0800000000000000
+      internalID: -3727362950211285854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_195
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 12
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d03b595e24f2a140800000000000000
+      internalID: 4729611038597263572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_196
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 23
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37f762b08689520800000000000000
+      internalID: 2709029572963169220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_197
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa1d0a0b1923700800000000000000
+      internalID: 518637094899396463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_198
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17d5aa059943b830800000000000000
+      internalID: 4085690191432767262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_199
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b868213b4c7700800000000000000
+      internalID: 539388729881047306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_200
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366d190a9b4a58f0800000000000000
+      internalID: -551044879449496009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_201
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1e549e213c3250800000000000000
+      internalID: 5925665285840183071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ptolemaic Sub_202
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737ce37edde9c570800000000000000
+      internalID: 8487576512439808888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ptolemaic Sub_0: -991577508648602008
+      Ptolemaic Sub_1: -6084066583671194786
+      Ptolemaic Sub_10: -6416364193547642633
+      Ptolemaic Sub_100: -4401800773582750138
+      Ptolemaic Sub_101: -7157441987379570215
+      Ptolemaic Sub_102: -8240094361161626870
+      Ptolemaic Sub_103: -1858093118168303634
+      Ptolemaic Sub_104: -6037579097466576471
+      Ptolemaic Sub_105: -7550316422480274564
+      Ptolemaic Sub_106: 7958620724571478124
+      Ptolemaic Sub_107: -8794216370310738553
+      Ptolemaic Sub_108: 5083746495902362915
+      Ptolemaic Sub_109: 1951306964580268433
+      Ptolemaic Sub_11: 6079093846897334730
+      Ptolemaic Sub_110: -3668738586953820045
+      Ptolemaic Sub_111: 8847327745947835705
+      Ptolemaic Sub_112: 4556485203923474588
+      Ptolemaic Sub_113: 7741294969322587454
+      Ptolemaic Sub_114: 2886303684629425759
+      Ptolemaic Sub_115: -1608985021047638279
+      Ptolemaic Sub_116: -612017243343649144
+      Ptolemaic Sub_117: 9104377813843817963
+      Ptolemaic Sub_118: -1141057094129686071
+      Ptolemaic Sub_119: -8139586554701231508
+      Ptolemaic Sub_12: -3344983057171476654
+      Ptolemaic Sub_120: -5495999864816734678
+      Ptolemaic Sub_121: -4292823005557428516
+      Ptolemaic Sub_122: 667031965086386764
+      Ptolemaic Sub_123: 1479212557157931623
+      Ptolemaic Sub_124: -6846451329611096671
+      Ptolemaic Sub_125: 6742714163579128335
+      Ptolemaic Sub_126: -329579548816306792
+      Ptolemaic Sub_127: -9115312144079675170
+      Ptolemaic Sub_128: -4770061686945786239
+      Ptolemaic Sub_129: -8957804991894319776
+      Ptolemaic Sub_13: 2646755927415778709
+      Ptolemaic Sub_130: -6520576453627153344
+      Ptolemaic Sub_131: 8912505376556612388
+      Ptolemaic Sub_132: -6146960080849360620
+      Ptolemaic Sub_133: -2322246585501138834
+      Ptolemaic Sub_134: 6157694879146949644
+      Ptolemaic Sub_135: -2580438705098765796
+      Ptolemaic Sub_136: 7788945559206713470
+      Ptolemaic Sub_137: -6697081499875138048
+      Ptolemaic Sub_138: -6844491033490247476
+      Ptolemaic Sub_139: 723463393007739610
+      Ptolemaic Sub_14: 6846758110098015190
+      Ptolemaic Sub_140: 8272937910836029303
+      Ptolemaic Sub_141: -1607328708185803668
+      Ptolemaic Sub_142: -5389858289063749641
+      Ptolemaic Sub_143: -3245165026338386806
+      Ptolemaic Sub_144: 4339845662997251006
+      Ptolemaic Sub_145: -8600948308604439431
+      Ptolemaic Sub_146: -1559333842451225099
+      Ptolemaic Sub_147: 7875712146052760983
+      Ptolemaic Sub_148: 2004283347239498079
+      Ptolemaic Sub_149: -7958328886215117556
+      Ptolemaic Sub_15: -2807570803152698156
+      Ptolemaic Sub_150: -7749872359679388824
+      Ptolemaic Sub_151: -1098771294886506576
+      Ptolemaic Sub_152: 2287556416690709015
+      Ptolemaic Sub_153: 4734329309644805930
+      Ptolemaic Sub_154: -5586147923588908361
+      Ptolemaic Sub_155: -6337853617721696899
+      Ptolemaic Sub_156: -6185077392016800751
+      Ptolemaic Sub_157: 4005409060878411493
+      Ptolemaic Sub_158: 2899353000339426775
+      Ptolemaic Sub_159: 1636844092245853651
+      Ptolemaic Sub_16: -7192941735631707503
+      Ptolemaic Sub_160: -8398821558698277806
+      Ptolemaic Sub_161: -2663768034478245338
+      Ptolemaic Sub_162: -5203336733497099567
+      Ptolemaic Sub_163: 4886848100466724839
+      Ptolemaic Sub_164: 5696646437403907408
+      Ptolemaic Sub_165: -3205936278162931773
+      Ptolemaic Sub_166: -7071378093894207542
+      Ptolemaic Sub_167: 3039407126865820734
+      Ptolemaic Sub_168: 1718797338786493450
+      Ptolemaic Sub_169: 3426410570427764413
+      Ptolemaic Sub_17: 3291559946194776806
+      Ptolemaic Sub_170: -386020398509874819
+      Ptolemaic Sub_171: 7263184457526692873
+      Ptolemaic Sub_172: 6414980980389540847
+      Ptolemaic Sub_173: 2072874869301560955
+      Ptolemaic Sub_174: 7272160289672822056
+      Ptolemaic Sub_175: -3483001546979777177
+      Ptolemaic Sub_176: -6044303438162031318
+      Ptolemaic Sub_177: -7648778571487696163
+      Ptolemaic Sub_178: 8472751628828158591
+      Ptolemaic Sub_179: 7361618097700587844
+      Ptolemaic Sub_18: 2534180398594941424
+      Ptolemaic Sub_180: 5441169021602454299
+      Ptolemaic Sub_181: -685241007811987430
+      Ptolemaic Sub_182: 3430186165446547441
+      Ptolemaic Sub_183: 4023012770237174904
+      Ptolemaic Sub_184: -6794909362164132927
+      Ptolemaic Sub_185: -1189606215632585198
+      Ptolemaic Sub_186: -1308772327584606160
+      Ptolemaic Sub_187: -7714008069569796651
+      Ptolemaic Sub_188: 421835012952467642
+      Ptolemaic Sub_189: -5987711914228783069
+      Ptolemaic Sub_19: -8340343612546840659
+      Ptolemaic Sub_190: -6293838636175419856
+      Ptolemaic Sub_191: 2407921551550842409
+      Ptolemaic Sub_192: -7178920799740960018
+      Ptolemaic Sub_193: 2600294320960242402
+      Ptolemaic Sub_194: -3727362950211285854
+      Ptolemaic Sub_195: 4729611038597263572
+      Ptolemaic Sub_196: 2709029572963169220
+      Ptolemaic Sub_197: 518637094899396463
+      Ptolemaic Sub_198: 4085690191432767262
+      Ptolemaic Sub_199: 539388729881047306
+      Ptolemaic Sub_2: -4580061431205691304
+      Ptolemaic Sub_20: -7011736945530057295
+      Ptolemaic Sub_200: -551044879449496009
+      Ptolemaic Sub_201: 5925665285840183071
+      Ptolemaic Sub_202: 8487576512439808888
+      Ptolemaic Sub_21: -4675783348387613930
+      Ptolemaic Sub_22: 5262296300527379795
+      Ptolemaic Sub_23: -8288662749060663832
+      Ptolemaic Sub_24: -7586183681590550852
+      Ptolemaic Sub_25: 2592074037386689779
+      Ptolemaic Sub_26: -479612949522788196
+      Ptolemaic Sub_27: -4340652417898822603
+      Ptolemaic Sub_28: 246542271057493935
+      Ptolemaic Sub_29: -337699269888185547
+      Ptolemaic Sub_3: -4356833190310222476
+      Ptolemaic Sub_30: 938799582539975249
+      Ptolemaic Sub_31: -1348682452546812884
+      Ptolemaic Sub_32: -2786834981978365540
+      Ptolemaic Sub_33: -3381897305703943391
+      Ptolemaic Sub_34: -8139431512095663252
+      Ptolemaic Sub_35: 1820089095556851877
+      Ptolemaic Sub_36: 3126577104547287472
+      Ptolemaic Sub_37: -4699915029328989048
+      Ptolemaic Sub_38: 6477943825860455931
+      Ptolemaic Sub_39: 1478051031430675698
+      Ptolemaic Sub_4: -7361033740616006178
+      Ptolemaic Sub_40: 8073019718813061494
+      Ptolemaic Sub_41: -732724351836690387
+      Ptolemaic Sub_42: -874802298040078074
+      Ptolemaic Sub_43: -7076468448345775798
+      Ptolemaic Sub_44: 7374895571207633308
+      Ptolemaic Sub_45: -735172304194876014
+      Ptolemaic Sub_46: -4064682807159334435
+      Ptolemaic Sub_47: 6779032831409463834
+      Ptolemaic Sub_48: 1974922615485172053
+      Ptolemaic Sub_49: 3835786985438237456
+      Ptolemaic Sub_5: 5572541981733365288
+      Ptolemaic Sub_50: 7194154718658555454
+      Ptolemaic Sub_51: -4477822048668994561
+      Ptolemaic Sub_52: -2680533370339682812
+      Ptolemaic Sub_53: -8234769011196464903
+      Ptolemaic Sub_54: -7385600493322759734
+      Ptolemaic Sub_55: -2003200649561070708
+      Ptolemaic Sub_56: 7419086108189193109
+      Ptolemaic Sub_57: -2518150459726540917
+      Ptolemaic Sub_58: 344862712039434130
+      Ptolemaic Sub_59: 6446225468493235494
+      Ptolemaic Sub_6: -4494072025358658551
+      Ptolemaic Sub_60: 8642806570627118640
+      Ptolemaic Sub_61: -3050841807376608792
+      Ptolemaic Sub_62: 3921840196253282663
+      Ptolemaic Sub_63: -6916639441881608638
+      Ptolemaic Sub_64: 980134779775619418
+      Ptolemaic Sub_65: -6082134413298680147
+      Ptolemaic Sub_66: 8576663134151170920
+      Ptolemaic Sub_67: 922526722518615071
+      Ptolemaic Sub_68: 944939930938482357
+      Ptolemaic Sub_69: -2224622346189370234
+      Ptolemaic Sub_7: -6815271260664984713
+      Ptolemaic Sub_70: -4997455116131704828
+      Ptolemaic Sub_71: 5804657697734021661
+      Ptolemaic Sub_72: -864589306655137925
+      Ptolemaic Sub_73: 1680611622891637914
+      Ptolemaic Sub_74: -8324684416786765413
+      Ptolemaic Sub_75: -7958016027056369968
+      Ptolemaic Sub_76: 5032595631719960180
+      Ptolemaic Sub_77: -5461619863889059662
+      Ptolemaic Sub_78: -2821532249473003546
+      Ptolemaic Sub_79: 2057682211992348268
+      Ptolemaic Sub_8: -4290687862918027687
+      Ptolemaic Sub_80: -6839336627071946780
+      Ptolemaic Sub_81: 5773413615891678903
+      Ptolemaic Sub_82: 3257889935041322488
+      Ptolemaic Sub_83: -1454360369828329633
+      Ptolemaic Sub_84: -2016038986091543835
+      Ptolemaic Sub_85: 8442102282330637318
+      Ptolemaic Sub_86: -6993694747507802626
+      Ptolemaic Sub_87: 4517550738086828213
+      Ptolemaic Sub_88: 6192868925711770588
+      Ptolemaic Sub_89: 523304516521660197
+      Ptolemaic Sub_9: 8286336413655069995
+      Ptolemaic Sub_90: 6645670387885219295
+      Ptolemaic Sub_91: 540575781029342770
+      Ptolemaic Sub_92: -8665765049704897602
+      Ptolemaic Sub_93: 7563457173626334117
+      Ptolemaic Sub_94: 6329648906788496118
+      Ptolemaic Sub_95: -5434117955156163026
+      Ptolemaic Sub_96: -560527434283095552
+      Ptolemaic Sub_97: 6451292831412746921
+      Ptolemaic Sub_98: -6637171789918837637
+      Ptolemaic Sub_99: 589976278890555605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

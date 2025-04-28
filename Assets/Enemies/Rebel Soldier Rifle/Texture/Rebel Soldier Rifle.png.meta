@@ -1,0 +1,4563 @@
+fileFormatVersion: 2
+guid: fc5c98fe52003674498a3f708c73aa81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5876678131316668411
+    second: Rebel Soldier Rifle_0
+  - first:
+      213: -7204417237261405662
+    second: Rebel Soldier Rifle_1
+  - first:
+      213: -4185404296145732782
+    second: Rebel Soldier Rifle_2
+  - first:
+      213: -2684716517979179807
+    second: Rebel Soldier Rifle_3
+  - first:
+      213: -768769169985255596
+    second: Rebel Soldier Rifle_4
+  - first:
+      213: -4188717954553569960
+    second: Rebel Soldier Rifle_5
+  - first:
+      213: 7109517328675439925
+    second: Rebel Soldier Rifle_6
+  - first:
+      213: -4466038072963249939
+    second: Rebel Soldier Rifle_7
+  - first:
+      213: 7408724698619151619
+    second: Rebel Soldier Rifle_8
+  - first:
+      213: -5381652414638145540
+    second: Rebel Soldier Rifle_9
+  - first:
+      213: 5618740549766984882
+    second: Rebel Soldier Rifle_10
+  - first:
+      213: 3973556664270313945
+    second: Rebel Soldier Rifle_11
+  - first:
+      213: 1140654218160561128
+    second: Rebel Soldier Rifle_12
+  - first:
+      213: -7915702134922752083
+    second: Rebel Soldier Rifle_13
+  - first:
+      213: 8645931710235672507
+    second: Rebel Soldier Rifle_14
+  - first:
+      213: 1196697214192616186
+    second: Rebel Soldier Rifle_15
+  - first:
+      213: 3133815679654515586
+    second: Rebel Soldier Rifle_16
+  - first:
+      213: -8465308096917481877
+    second: Rebel Soldier Rifle_17
+  - first:
+      213: 8952348447973301947
+    second: Rebel Soldier Rifle_18
+  - first:
+      213: -8487511257197069107
+    second: Rebel Soldier Rifle_19
+  - first:
+      213: -2949688052307112547
+    second: Rebel Soldier Rifle_20
+  - first:
+      213: 3654134993268042208
+    second: Rebel Soldier Rifle_21
+  - first:
+      213: -317863057242947042
+    second: Rebel Soldier Rifle_22
+  - first:
+      213: -7651851243349977787
+    second: Rebel Soldier Rifle_23
+  - first:
+      213: 4653077754262435742
+    second: Rebel Soldier Rifle_24
+  - first:
+      213: 8564098384051101402
+    second: Rebel Soldier Rifle_25
+  - first:
+      213: -5926281064014638435
+    second: Rebel Soldier Rifle_26
+  - first:
+      213: -3666617423833994872
+    second: Rebel Soldier Rifle_27
+  - first:
+      213: 5284293800235565319
+    second: Rebel Soldier Rifle_28
+  - first:
+      213: 2180830881811328610
+    second: Rebel Soldier Rifle_29
+  - first:
+      213: -5592730567213408674
+    second: Rebel Soldier Rifle_30
+  - first:
+      213: -7440433180127593788
+    second: Rebel Soldier Rifle_31
+  - first:
+      213: 3178842115469729887
+    second: Rebel Soldier Rifle_32
+  - first:
+      213: -4793675654326401572
+    second: Rebel Soldier Rifle_33
+  - first:
+      213: 4435477766571963101
+    second: Rebel Soldier Rifle_34
+  - first:
+      213: 130227955446229871
+    second: Rebel Soldier Rifle_35
+  - first:
+      213: -2178308454837598879
+    second: Rebel Soldier Rifle_36
+  - first:
+      213: -5051231398891245883
+    second: Rebel Soldier Rifle_37
+  - first:
+      213: 3525226747443593201
+    second: Rebel Soldier Rifle_38
+  - first:
+      213: 3663804500104246177
+    second: Rebel Soldier Rifle_39
+  - first:
+      213: 5773510189100531547
+    second: Rebel Soldier Rifle_40
+  - first:
+      213: -1318364663011557980
+    second: Rebel Soldier Rifle_41
+  - first:
+      213: 970749158878733381
+    second: Rebel Soldier Rifle_42
+  - first:
+      213: -4297240138313732408
+    second: Rebel Soldier Rifle_43
+  - first:
+      213: -7686494534671022974
+    second: Rebel Soldier Rifle_44
+  - first:
+      213: -5012193654266558215
+    second: Rebel Soldier Rifle_45
+  - first:
+      213: 5266311987738862686
+    second: Rebel Soldier Rifle_46
+  - first:
+      213: 7112569398329146652
+    second: Rebel Soldier Rifle_47
+  - first:
+      213: 240397662204893206
+    second: Rebel Soldier Rifle_48
+  - first:
+      213: 320209772097524781
+    second: Rebel Soldier Rifle_49
+  - first:
+      213: 4237931884334228443
+    second: Rebel Soldier Rifle_50
+  - first:
+      213: 6041202302209021629
+    second: Rebel Soldier Rifle_51
+  - first:
+      213: 1959076508563438739
+    second: Rebel Soldier Rifle_52
+  - first:
+      213: 7271328897688853129
+    second: Rebel Soldier Rifle_53
+  - first:
+      213: 1174564693050451243
+    second: Rebel Soldier Rifle_54
+  - first:
+      213: -3731772774086168340
+    second: Rebel Soldier Rifle_55
+  - first:
+      213: 4925447637925609178
+    second: Rebel Soldier Rifle_56
+  - first:
+      213: -3313517567299805044
+    second: Rebel Soldier Rifle_57
+  - first:
+      213: 4946539308610330625
+    second: Rebel Soldier Rifle_58
+  - first:
+      213: -7351784607428616833
+    second: Rebel Soldier Rifle_59
+  - first:
+      213: 5276965079569067408
+    second: Rebel Soldier Rifle_60
+  - first:
+      213: -7575204368254726648
+    second: Rebel Soldier Rifle_61
+  - first:
+      213: -6173278958571751596
+    second: Rebel Soldier Rifle_62
+  - first:
+      213: 2683243133067282502
+    second: Rebel Soldier Rifle_63
+  - first:
+      213: 3757741304012899607
+    second: Rebel Soldier Rifle_64
+  - first:
+      213: 8061627040401698621
+    second: Rebel Soldier Rifle_65
+  - first:
+      213: 3312519307863333244
+    second: Rebel Soldier Rifle_66
+  - first:
+      213: -8618514077585029385
+    second: Rebel Soldier Rifle_67
+  - first:
+      213: 2809616165572102509
+    second: Rebel Soldier Rifle_68
+  - first:
+      213: -525849565504675395
+    second: Rebel Soldier Rifle_69
+  - first:
+      213: -2547758207352793040
+    second: Rebel Soldier Rifle_70
+  - first:
+      213: -9188991190265724886
+    second: Rebel Soldier Rifle_71
+  - first:
+      213: -4174186240860942621
+    second: Rebel Soldier Rifle_72
+  - first:
+      213: -4407191957027080058
+    second: Rebel Soldier Rifle_73
+  - first:
+      213: -1149502464788903655
+    second: Rebel Soldier Rifle_74
+  - first:
+      213: 3488300765070661296
+    second: Rebel Soldier Rifle_75
+  - first:
+      213: -7207319978701708139
+    second: Rebel Soldier Rifle_76
+  - first:
+      213: -6261847446912586653
+    second: Rebel Soldier Rifle_77
+  - first:
+      213: 3092710779526119800
+    second: Rebel Soldier Rifle_78
+  - first:
+      213: -134422146148068485
+    second: Rebel Soldier Rifle_79
+  - first:
+      213: -4163407828831454250
+    second: Rebel Soldier Rifle_80
+  - first:
+      213: 3701200529940324290
+    second: Rebel Soldier Rifle_81
+  - first:
+      213: -7261643884499781716
+    second: Rebel Soldier Rifle_82
+  - first:
+      213: 2414535621400526667
+    second: Rebel Soldier Rifle_83
+  - first:
+      213: 28730375836033788
+    second: Rebel Soldier Rifle_84
+  - first:
+      213: 2911459980020439079
+    second: Rebel Soldier Rifle_85
+  - first:
+      213: 6622855791055479695
+    second: Rebel Soldier Rifle_86
+  - first:
+      213: -4003434164105258040
+    second: Rebel Soldier Rifle_87
+  - first:
+      213: -1563407887990040649
+    second: Rebel Soldier Rifle_88
+  - first:
+      213: -6368973895564905287
+    second: Rebel Soldier Rifle_89
+  - first:
+      213: 1138762036439564620
+    second: Rebel Soldier Rifle_90
+  - first:
+      213: 6600984086258201138
+    second: Rebel Soldier Rifle_91
+  - first:
+      213: -6932444462811500734
+    second: Rebel Soldier Rifle_92
+  - first:
+      213: -9130776330878029319
+    second: Rebel Soldier Rifle_93
+  - first:
+      213: -4449812484279948482
+    second: Rebel Soldier Rifle_94
+  - first:
+      213: 2692182026231931440
+    second: Rebel Soldier Rifle_95
+  - first:
+      213: -3717090016587090689
+    second: Rebel Soldier Rifle_96
+  - first:
+      213: 4729239952426118652
+    second: Rebel Soldier Rifle_97
+  - first:
+      213: 4958707378943276095
+    second: Rebel Soldier Rifle_98
+  - first:
+      213: -6435238080623610823
+    second: Rebel Soldier Rifle_99
+  - first:
+      213: -819918852154599366
+    second: Rebel Soldier Rifle_100
+  - first:
+      213: -5935708277992033802
+    second: Rebel Soldier Rifle_101
+  - first:
+      213: 6246287535910743512
+    second: Rebel Soldier Rifle_102
+  - first:
+      213: 7698517937927225301
+    second: Rebel Soldier Rifle_103
+  - first:
+      213: -1445846732826186373
+    second: Rebel Soldier Rifle_104
+  - first:
+      213: 9004281264481987229
+    second: Rebel Soldier Rifle_105
+  - first:
+      213: -2051710908158510930
+    second: Rebel Soldier Rifle_106
+  - first:
+      213: 2683883599185763884
+    second: Rebel Soldier Rifle_107
+  - first:
+      213: -679870041948251901
+    second: Rebel Soldier Rifle_108
+  - first:
+      213: -1407703733816753319
+    second: Rebel Soldier Rifle_109
+  - first:
+      213: -8618536105022875344
+    second: Rebel Soldier Rifle_110
+  - first:
+      213: -5974363561989420563
+    second: Rebel Soldier Rifle_111
+  - first:
+      213: 686408294468610746
+    second: Rebel Soldier Rifle_112
+  - first:
+      213: 5671134033884088952
+    second: Rebel Soldier Rifle_113
+  - first:
+      213: 3392354795582128095
+    second: Rebel Soldier Rifle_114
+  - first:
+      213: 8805612311131444496
+    second: Rebel Soldier Rifle_115
+  - first:
+      213: -2728094778254707495
+    second: Rebel Soldier Rifle_116
+  - first:
+      213: -613765024225850226
+    second: Rebel Soldier Rifle_117
+  - first:
+      213: 7191213051999926424
+    second: Rebel Soldier Rifle_118
+  - first:
+      213: 2093424592907524698
+    second: Rebel Soldier Rifle_119
+  - first:
+      213: -4362166852125670715
+    second: Rebel Soldier Rifle_120
+  - first:
+      213: -5433372781206760523
+    second: Rebel Soldier Rifle_121
+  - first:
+      213: -5879327655575674788
+    second: Rebel Soldier Rifle_122
+  - first:
+      213: -1153492298035918239
+    second: Rebel Soldier Rifle_123
+  - first:
+      213: 5578709138970040941
+    second: Rebel Soldier Rifle_124
+  - first:
+      213: 5085937550793194471
+    second: Rebel Soldier Rifle_125
+  - first:
+      213: -5846692565334626284
+    second: Rebel Soldier Rifle_126
+  - first:
+      213: -6702995387320188280
+    second: Rebel Soldier Rifle_127
+  - first:
+      213: 8142478124480870279
+    second: Rebel Soldier Rifle_128
+  - first:
+      213: 8823024165117629116
+    second: Rebel Soldier Rifle_129
+  - first:
+      213: -735721021033984827
+    second: Rebel Soldier Rifle_130
+  - first:
+      213: -4491708790194931165
+    second: Rebel Soldier Rifle_131
+  - first:
+      213: 6360358580224560834
+    second: Rebel Soldier Rifle_132
+  - first:
+      213: 3166440524135489167
+    second: Rebel Soldier Rifle_133
+  - first:
+      213: 5998596843572282533
+    second: Rebel Soldier Rifle_134
+  - first:
+      213: -506986686737872796
+    second: Rebel Soldier Rifle_135
+  - first:
+      213: -3965643264256728595
+    second: Rebel Soldier Rifle_136
+  - first:
+      213: -7277512063090323138
+    second: Rebel Soldier Rifle_137
+  - first:
+      213: 2570944616194070941
+    second: Rebel Soldier Rifle_138
+  - first:
+      213: 1352491535401476300
+    second: Rebel Soldier Rifle_139
+  - first:
+      213: 8074400906050935791
+    second: Rebel Soldier Rifle_140
+  - first:
+      213: -4695642820640426527
+    second: Rebel Soldier Rifle_141
+  - first:
+      213: 4277327028987928822
+    second: Rebel Soldier Rifle_142
+  - first:
+      213: 7535739554534051518
+    second: Rebel Soldier Rifle_143
+  - first:
+      213: 5989367098047313994
+    second: Rebel Soldier Rifle_144
+  - first:
+      213: -2130037598030446757
+    second: Rebel Soldier Rifle_145
+  - first:
+      213: -35451120635918049
+    second: Rebel Soldier Rifle_146
+  - first:
+      213: -3526898748753978476
+    second: Rebel Soldier Rifle_147
+  - first:
+      213: -4270407479608323451
+    second: Rebel Soldier Rifle_148
+  - first:
+      213: -9065779508711862716
+    second: Rebel Soldier Rifle_149
+  - first:
+      213: 579979918009261091
+    second: Rebel Soldier Rifle_150
+  - first:
+      213: 114703976613374299
+    second: Rebel Soldier Rifle_151
+  - first:
+      213: -2043602954054177968
+    second: Rebel Soldier Rifle_152
+  - first:
+      213: 3785105236379924993
+    second: Rebel Soldier Rifle_153
+  - first:
+      213: 3777688393215866041
+    second: Rebel Soldier Rifle_154
+  - first:
+      213: -2090727995788270731
+    second: Rebel Soldier Rifle_155
+  - first:
+      213: -7858956307399080727
+    second: Rebel Soldier Rifle_156
+  - first:
+      213: -1594950509302007784
+    second: Rebel Soldier Rifle_157
+  - first:
+      213: -8315697397490035148
+    second: Rebel Soldier Rifle_158
+  - first:
+      213: -6136837600046733388
+    second: Rebel Soldier Rifle_159
+  - first:
+      213: -3974472295532644412
+    second: Rebel Soldier Rifle_160
+  - first:
+      213: 5275193225648920050
+    second: Rebel Soldier Rifle_161
+  - first:
+      213: 7073614501857885455
+    second: Rebel Soldier Rifle_162
+  - first:
+      213: -758479042353366566
+    second: Rebel Soldier Rifle_163
+  - first:
+      213: 6512831560649948560
+    second: Rebel Soldier Rifle_164
+  - first:
+      213: -8881571167811798812
+    second: Rebel Soldier Rifle_165
+  - first:
+      213: -2312007042627809838
+    second: Rebel Soldier Rifle_166
+  - first:
+      213: 8356429143146054922
+    second: Rebel Soldier Rifle_167
+  - first:
+      213: 2043774998172194096
+    second: Rebel Soldier Rifle_168
+  - first:
+      213: 223292763409356034
+    second: Rebel Soldier Rifle_169
+  - first:
+      213: -2305747678639347447
+    second: Rebel Soldier Rifle_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1241
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50840932068d17ea0800000000000000
+      internalID: -5876678131316668411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1241
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222355f71b4c40c90800000000000000
+      internalID: -7204417237261405662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1241
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf6d6c7f47ae5c0800000000000000
+      internalID: -4185404296145732782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1241
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43a371d88fdbad0800000000000000
+      internalID: -2684716517979179807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1201
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c1c45388c455f0800000000000000
+      internalID: -768769169985255596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1201
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d988e863faed5c0800000000000000
+      internalID: -4188717954553569960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1206
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350f24b7541aa260800000000000000
+      internalID: 7109517328675439925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1203
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8c7a3e8027502c0800000000000000
+      internalID: -4466038072963249939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1202
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058bdb3cd311d660800000000000000
+      internalID: 7408724698619151619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1201
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbed064a78055b0800000000000000
+      internalID: -5381652414638145540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1201
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b1f9b2c6c9fd40800000000000000
+      internalID: 5618740549766984882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1202
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9d7bcbbb8e42730800000000000000
+      internalID: 3973556664270313945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1207
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd20dc7fa64df00800000000000000
+      internalID: 1140654218160561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1204
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafc024f8d6c52290800000000000000
+      internalID: -7915702134922752083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1202
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff1e415158cf770800000000000000
+      internalID: 8645931710235672507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1201
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af286a3a6c58b9010800000000000000
+      internalID: 1196697214192616186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1160
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835b59c1cc8d7b20800000000000000
+      internalID: 3133815679654515586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1160
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66def0132f258a80800000000000000
+      internalID: -8465308096917481877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1109
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed7fa5b712d3c70800000000000000
+      internalID: 8952348447973301947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1109
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb3a7fa7d463a80800000000000000
+      internalID: -8487511257197069107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1117
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d4504385a9017d0800000000000000
+      internalID: -2949688052307112547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1120
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e01b7a6816b230800000000000000
+      internalID: 3654134993268042208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1120
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1280d9cb39b69bf0800000000000000
+      internalID: -317863057242947042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1109
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455efdd5d92fc590800000000000000
+      internalID: -7651851243349977787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1109
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97b51f709d039040800000000000000
+      internalID: 4653077754262435742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1109
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adedcd21b1ac9d670800000000000000
+      internalID: 8564098384051101402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1073
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92984465ce91cda0800000000000000
+      internalID: -5926281064014638435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1073
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ed1d21ee8d1dc0800000000000000
+      internalID: -3666617423833994872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1073
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70107d3c635955940800000000000000
+      internalID: 5284293800235565319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1073
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ee099e12ed34e10800000000000000
+      internalID: 2180830881811328610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1073
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e96c04e21a262b0800000000000000
+      internalID: -5592730567213408674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1073
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caf67b91754eb890800000000000000
+      internalID: -7440433180127593788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1073
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ef91df048d1c20800000000000000
+      internalID: 3178842115469729887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1073
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5cf6fe361797db0800000000000000
+      internalID: -4793675654326401572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1026
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23aad478bfd8d30800000000000000
+      internalID: 4435477766571963101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1026
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ba230b2a9aec100800000000000000
+      internalID: 130227955446229871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1026
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165cc22600815c1e0800000000000000
+      internalID: -2178308454837598879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1026
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cea9c62ecb66e9b0800000000000000
+      internalID: -5051231398891245883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1026
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffb412ac0f1ce030800000000000000
+      internalID: 3525226747443593201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1026
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f03bf7c278d230800000000000000
+      internalID: 3663804500104246177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1026
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7f687de0af1050800000000000000
+      internalID: 5773510189100531547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1026
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb4c0f25a34bde0800000000000000
+      internalID: -1318364663011557980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1026
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e9fc773bc87d00800000000000000
+      internalID: 970749158878733381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1026
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6249acd22d54c0800000000000000
+      internalID: -4297240138313732408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1026
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284c3fc02f5145590800000000000000
+      internalID: -7686494534671022974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1026
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f889fb5d6c117ab0800000000000000
+      internalID: -5012193654266558215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_46
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1026
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e546e89c9d2b51940800000000000000
+      internalID: 5266311987738862686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 996
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df8bb0f2ce4b260800000000000000
+      internalID: 7112569398329146652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 946
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189e8c6660165300800000000000000
+      internalID: 240397662204893206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 946
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245b77571d917400800000000000000
+      internalID: 320209772097524781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 946
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32b04689820da30800000000000000
+      internalID: 4237931884334228443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 946
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6d0777c79a6d350800000000000000
+      internalID: 6041202302209021629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 937
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c7cb474b9003b10800000000000000
+      internalID: 1959076508563438739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 946
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad6c77b13f8e460800000000000000
+      internalID: 7271328897688853129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 946
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ecfe7d54ec4010800000000000000
+      internalID: 1174564693050451243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 946
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0be1a0f64163cc0800000000000000
+      internalID: -3731772774086168340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 946
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb752d784ba5440800000000000000
+      internalID: 4925447637925609178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_57
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 946
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80241c04550402d0800000000000000
+      internalID: -3313517567299805044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 895
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a9351b43a5a440800000000000000
+      internalID: 4946539308610330625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 895
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5809d9d639f990800000000000000
+      internalID: -7351784607428616833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 895
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dead308cb8b3940800000000000000
+      internalID: 5276965079569067408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 932
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e803123c77fd690800000000000000
+      internalID: -7575204368254726648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ffee9e7b145aa0800000000000000
+      internalID: -6173278958571751596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 895
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6484b70c96bcc3520800000000000000
+      internalID: 2683243133067282502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 895
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715808f7ecd262430800000000000000
+      internalID: 3757741304012899607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 895
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fa3d6b417a0ef60800000000000000
+      internalID: 8061627040401698621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 895
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7911d092ce68fd20800000000000000
+      internalID: 3312519307863333244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 895
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f647d9fb13e46880800000000000000
+      internalID: -8618514077585029385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 895
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69ce104403cdf620800000000000000
+      internalID: 2809616165572102509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 844
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1ecc23b9ec3b8f0800000000000000
+      internalID: -525849565504675395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 844
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0389625b86b84acd0800000000000000
+      internalID: -2547758207352793040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 844
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208404a2352a7080800000000000000
+      internalID: -9188991190265724886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 844
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee092fcabf4216c0800000000000000
+      internalID: -4174186240860942621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_73
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 844
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6883170f34286d2c0800000000000000
+      internalID: -4407191957027080058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 844
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91942dd39952c00f0800000000000000
+      internalID: -1149502464788903655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 844
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b692c3601fe86030800000000000000
+      internalID: 3488300765070661296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 844
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a8e65aa47afb90800000000000000
+      internalID: -7207319978701708139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 844
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca6197ce27919a0800000000000000
+      internalID: -6261847446912586653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 844
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710dae61148bea20800000000000000
+      internalID: 3092710779526119800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 844
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7316e035cf622ef0800000000000000
+      internalID: -134422146148068485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_80
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 844
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbbb6b63aa9836c0800000000000000
+      internalID: -4163407828831454250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 803
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf949da54e4d5330800000000000000
+      internalID: 3701200529940324290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_82
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b0036c55793b90800000000000000
+      internalID: -7261643884499781716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 803
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffa1bda57228120800000000000000
+      internalID: 2414535621400526667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 803
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf268f5ef12166000800000000000000
+      internalID: 28730375836033788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 803
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72852ee1d65976820800000000000000
+      internalID: 2911459980020439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 766
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f832088a04c19eb50800000000000000
+      internalID: 6622855791055479695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 766
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbd7deb6d1f078c0800000000000000
+      internalID: -4003434164105258040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 756
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b75f452fc8ad4ae0800000000000000
+      internalID: -1563407887990040649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 766
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43e1b7cfbdc97a0800000000000000
+      internalID: -6368973895564905287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_90
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 766
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c414ea9e902bdcf00800000000000000
+      internalID: 1138762036439564620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_91
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 766
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2323d6d8d086b9b50800000000000000
+      internalID: 6600984086258201138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_92
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 766
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f2ff0ad720bcf90800000000000000
+      internalID: -6932444462811500734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 766
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f17872dd47f84180800000000000000
+      internalID: -9130776330878029319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_94
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 766
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b25652f171f32c0800000000000000
+      internalID: -4449812484279948482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_95
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 766
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ee300a4d8c5520800000000000000
+      internalID: 2692182026231931440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_96
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 766
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4fc2be25e3a6cc0800000000000000
+      internalID: -3717090016587090689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda1fd1ea2a1a140800000000000000
+      internalID: 4729239952426118652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 725
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b50bb61ed0d440800000000000000
+      internalID: 4958707378943276095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 725
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934fc5f9f0171b6a0800000000000000
+      internalID: -6435238080623610823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 725
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38dda8e5201f94f0800000000000000
+      internalID: -819918852154599366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_101
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 725
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f170f715c020ada0800000000000000
+      internalID: -5935708277992033802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 725
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde8ee6b654fa650800000000000000
+      internalID: 6246287535910743512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_103
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 725
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfff1ba641a6da60800000000000000
+      internalID: 7698517937927225301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 725
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d6c329e025febe0800000000000000
+      internalID: -1445846732826186373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_105
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 725
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a67237a12a5fc70800000000000000
+      internalID: 9004281264481987229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fa69accbd683e0800000000000000
+      internalID: -2051710908158510930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_107
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 674
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ed6f3e9e11f3520800000000000000
+      internalID: 2683883599185763884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 674
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099e388ccd9096f0800000000000000
+      internalID: -679870041948251901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 674
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9538cd499e4d67ce0800000000000000
+      internalID: -1407703733816753319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 674
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399b30531fc46880800000000000000
+      internalID: -8618536105022875344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 674
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de945907efbc61da0800000000000000
+      internalID: -5974363561989420563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_112
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 674
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaeea205bc968900800000000000000
+      internalID: 686408294468610746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 674
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0a4b5b5ae3be40800000000000000
+      internalID: 5671134033884088952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_114
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 674
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff3ce86b0141f20800000000000000
+      internalID: 3392354795582128095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 666
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015dbca2eb1d33a70800000000000000
+      internalID: 8805612311131444496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 674
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b784d04cd32ad0800000000000000
+      internalID: -2728094778254707495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_117
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 674
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c857b56f77b77f0800000000000000
+      internalID: -613765024225850226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 633
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bb9c8b225cc360800000000000000
+      internalID: 7191213051999926424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 665
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad15863965d0d10800000000000000
+      internalID: 2093424592907524698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_120
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 633
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c0181c587673c0800000000000000
+      internalID: -4362166852125670715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 633
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b315e32e38c894b0800000000000000
+      internalID: -5433372781206760523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_122
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502843b5ae686ea0800000000000000
+      internalID: -5879327655575674788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_123
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8b6ccdd8fdffe0800000000000000
+      internalID: -1153492298035918239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_124
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad885976e8b6d40800000000000000
+      internalID: 5578709138970040941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_125
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb39d88141e49640800000000000000
+      internalID: 5085937550793194471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_126
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 633
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ff44c6106cdea0800000000000000
+      internalID: -5846692565334626284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_127
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 633
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882c2bf853d2af2a0800000000000000
+      internalID: -6702995387320188280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 633
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873219a6b4eff070800000000000000
+      internalID: 8142478124480870279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_129
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb216865bbda17a70800000000000000
+      internalID: 8823024165117629116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_130
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 633
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4b7f11a13ac5f0800000000000000
+      internalID: -735721021033984827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 633
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7ee547ae3aa1c0800000000000000
+      internalID: -4491708790194931165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce846a1e68844850800000000000000
+      internalID: 6360358580224560834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 585
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e5f7351e471fb20800000000000000
+      internalID: 3166440524135489167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 585
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c7eb1c0c4f3350800000000000000
+      internalID: 5998596843572282533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_135
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 585
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46803276b42d6f8f0800000000000000
+      internalID: -506986686737872796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_136
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 585
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ae08467437f8c0800000000000000
+      internalID: -3965643264256728595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 585
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3191e62655110b90800000000000000
+      internalID: -7277512063090323138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_138
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 585
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995379c184dda320800000000000000
+      internalID: 2570944616194070941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 585
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0e359b2e305c210800000000000000
+      internalID: 1352491535401476300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_140
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 585
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb124318d80e0070800000000000000
+      internalID: 8074400906050935791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 537
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53d93bbb9b5deb0800000000000000
+      internalID: -4695642820640426527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_142
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 537
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0a007454e1c5b30800000000000000
+      internalID: 4277327028987928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_143
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 537
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeccd3e233549860800000000000000
+      internalID: 7535739554534051518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_144
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 537
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48b58484a18e1350800000000000000
+      internalID: 5989367098047313994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_145
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 536
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f3b2b07169072e0800000000000000
+      internalID: -2130037598030446757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_146
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194b93c46d028ff0800000000000000
+      internalID: -35451120635918049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_147
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 536
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bdfb93640fd0fc0800000000000000
+      internalID: -3526898748753978476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_148
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 536
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58256cbd5077cb4c0800000000000000
+      internalID: -4270407479608323451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec633c191ef2280800000000000000
+      internalID: -9065779508711862716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_150
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 501
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c5dcd99a08c0800800000000000000
+      internalID: 579979918009261091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_151
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 501
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596d54b8a2879100800000000000000
+      internalID: 114703976613374299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 501
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b69a5d0f9a3a3e0800000000000000
+      internalID: -2043602954054177968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 501
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a75eb7825678430800000000000000
+      internalID: 3785105236379924993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_154
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 501
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47fbd149b0d6430800000000000000
+      internalID: 3777688393215866041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_155
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 501
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573631907fd3cf2e0800000000000000
+      internalID: -2090727995788270731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 501
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4892080e06fe290800000000000000
+      internalID: -7858956307399080727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_157
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 501
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818b9b256f89dd9e0800000000000000
+      internalID: -1594950509302007784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_158
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 501
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43657f28645b89c80800000000000000
+      internalID: -8315697397490035148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_159
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 501
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b724f497b295daa0800000000000000
+      internalID: -6136837600046733388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_160
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7352f3186d7d8c0800000000000000
+      internalID: -3974472295532644412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_161
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 465
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d9502a40453940800000000000000
+      internalID: 5275193225648920050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_162
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 465
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d7a4d69e68a2260800000000000000
+      internalID: 7073614501857885455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 465
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9f2fe54575975f0800000000000000
+      internalID: -758479042353366566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d3e764cc9326a50800000000000000
+      internalID: 6512831560649948560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_165
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 414
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f93754125eb480800000000000000
+      internalID: -8881571167811798812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_166
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 414
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc7f128d91aefd0800000000000000
+      internalID: -2312007042627809838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_167
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 414
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0541fb080008f370800000000000000
+      internalID: 8356429143146054922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_168
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 414
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d0ee4882fc5c10800000000000000
+      internalID: 2043774998172194096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_169
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 414
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2051ee3d59b491300800000000000000
+      internalID: 223292763409356034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Rifle_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9092501e3b65000e0800000000000000
+      internalID: -2305747678639347447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rebel Soldier Rifle_0: -5876678131316668411
+      Rebel Soldier Rifle_1: -7204417237261405662
+      Rebel Soldier Rifle_10: 5618740549766984882
+      Rebel Soldier Rifle_100: -819918852154599366
+      Rebel Soldier Rifle_101: -5935708277992033802
+      Rebel Soldier Rifle_102: 6246287535910743512
+      Rebel Soldier Rifle_103: 7698517937927225301
+      Rebel Soldier Rifle_104: -1445846732826186373
+      Rebel Soldier Rifle_105: 9004281264481987229
+      Rebel Soldier Rifle_106: -2051710908158510930
+      Rebel Soldier Rifle_107: 2683883599185763884
+      Rebel Soldier Rifle_108: -679870041948251901
+      Rebel Soldier Rifle_109: -1407703733816753319
+      Rebel Soldier Rifle_11: 3973556664270313945
+      Rebel Soldier Rifle_110: -8618536105022875344
+      Rebel Soldier Rifle_111: -5974363561989420563
+      Rebel Soldier Rifle_112: 686408294468610746
+      Rebel Soldier Rifle_113: 5671134033884088952
+      Rebel Soldier Rifle_114: 3392354795582128095
+      Rebel Soldier Rifle_115: 8805612311131444496
+      Rebel Soldier Rifle_116: -2728094778254707495
+      Rebel Soldier Rifle_117: -613765024225850226
+      Rebel Soldier Rifle_118: 7191213051999926424
+      Rebel Soldier Rifle_119: 2093424592907524698
+      Rebel Soldier Rifle_12: 1140654218160561128
+      Rebel Soldier Rifle_120: -4362166852125670715
+      Rebel Soldier Rifle_121: -5433372781206760523
+      Rebel Soldier Rifle_122: -5879327655575674788
+      Rebel Soldier Rifle_123: -1153492298035918239
+      Rebel Soldier Rifle_124: 5578709138970040941
+      Rebel Soldier Rifle_125: 5085937550793194471
+      Rebel Soldier Rifle_126: -5846692565334626284
+      Rebel Soldier Rifle_127: -6702995387320188280
+      Rebel Soldier Rifle_128: 8142478124480870279
+      Rebel Soldier Rifle_129: 8823024165117629116
+      Rebel Soldier Rifle_13: -7915702134922752083
+      Rebel Soldier Rifle_130: -735721021033984827
+      Rebel Soldier Rifle_131: -4491708790194931165
+      Rebel Soldier Rifle_132: 6360358580224560834
+      Rebel Soldier Rifle_133: 3166440524135489167
+      Rebel Soldier Rifle_134: 5998596843572282533
+      Rebel Soldier Rifle_135: -506986686737872796
+      Rebel Soldier Rifle_136: -3965643264256728595
+      Rebel Soldier Rifle_137: -7277512063090323138
+      Rebel Soldier Rifle_138: 2570944616194070941
+      Rebel Soldier Rifle_139: 1352491535401476300
+      Rebel Soldier Rifle_14: 8645931710235672507
+      Rebel Soldier Rifle_140: 8074400906050935791
+      Rebel Soldier Rifle_141: -4695642820640426527
+      Rebel Soldier Rifle_142: 4277327028987928822
+      Rebel Soldier Rifle_143: 7535739554534051518
+      Rebel Soldier Rifle_144: 5989367098047313994
+      Rebel Soldier Rifle_145: -2130037598030446757
+      Rebel Soldier Rifle_146: -35451120635918049
+      Rebel Soldier Rifle_147: -3526898748753978476
+      Rebel Soldier Rifle_148: -4270407479608323451
+      Rebel Soldier Rifle_149: -9065779508711862716
+      Rebel Soldier Rifle_15: 1196697214192616186
+      Rebel Soldier Rifle_150: 579979918009261091
+      Rebel Soldier Rifle_151: 114703976613374299
+      Rebel Soldier Rifle_152: -2043602954054177968
+      Rebel Soldier Rifle_153: 3785105236379924993
+      Rebel Soldier Rifle_154: 3777688393215866041
+      Rebel Soldier Rifle_155: -2090727995788270731
+      Rebel Soldier Rifle_156: -7858956307399080727
+      Rebel Soldier Rifle_157: -1594950509302007784
+      Rebel Soldier Rifle_158: -8315697397490035148
+      Rebel Soldier Rifle_159: -6136837600046733388
+      Rebel Soldier Rifle_16: 3133815679654515586
+      Rebel Soldier Rifle_160: -3974472295532644412
+      Rebel Soldier Rifle_161: 5275193225648920050
+      Rebel Soldier Rifle_162: 7073614501857885455
+      Rebel Soldier Rifle_163: -758479042353366566
+      Rebel Soldier Rifle_164: 6512831560649948560
+      Rebel Soldier Rifle_165: -8881571167811798812
+      Rebel Soldier Rifle_166: -2312007042627809838
+      Rebel Soldier Rifle_167: 8356429143146054922
+      Rebel Soldier Rifle_168: 2043774998172194096
+      Rebel Soldier Rifle_169: 223292763409356034
+      Rebel Soldier Rifle_17: -8465308096917481877
+      Rebel Soldier Rifle_170: -2305747678639347447
+      Rebel Soldier Rifle_18: 8952348447973301947
+      Rebel Soldier Rifle_19: -8487511257197069107
+      Rebel Soldier Rifle_2: -4185404296145732782
+      Rebel Soldier Rifle_20: -2949688052307112547
+      Rebel Soldier Rifle_21: 3654134993268042208
+      Rebel Soldier Rifle_22: -317863057242947042
+      Rebel Soldier Rifle_23: -7651851243349977787
+      Rebel Soldier Rifle_24: 4653077754262435742
+      Rebel Soldier Rifle_25: 8564098384051101402
+      Rebel Soldier Rifle_26: -5926281064014638435
+      Rebel Soldier Rifle_27: -3666617423833994872
+      Rebel Soldier Rifle_28: 5284293800235565319
+      Rebel Soldier Rifle_29: 2180830881811328610
+      Rebel Soldier Rifle_3: -2684716517979179807
+      Rebel Soldier Rifle_30: -5592730567213408674
+      Rebel Soldier Rifle_31: -7440433180127593788
+      Rebel Soldier Rifle_32: 3178842115469729887
+      Rebel Soldier Rifle_33: -4793675654326401572
+      Rebel Soldier Rifle_34: 4435477766571963101
+      Rebel Soldier Rifle_35: 130227955446229871
+      Rebel Soldier Rifle_36: -2178308454837598879
+      Rebel Soldier Rifle_37: -5051231398891245883
+      Rebel Soldier Rifle_38: 3525226747443593201
+      Rebel Soldier Rifle_39: 3663804500104246177
+      Rebel Soldier Rifle_4: -768769169985255596
+      Rebel Soldier Rifle_40: 5773510189100531547
+      Rebel Soldier Rifle_41: -1318364663011557980
+      Rebel Soldier Rifle_42: 970749158878733381
+      Rebel Soldier Rifle_43: -4297240138313732408
+      Rebel Soldier Rifle_44: -7686494534671022974
+      Rebel Soldier Rifle_45: -5012193654266558215
+      Rebel Soldier Rifle_46: 5266311987738862686
+      Rebel Soldier Rifle_47: 7112569398329146652
+      Rebel Soldier Rifle_48: 240397662204893206
+      Rebel Soldier Rifle_49: 320209772097524781
+      Rebel Soldier Rifle_5: -4188717954553569960
+      Rebel Soldier Rifle_50: 4237931884334228443
+      Rebel Soldier Rifle_51: 6041202302209021629
+      Rebel Soldier Rifle_52: 1959076508563438739
+      Rebel Soldier Rifle_53: 7271328897688853129
+      Rebel Soldier Rifle_54: 1174564693050451243
+      Rebel Soldier Rifle_55: -3731772774086168340
+      Rebel Soldier Rifle_56: 4925447637925609178
+      Rebel Soldier Rifle_57: -3313517567299805044
+      Rebel Soldier Rifle_58: 4946539308610330625
+      Rebel Soldier Rifle_59: -7351784607428616833
+      Rebel Soldier Rifle_6: 7109517328675439925
+      Rebel Soldier Rifle_60: 5276965079569067408
+      Rebel Soldier Rifle_61: -7575204368254726648
+      Rebel Soldier Rifle_62: -6173278958571751596
+      Rebel Soldier Rifle_63: 2683243133067282502
+      Rebel Soldier Rifle_64: 3757741304012899607
+      Rebel Soldier Rifle_65: 8061627040401698621
+      Rebel Soldier Rifle_66: 3312519307863333244
+      Rebel Soldier Rifle_67: -8618514077585029385
+      Rebel Soldier Rifle_68: 2809616165572102509
+      Rebel Soldier Rifle_69: -525849565504675395
+      Rebel Soldier Rifle_7: -4466038072963249939
+      Rebel Soldier Rifle_70: -2547758207352793040
+      Rebel Soldier Rifle_71: -9188991190265724886
+      Rebel Soldier Rifle_72: -4174186240860942621
+      Rebel Soldier Rifle_73: -4407191957027080058
+      Rebel Soldier Rifle_74: -1149502464788903655
+      Rebel Soldier Rifle_75: 3488300765070661296
+      Rebel Soldier Rifle_76: -7207319978701708139
+      Rebel Soldier Rifle_77: -6261847446912586653
+      Rebel Soldier Rifle_78: 3092710779526119800
+      Rebel Soldier Rifle_79: -134422146148068485
+      Rebel Soldier Rifle_8: 7408724698619151619
+      Rebel Soldier Rifle_80: -4163407828831454250
+      Rebel Soldier Rifle_81: 3701200529940324290
+      Rebel Soldier Rifle_82: -7261643884499781716
+      Rebel Soldier Rifle_83: 2414535621400526667
+      Rebel Soldier Rifle_84: 28730375836033788
+      Rebel Soldier Rifle_85: 2911459980020439079
+      Rebel Soldier Rifle_86: 6622855791055479695
+      Rebel Soldier Rifle_87: -4003434164105258040
+      Rebel Soldier Rifle_88: -1563407887990040649
+      Rebel Soldier Rifle_89: -6368973895564905287
+      Rebel Soldier Rifle_9: -5381652414638145540
+      Rebel Soldier Rifle_90: 1138762036439564620
+      Rebel Soldier Rifle_91: 6600984086258201138
+      Rebel Soldier Rifle_92: -6932444462811500734
+      Rebel Soldier Rifle_93: -9130776330878029319
+      Rebel Soldier Rifle_94: -4449812484279948482
+      Rebel Soldier Rifle_95: 2692182026231931440
+      Rebel Soldier Rifle_96: -3717090016587090689
+      Rebel Soldier Rifle_97: 4729239952426118652
+      Rebel Soldier Rifle_98: 4958707378943276095
+      Rebel Soldier Rifle_99: -6435238080623610823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

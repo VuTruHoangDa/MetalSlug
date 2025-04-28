@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: cd523b3252eb429478cd04311539175a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3356648670731959701
+    second: Landseek_0
+  - first:
+      213: -8965487847324467306
+    second: Landseek_1
+  - first:
+      213: 7798261665493497994
+    second: Landseek_2
+  - first:
+      213: -8035708826741168332
+    second: Landseek_3
+  - first:
+      213: -4488582144723249149
+    second: Landseek_4
+  - first:
+      213: -5032902807894332154
+    second: Landseek_5
+  - first:
+      213: 3587196269543989580
+    second: Landseek_6
+  - first:
+      213: -7133378286340304462
+    second: Landseek_7
+  - first:
+      213: -6665298272343892838
+    second: Landseek_8
+  - first:
+      213: 509580371906566664
+    second: Landseek_9
+  - first:
+      213: 7753071871206116463
+    second: Landseek_10
+  - first:
+      213: -4178818049437127529
+    second: Landseek_11
+  - first:
+      213: 8935684347250834528
+    second: Landseek_12
+  - first:
+      213: -7251745249789240440
+    second: Landseek_13
+  - first:
+      213: 3511658611364443598
+    second: Landseek_14
+  - first:
+      213: 4028911027095657812
+    second: Landseek_15
+  - first:
+      213: 8776041289368160861
+    second: Landseek_16
+  - first:
+      213: -7593816425518659291
+    second: Landseek_17
+  - first:
+      213: 9137185805344966366
+    second: Landseek_18
+  - first:
+      213: 5640662391170014811
+    second: Landseek_19
+  - first:
+      213: 2479084215511489013
+    second: Landseek_20
+  - first:
+      213: -417726229686164964
+    second: Landseek_21
+  - first:
+      213: -1739204790690566184
+    second: Landseek_22
+  - first:
+      213: 7398862535030763396
+    second: Landseek_23
+  - first:
+      213: 5821500792532045429
+    second: Landseek_24
+  - first:
+      213: 829460963802278390
+    second: Landseek_25
+  - first:
+      213: 551617588625892667
+    second: Landseek_26
+  - first:
+      213: 4562082173660660205
+    second: Landseek_27
+  - first:
+      213: -2676170670481612398
+    second: Landseek_28
+  - first:
+      213: -396986703765965913
+    second: Landseek_29
+  - first:
+      213: 8724651280388025174
+    second: Landseek_30
+  - first:
+      213: 9075713176548204944
+    second: Landseek_31
+  - first:
+      213: -5952337876343940477
+    second: Landseek_32
+  - first:
+      213: 8387577876162125978
+    second: Landseek_33
+  - first:
+      213: 7237414659299719205
+    second: Landseek_34
+  - first:
+      213: -4675997421393640405
+    second: Landseek_35
+  - first:
+      213: 2958746540605287759
+    second: Landseek_36
+  - first:
+      213: -7855865179748091557
+    second: Landseek_37
+  - first:
+      213: -5790381439195376547
+    second: Landseek_38
+  - first:
+      213: -8977737899467907801
+    second: Landseek_39
+  - first:
+      213: 5092830699915003403
+    second: Landseek_40
+  - first:
+      213: -5951743645503889636
+    second: Landseek_41
+  - first:
+      213: -9080954469596648386
+    second: Landseek_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Landseek_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df3c68e26359e20800000000000000
+      internalID: 3356648670731959701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 577
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb426dd40349380800000000000000
+      internalID: -8965487847324467306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 577
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a883945faadf83c60800000000000000
+      internalID: 7798261665493497994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 577
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4372f97a56d6b7090800000000000000
+      internalID: -8035708826741168332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 524
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081c96225a55b1c0800000000000000
+      internalID: -4488582144723249149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 524
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d646acf89872ab0800000000000000
+      internalID: -5032902807894332154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 524
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a6c9500848c130800000000000000
+      internalID: 3587196269543989580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 524
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1933a2e36210d90800000000000000
+      internalID: -7133378286340304462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 524
+        width: 105
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cdaea198a1083a0800000000000000
+      internalID: -6665298272343892838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 474
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a900cf5a4621700800000000000000
+      internalID: 509580371906566664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 474
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c40511ac1789b60800000000000000
+      internalID: 7753071871206116463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 474
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2f46df1bd106c0800000000000000
+      internalID: -4178818049437127529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 474
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c77ee029de10c70800000000000000
+      internalID: 8935684347250834528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 424
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b9fa0ed10ac5b90800000000000000
+      internalID: -7251745249789240440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 424
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b1d6c6eaebb030800000000000000
+      internalID: 3511658611364443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 424
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd0b9ab3199e730800000000000000
+      internalID: 4028911027095657812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 424
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a43f22e03cac970800000000000000
+      internalID: 8776041289368160861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5290f6bd1385d9690800000000000000
+      internalID: -7593816425518659291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 325
+        width: 103
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6045e341ecdce70800000000000000
+      internalID: 9137185805344966366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 325
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e189b2f88a74e40800000000000000
+      internalID: 5640662391170014811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 325
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f917d195f9776220800000000000000
+      internalID: 2479084215511489013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 325
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1261321530f33af0800000000000000
+      internalID: -417726229686164964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2b33257a1dd7e0800000000000000
+      internalID: -1739204790690566184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f6476564a0ea660800000000000000
+      internalID: 7398862535030763396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 226
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e078e80202ac050800000000000000
+      internalID: 5821500792532045429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 226
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ec761a56d28b00800000000000000
+      internalID: 829460963802278390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3567e5364db7a700800000000000000
+      internalID: 551617588625892667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 125
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18f25e095cf4f30800000000000000
+      internalID: 4562082173660660205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 125
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ef9344f45cdad0800000000000000
+      internalID: -2676170670481612398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 125
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f97d32be9d7af0800000000000000
+      internalID: -396986703765965913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 105
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b6fa44d10341970800000000000000
+      internalID: 8724651280388025174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ec738c0963fd70800000000000000
+      internalID: 9075713176548204944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a9a610d3c056da0800000000000000
+      internalID: -5952337876343940477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a19a93a9a66470800000000000000
+      internalID: 8387577876162125978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b3c38946707460800000000000000
+      internalID: 7237414659299719205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248037ae158b1fb0800000000000000
+      internalID: -4675997421393640405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da1357d449f0920800000000000000
+      internalID: 2958746540605287759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5931cdbd3c5af290800000000000000
+      internalID: -7855865179748091557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 78
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549eb282ce64afa0800000000000000
+      internalID: -5790381439195376547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d57af42faa86380800000000000000
+      internalID: -8977737899467907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 78
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0643a1e98e5da640800000000000000
+      internalID: 5092830699915003403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 242
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5d8720b8276da0800000000000000
+      internalID: -5951743645503889636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landseek_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 13
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c223ad508f9f180800000000000000
+      internalID: -9080954469596648386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Landseek_0: 3356648670731959701
+      Landseek_1: -8965487847324467306
+      Landseek_10: 7753071871206116463
+      Landseek_11: -4178818049437127529
+      Landseek_12: 8935684347250834528
+      Landseek_13: -7251745249789240440
+      Landseek_14: 3511658611364443598
+      Landseek_15: 4028911027095657812
+      Landseek_16: 8776041289368160861
+      Landseek_17: -7593816425518659291
+      Landseek_18: 9137185805344966366
+      Landseek_19: 5640662391170014811
+      Landseek_2: 7798261665493497994
+      Landseek_20: 2479084215511489013
+      Landseek_21: -417726229686164964
+      Landseek_22: -1739204790690566184
+      Landseek_23: 7398862535030763396
+      Landseek_24: 5821500792532045429
+      Landseek_25: 829460963802278390
+      Landseek_26: 551617588625892667
+      Landseek_27: 4562082173660660205
+      Landseek_28: -2676170670481612398
+      Landseek_29: -396986703765965913
+      Landseek_3: -8035708826741168332
+      Landseek_30: 8724651280388025174
+      Landseek_31: 9075713176548204944
+      Landseek_32: -5952337876343940477
+      Landseek_33: 8387577876162125978
+      Landseek_34: 7237414659299719205
+      Landseek_35: -4675997421393640405
+      Landseek_36: 2958746540605287759
+      Landseek_37: -7855865179748091557
+      Landseek_38: -5790381439195376547
+      Landseek_39: -8977737899467907801
+      Landseek_4: -4488582144723249149
+      Landseek_40: 5092830699915003403
+      Landseek_41: -5951743645503889636
+      Landseek_42: -9080954469596648386
+      Landseek_5: -5032902807894332154
+      Landseek_6: 3587196269543989580
+      Landseek_7: -7133378286340304462
+      Landseek_8: -6665298272343892838
+      Landseek_9: 509580371906566664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5941 @@
+fileFormatVersion: 2
+guid: 6edec9868103a2d409aed8fb2a53a9a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7531746894886490631
+    second: Claw Unit_0
+  - first:
+      213: 556127235918396869
+    second: Claw Unit_1
+  - first:
+      213: 3170854890977565948
+    second: Claw Unit_2
+  - first:
+      213: -3907925653316831616
+    second: Claw Unit_3
+  - first:
+      213: 6144753217235630382
+    second: Claw Unit_4
+  - first:
+      213: 4865192020181919518
+    second: Claw Unit_5
+  - first:
+      213: 2571696835274379493
+    second: Claw Unit_6
+  - first:
+      213: -4183869694757800194
+    second: Claw Unit_7
+  - first:
+      213: -3381301084257509494
+    second: Claw Unit_8
+  - first:
+      213: 7794817679359803454
+    second: Claw Unit_9
+  - first:
+      213: 61199334350873586
+    second: Claw Unit_10
+  - first:
+      213: 8988951617331385559
+    second: Claw Unit_11
+  - first:
+      213: -7581651609394137142
+    second: Claw Unit_12
+  - first:
+      213: -5175361864933920227
+    second: Claw Unit_13
+  - first:
+      213: 155660769299591047
+    second: Claw Unit_14
+  - first:
+      213: 6633331857248055193
+    second: Claw Unit_15
+  - first:
+      213: 3159217660566993141
+    second: Claw Unit_16
+  - first:
+      213: 6991049006340874346
+    second: Claw Unit_17
+  - first:
+      213: -8475069047429491539
+    second: Claw Unit_18
+  - first:
+      213: -2523079291548487484
+    second: Claw Unit_19
+  - first:
+      213: 9075835054391799028
+    second: Claw Unit_20
+  - first:
+      213: -114156056388331294
+    second: Claw Unit_21
+  - first:
+      213: -1948877500557142762
+    second: Claw Unit_22
+  - first:
+      213: -8168184131096945207
+    second: Claw Unit_23
+  - first:
+      213: -310272239523618841
+    second: Claw Unit_24
+  - first:
+      213: -5078939548167177588
+    second: Claw Unit_25
+  - first:
+      213: -6985904595187987377
+    second: Claw Unit_26
+  - first:
+      213: -7026101809790076321
+    second: Claw Unit_27
+  - first:
+      213: -7313570598969972506
+    second: Claw Unit_28
+  - first:
+      213: 963204623324327714
+    second: Claw Unit_29
+  - first:
+      213: 2922593385044720587
+    second: Claw Unit_30
+  - first:
+      213: -520851310976529940
+    second: Claw Unit_31
+  - first:
+      213: 6547931304436618960
+    second: Claw Unit_32
+  - first:
+      213: -1359766872675468055
+    second: Claw Unit_33
+  - first:
+      213: -8221763005166479456
+    second: Claw Unit_34
+  - first:
+      213: -9032707188697889396
+    second: Claw Unit_35
+  - first:
+      213: 1141489459113192898
+    second: Claw Unit_36
+  - first:
+      213: 7583070495985286722
+    second: Claw Unit_37
+  - first:
+      213: -3634794892655120164
+    second: Claw Unit_38
+  - first:
+      213: -7661884662126608289
+    second: Claw Unit_39
+  - first:
+      213: -8479300025001957581
+    second: Claw Unit_40
+  - first:
+      213: -280377662002108159
+    second: Claw Unit_41
+  - first:
+      213: -3314559150916762311
+    second: Claw Unit_42
+  - first:
+      213: -7278096448708530960
+    second: Claw Unit_43
+  - first:
+      213: -7982049664587023506
+    second: Claw Unit_44
+  - first:
+      213: -3875434452218390323
+    second: Claw Unit_45
+  - first:
+      213: 7776066695993642832
+    second: Claw Unit_46
+  - first:
+      213: -2610935151274760288
+    second: Claw Unit_47
+  - first:
+      213: -1912708417967610786
+    second: Claw Unit_48
+  - first:
+      213: -1719879511323062018
+    second: Claw Unit_49
+  - first:
+      213: -4271479635444872718
+    second: Claw Unit_50
+  - first:
+      213: -8639740887884709428
+    second: Claw Unit_51
+  - first:
+      213: -6891708350602795574
+    second: Claw Unit_52
+  - first:
+      213: 4785986350217899513
+    second: Claw Unit_53
+  - first:
+      213: -131377057466315757
+    second: Claw Unit_54
+  - first:
+      213: 2138404392047597427
+    second: Claw Unit_55
+  - first:
+      213: 1684378226628121210
+    second: Claw Unit_56
+  - first:
+      213: -4231730490722715151
+    second: Claw Unit_57
+  - first:
+      213: 7166184311630714642
+    second: Claw Unit_58
+  - first:
+      213: 7166109030539280803
+    second: Claw Unit_59
+  - first:
+      213: 5887946658569914817
+    second: Claw Unit_60
+  - first:
+      213: 6557475646051340877
+    second: Claw Unit_61
+  - first:
+      213: 589842573487806589
+    second: Claw Unit_62
+  - first:
+      213: 4953377841419265945
+    second: Claw Unit_63
+  - first:
+      213: 2279447318558477002
+    second: Claw Unit_64
+  - first:
+      213: -2586658528213233530
+    second: Claw Unit_65
+  - first:
+      213: 3115340045328497286
+    second: Claw Unit_66
+  - first:
+      213: -4933075354494863017
+    second: Claw Unit_67
+  - first:
+      213: 5142331585272147042
+    second: Claw Unit_68
+  - first:
+      213: -8705092842009740782
+    second: Claw Unit_69
+  - first:
+      213: -8322661949939489120
+    second: Claw Unit_70
+  - first:
+      213: -2430623591490567822
+    second: Claw Unit_71
+  - first:
+      213: 4210224862657195461
+    second: Claw Unit_72
+  - first:
+      213: 7294281780735048499
+    second: Claw Unit_73
+  - first:
+      213: 6411320323304855382
+    second: Claw Unit_74
+  - first:
+      213: 810324239385078457
+    second: Claw Unit_75
+  - first:
+      213: -2989806480071760025
+    second: Claw Unit_76
+  - first:
+      213: 8001057973857516284
+    second: Claw Unit_77
+  - first:
+      213: 6453249120233044642
+    second: Claw Unit_78
+  - first:
+      213: -126039457784420481
+    second: Claw Unit_79
+  - first:
+      213: -3081755369472812492
+    second: Claw Unit_80
+  - first:
+      213: 7093115242989994182
+    second: Claw Unit_81
+  - first:
+      213: -6528375715396627708
+    second: Claw Unit_82
+  - first:
+      213: -5877783448546365533
+    second: Claw Unit_83
+  - first:
+      213: -50813632393934306
+    second: Claw Unit_84
+  - first:
+      213: -9008920133088435536
+    second: Claw Unit_85
+  - first:
+      213: -4058046639871792933
+    second: Claw Unit_86
+  - first:
+      213: 2006280047310746409
+    second: Claw Unit_87
+  - first:
+      213: -885554739557810658
+    second: Claw Unit_88
+  - first:
+      213: -3624882986341395758
+    second: Claw Unit_89
+  - first:
+      213: -3235125231831219420
+    second: Claw Unit_90
+  - first:
+      213: 1472774272930767918
+    second: Claw Unit_91
+  - first:
+      213: -5300070098691902167
+    second: Claw Unit_92
+  - first:
+      213: 1322476900442633062
+    second: Claw Unit_93
+  - first:
+      213: 380866748195372742
+    second: Claw Unit_94
+  - first:
+      213: 2900725635857739779
+    second: Claw Unit_95
+  - first:
+      213: 539088706973695309
+    second: Claw Unit_96
+  - first:
+      213: -4398473081270452173
+    second: Claw Unit_97
+  - first:
+      213: -1364187436393294194
+    second: Claw Unit_98
+  - first:
+      213: 4773018709590892855
+    second: Claw Unit_99
+  - first:
+      213: -6561250917071419421
+    second: Claw Unit_100
+  - first:
+      213: -1565538043385854217
+    second: Claw Unit_101
+  - first:
+      213: -6239101152403906567
+    second: Claw Unit_102
+  - first:
+      213: 1685579429610978617
+    second: Claw Unit_103
+  - first:
+      213: -7909941796133279748
+    second: Claw Unit_104
+  - first:
+      213: 1960461794839694584
+    second: Claw Unit_105
+  - first:
+      213: 2485271145033470591
+    second: Claw Unit_106
+  - first:
+      213: 2230983018424904280
+    second: Claw Unit_107
+  - first:
+      213: -2529354331495876086
+    second: Claw Unit_108
+  - first:
+      213: -7128589585050780021
+    second: Claw Unit_109
+  - first:
+      213: 3952603374419026952
+    second: Claw Unit_110
+  - first:
+      213: 3139508927350474152
+    second: Claw Unit_111
+  - first:
+      213: -1007827432677069315
+    second: Claw Unit_112
+  - first:
+      213: -3648069962224611337
+    second: Claw Unit_113
+  - first:
+      213: 2624418555707784903
+    second: Claw Unit_114
+  - first:
+      213: 3466680322363167738
+    second: Claw Unit_115
+  - first:
+      213: -7893296763476321880
+    second: Claw Unit_116
+  - first:
+      213: -3387763454972660596
+    second: Claw Unit_117
+  - first:
+      213: -6543881980314947982
+    second: Claw Unit_118
+  - first:
+      213: 5802195772056380234
+    second: Claw Unit_119
+  - first:
+      213: -6567779897925314014
+    second: Claw Unit_120
+  - first:
+      213: -4227035686368713890
+    second: Claw Unit_121
+  - first:
+      213: 3902063828036013219
+    second: Claw Unit_122
+  - first:
+      213: -4073688561574340371
+    second: Claw Unit_123
+  - first:
+      213: 7455595467973182400
+    second: Claw Unit_124
+  - first:
+      213: -8780883930500092243
+    second: Claw Unit_125
+  - first:
+      213: 1921020588859111866
+    second: Claw Unit_126
+  - first:
+      213: -7339124203688581748
+    second: Claw Unit_127
+  - first:
+      213: 5423865641502348675
+    second: Claw Unit_128
+  - first:
+      213: -5316944062717851205
+    second: Claw Unit_129
+  - first:
+      213: -1070275625454819655
+    second: Claw Unit_130
+  - first:
+      213: 7275021041540303393
+    second: Claw Unit_131
+  - first:
+      213: -2058671393377328873
+    second: Claw Unit_132
+  - first:
+      213: 281115523906304144
+    second: Claw Unit_133
+  - first:
+      213: -1419019251047197771
+    second: Claw Unit_134
+  - first:
+      213: -207464329554229893
+    second: Claw Unit_135
+  - first:
+      213: 7715711528264618293
+    second: Claw Unit_136
+  - first:
+      213: 7602046285302777120
+    second: Claw Unit_137
+  - first:
+      213: 740549645856228693
+    second: Claw Unit_138
+  - first:
+      213: 8664637307208132381
+    second: Claw Unit_139
+  - first:
+      213: -7172698358527238328
+    second: Claw Unit_140
+  - first:
+      213: 1065308880453553985
+    second: Claw Unit_141
+  - first:
+      213: 8002565985050266103
+    second: Claw Unit_142
+  - first:
+      213: 5253141267421955182
+    second: Claw Unit_143
+  - first:
+      213: 1649583243140699631
+    second: Claw Unit_144
+  - first:
+      213: -34648749354721444
+    second: Claw Unit_145
+  - first:
+      213: -469200736507844936
+    second: Claw Unit_146
+  - first:
+      213: 6788191232427483087
+    second: Claw Unit_147
+  - first:
+      213: 9139872384021575875
+    second: Claw Unit_148
+  - first:
+      213: 2595863695077283220
+    second: Claw Unit_149
+  - first:
+      213: -718791793756711431
+    second: Claw Unit_150
+  - first:
+      213: -4062078197183636751
+    second: Claw Unit_151
+  - first:
+      213: -7415658659215103169
+    second: Claw Unit_152
+  - first:
+      213: 177199312295047416
+    second: Claw Unit_153
+  - first:
+      213: -6195905616102604786
+    second: Claw Unit_154
+  - first:
+      213: -4956582244792040379
+    second: Claw Unit_155
+  - first:
+      213: 1477906577410412524
+    second: Claw Unit_156
+  - first:
+      213: 1955233143419250534
+    second: Claw Unit_157
+  - first:
+      213: 8305149391005624341
+    second: Claw Unit_158
+  - first:
+      213: -2306531586708624840
+    second: Claw Unit_159
+  - first:
+      213: 3898475764838293020
+    second: Claw Unit_160
+  - first:
+      213: -3843018716906909238
+    second: Claw Unit_161
+  - first:
+      213: 6277929189777347801
+    second: Claw Unit_162
+  - first:
+      213: 3195515529060440600
+    second: Claw Unit_163
+  - first:
+      213: -1325098759863914997
+    second: Claw Unit_164
+  - first:
+      213: -5273114085532070232
+    second: Claw Unit_165
+  - first:
+      213: -779647965137940654
+    second: Claw Unit_166
+  - first:
+      213: 4163394721251557938
+    second: Claw Unit_167
+  - first:
+      213: 6132564456319387953
+    second: Claw Unit_168
+  - first:
+      213: -2004723298358286178
+    second: Claw Unit_169
+  - first:
+      213: 6971819007279148006
+    second: Claw Unit_170
+  - first:
+      213: -4965915026536993316
+    second: Claw Unit_171
+  - first:
+      213: 3872051169754113457
+    second: Claw Unit_172
+  - first:
+      213: -3848130017811489891
+    second: Claw Unit_173
+  - first:
+      213: -1899546604295075864
+    second: Claw Unit_174
+  - first:
+      213: 8491182127080619695
+    second: Claw Unit_175
+  - first:
+      213: -4708957540048777940
+    second: Claw Unit_176
+  - first:
+      213: 2650921472377878593
+    second: Claw Unit_177
+  - first:
+      213: -2507864460570306791
+    second: Claw Unit_178
+  - first:
+      213: 3102460105096224515
+    second: Claw Unit_179
+  - first:
+      213: 3615149652215422882
+    second: Claw Unit_180
+  - first:
+      213: 7675039803420114749
+    second: Claw Unit_181
+  - first:
+      213: -2743059521158433575
+    second: Claw Unit_182
+  - first:
+      213: 6702185968782359097
+    second: Claw Unit_183
+  - first:
+      213: 1444154901845614921
+    second: Claw Unit_184
+  - first:
+      213: -1250871727631413740
+    second: Claw Unit_185
+  - first:
+      213: -1011218954970072228
+    second: Claw Unit_186
+  - first:
+      213: 4294199301442076442
+    second: Claw Unit_187
+  - first:
+      213: 5646250046508008770
+    second: Claw Unit_188
+  - first:
+      213: -3946035607240545107
+    second: Claw Unit_189
+  - first:
+      213: -529597201205746769
+    second: Claw Unit_190
+  - first:
+      213: -75867828829725511
+    second: Claw Unit_191
+  - first:
+      213: -7115933084270378585
+    second: Claw Unit_192
+  - first:
+      213: 6569450895186974751
+    second: Claw Unit_193
+  - first:
+      213: -2517025010246549409
+    second: Claw Unit_194
+  - first:
+      213: -4058443348251517158
+    second: Claw Unit_195
+  - first:
+      213: -2284875174146844739
+    second: Claw Unit_196
+  - first:
+      213: 5197661717799530487
+    second: Claw Unit_197
+  - first:
+      213: 6094381954653805180
+    second: Claw Unit_198
+  - first:
+      213: -2824366131263570640
+    second: Claw Unit_199
+  - first:
+      213: -9078635478238503081
+    second: Claw Unit_200
+  - first:
+      213: -7242051048467536863
+    second: Claw Unit_201
+  - first:
+      213: -8938045903547373317
+    second: Claw Unit_202
+  - first:
+      213: -1057351578139324483
+    second: Claw Unit_203
+  - first:
+      213: 2804730285362240920
+    second: Claw Unit_204
+  - first:
+      213: -5999555077843819451
+    second: Claw Unit_205
+  - first:
+      213: -8786413408451917305
+    second: Claw Unit_206
+  - first:
+      213: 5498261560489836138
+    second: Claw Unit_207
+  - first:
+      213: 3006959725751962847
+    second: Claw Unit_208
+  - first:
+      213: -5158209975080684615
+    second: Claw Unit_209
+  - first:
+      213: -1634764626527772263
+    second: Claw Unit_210
+  - first:
+      213: -1276646029044628622
+    second: Claw Unit_211
+  - first:
+      213: -5815708644842739884
+    second: Claw Unit_212
+  - first:
+      213: 4680616265563451645
+    second: Claw Unit_213
+  - first:
+      213: 9063303475013753957
+    second: Claw Unit_214
+  - first:
+      213: 808833866246079124
+    second: Claw Unit_215
+  - first:
+      213: 1219866340373982880
+    second: Claw Unit_216
+  - first:
+      213: 6207324420383409770
+    second: Claw Unit_217
+  - first:
+      213: 3577261374265232235
+    second: Claw Unit_218
+  - first:
+      213: -4327684666711956745
+    second: Claw Unit_219
+  - first:
+      213: -7218677194941245250
+    second: Claw Unit_220
+  - first:
+      213: -1428871493056628212
+    second: Claw Unit_221
+  - first:
+      213: 7217137272594795021
+    second: Claw Unit_222
+  - first:
+      213: 6313633369095516067
+    second: Claw Unit_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claw Unit_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1773
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025cdf55e3268860800000000000000
+      internalID: 7531746894886490631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1773
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf5da46c2c7b700800000000000000
+      internalID: 556127235918396869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1773
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc170339b3210c20800000000000000
+      internalID: 3170854890977565948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1773
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086f969c25244c9c0800000000000000
+      internalID: -3907925653316831616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1773
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b4c9ae7c864550800000000000000
+      internalID: 6144753217235630382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1708
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17220f8d52a48340800000000000000
+      internalID: 4865192020181919518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1708
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0968075a080b320800000000000000
+      internalID: 2571696835274379493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1708
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef670710ea8efe5c0800000000000000
+      internalID: -4183869694757800194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1708
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f103a24943311d0800000000000000
+      internalID: -3381301084257509494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1708
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300d237161cc2c60800000000000000
+      internalID: 7794817679359803454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1708
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36978687c69d000800000000000000
+      internalID: 61199334350873586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1708
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4d536dedb2fbc70800000000000000
+      internalID: 8988951617331385559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1695
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac73b43d70098c690800000000000000
+      internalID: -7581651609394137142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1695
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12b288ddcb6d28b0800000000000000
+      internalID: -5175361864933920227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1629
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fe09b15a4092200800000000000000
+      internalID: 155660769299591047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1629
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f6d84ed245e0c50800000000000000
+      internalID: 6633331857248055193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1629
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87c3a59bbc7db20800000000000000
+      internalID: 3159217660566993141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1629
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ab46f702350160800000000000000
+      internalID: 6991049006340874346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1629
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da49e0daa91826a80800000000000000
+      internalID: -8475069047429491539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1629
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bb1f80c83cfcd0800000000000000
+      internalID: -2523079291548487484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1629
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcaf0965e7d3fd70800000000000000
+      internalID: 9075835054391799028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_21
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1629
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8930aebaf6a6ef0800000000000000
+      internalID: -114156056388331294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1629
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155a842d3234f4e0800000000000000
+      internalID: -1948877500557142762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1629
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cddbf54fc7c4ae80800000000000000
+      internalID: -8168184131096945207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1629
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9783ca01b1bbf0800000000000000
+      internalID: -310272239523618841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1629
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8affcbe36bf389b0800000000000000
+      internalID: -5078939548167177588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1629
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c0d0998c41d0f90800000000000000
+      internalID: -6985904595187987377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1629
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abbbf31a54e7e90800000000000000
+      internalID: -7026101809790076321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_28
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1629
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e867a80a4af08a90800000000000000
+      internalID: -7313570598969972506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_29
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1629
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa24b608dfd5d00800000000000000
+      internalID: 963204623324327714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1616
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb3f7af2332f8820800000000000000
+      internalID: 2922593385044720587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1616
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce982740e7095c8f0800000000000000
+      internalID: -520851310976529940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1616
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6da9634dceeda50800000000000000
+      internalID: 6547931304436618960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1547
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb5d0db33212de0800000000000000
+      internalID: -1359766872675468055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1547
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79a998b1e66ed80800000000000000
+      internalID: -8221763005166479456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1547
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858b815ba065a280800000000000000
+      internalID: -9032707188697889396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1547
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6b4d7d9267df00800000000000000
+      internalID: 1141489459113192898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1547
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb2f3707a7c3960800000000000000
+      internalID: 7583070495985286722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1547
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd033e79d4d9e8dc0800000000000000
+      internalID: -3634794892655120164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1547
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500ee38e748ba590800000000000000
+      internalID: -7661884662126608289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_40
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1547
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372cc17d89735a80800000000000000
+      internalID: -8479300025001957581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_41
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1547
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e86d7006eb1cf0800000000000000
+      internalID: -280377662002108159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1547
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935069673025002d0800000000000000
+      internalID: -3314559150916762311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_43
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1547
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc22b547d10ffa90800000000000000
+      internalID: -7278096448708530960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_44
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1547
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb3caee101a3190800000000000000
+      internalID: -7982049664587023506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_45
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1547
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8563d06e0b73ac0800000000000000
+      internalID: -3875434452218390323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1547
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f427ce5732aeb60800000000000000
+      internalID: 7776066695993642832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_47
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1547
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7efa0305814cbd0800000000000000
+      internalID: -2610935151274760288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_48
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1547
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54242ce3d1b475e0800000000000000
+      internalID: -1912708417967610786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1534
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0dd1f52b2c128e0800000000000000
+      internalID: -1719879511323062018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1534
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94eff17e7a8b4c0800000000000000
+      internalID: -4271479635444872718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1534
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c6321079791880800000000000000
+      internalID: -8639740887884709428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1534
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac52abad4cbbb50a0800000000000000
+      internalID: -6891708350602795574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1468
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd2b907a3d3b6240800000000000000
+      internalID: 4785986350217899513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1468
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c851623414d2ef0800000000000000
+      internalID: -131377057466315757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1468
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d12ef6732dad10800000000000000
+      internalID: 2138404392047597427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1468
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725299a21d106710800000000000000
+      internalID: 1684378226628121210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1455
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f978431a8fd545c0800000000000000
+      internalID: -4231730490722715151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1455
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d9b1d9a6637360800000000000000
+      internalID: 7166184311630714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1455
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a143031232237360800000000000000
+      internalID: 7166109030539280803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1455
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c902805a4036b150800000000000000
+      internalID: 5887946658569914817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1455
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d425a2a6b55d00b50800000000000000
+      internalID: 6557475646051340877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1455
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78942a02ba8f2800800000000000000
+      internalID: 589842573487806589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1390
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997261417eeedb440800000000000000
+      internalID: 4953377841419265945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1390
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca05ea524932af10800000000000000
+      internalID: 2279447318558477002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1390
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809d96f5c75a1cd0800000000000000
+      internalID: -2586658528213233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1390
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aba54f349eb3b20800000000000000
+      internalID: 3115340045328497286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1377
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75979150a123a8bb0800000000000000
+      internalID: -4933075354494863017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1303
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cea61e45b3d5740800000000000000
+      internalID: 5142331585272147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1303
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab6378e2c413780800000000000000
+      internalID: -8705092842009740782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_70
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1303
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a662384d07ff7c80800000000000000
+      internalID: -8322661949939489120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1303
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714586b8b0b44ed0800000000000000
+      internalID: -2430623591490567822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1303
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2333b439bd6a30800000000000000
+      internalID: 4210224862657195461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1290
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf05002ae7a3560800000000000000
+      internalID: 7294281780735048499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65714db8dd599f850800000000000000
+      internalID: 6411320323304855382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1290
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baaf693a99de3b00800000000000000
+      internalID: 810324239385078457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1217
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676928d8d21286d0800000000000000
+      internalID: -2989806480071760025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1219
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7517f5d7790f60800000000000000
+      internalID: 8001057973857516284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1220
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aab79252eb8e8950800000000000000
+      internalID: 6453249120233044642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1223
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a31be7c7304ef0800000000000000
+      internalID: -126039457784420481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1204
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a9bedb1d76b35d0800000000000000
+      internalID: -3081755369472812492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c3598bbecf6260800000000000000
+      internalID: 7093115242989994182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_82
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1204
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035f7b20ec8665a0800000000000000
+      internalID: -6528375715396627708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1140
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af29ba681bed6ea0800000000000000
+      internalID: -5877783448546365533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1140
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a896345497b4ff0800000000000000
+      internalID: -50813632393934306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1140
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b22669ced2e9f280800000000000000
+      internalID: -9008920133088435536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1127
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8697cd41ceea7c0800000000000000
+      internalID: -4058046639871792933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1058
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92339e3c21db7db10800000000000000
+      internalID: 2006280047310746409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1058
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3e7ff7a0e5b3f0800000000000000
+      internalID: -885554739557810658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1058
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d293ce1124d1bdc0800000000000000
+      internalID: -3624882986341395758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1058
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4230cc8fdb68a13d0800000000000000
+      internalID: -3235125231831219420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1058
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246f5ce568507410800000000000000
+      internalID: 1472774272930767918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1058
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bcc2835e5276b0800000000000000
+      internalID: -5300070098691902167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_93
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1058
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fa82fbb16a5210800000000000000
+      internalID: 1322476900442633062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_94
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1058
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce71f02a4c194500800000000000000
+      internalID: 380866748195372742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_95
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1058
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007b2cd892714820800000000000000
+      internalID: 2900725635857739779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_96
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1058
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7791a25a3b7700800000000000000
+      internalID: 539088706973695309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_97
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1058
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330c1c4690c75f2c0800000000000000
+      internalID: -4398473081270452173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_98
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1058
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e861abe11ce611de0800000000000000
+      internalID: -1364187436393294194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_99
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1058
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73165735a3b2d3240800000000000000
+      internalID: 4773018709590892855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1045
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e780cdcd01c1f4a0800000000000000
+      internalID: -6561250917071419421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1045
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f640a1b177164ae0800000000000000
+      internalID: -1565538043385854217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_102
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1045
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff1c3dde824a69a0800000000000000
+      internalID: -6239101152403906567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 981
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dfaa68f81646710800000000000000
+      internalID: 1685579429610978617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_104
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 981
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7e57758dd3a3290800000000000000
+      internalID: -7909941796133279748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 981
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc052d8d95f43b10800000000000000
+      internalID: 1960461794839694584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 981
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f729f3a50f47d7220800000000000000
+      internalID: 2485271145033470591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_107
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 981
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a25292c3b06fe10800000000000000
+      internalID: 2230983018424904280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 981
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab718f2ade5ecd0800000000000000
+      internalID: -2529354331495876086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 968
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ebf719a89221d90800000000000000
+      internalID: -7128589585050780021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_110
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 968
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804a146c3d77ad630800000000000000
+      internalID: 3952603374419026952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 968
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a584ef4cb6c19b20800000000000000
+      internalID: 3139508927350474152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 874
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda3682a4a7302f0800000000000000
+      internalID: -1007827432677069315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 874
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff44d992b37f5dc0800000000000000
+      internalID: -3648069962224611337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_114
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 874
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef7ea85cecb6420800000000000000
+      internalID: 2624418555707784903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_115
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 874
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31b4cc26f1c1030800000000000000
+      internalID: 3466680322363167738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_116
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 874
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d0420a60657290800000000000000
+      internalID: -7893296763476321880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_117
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 874
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fd4b361f3cf0d0800000000000000
+      internalID: -3387763454972660596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 874
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e6f3782067f25a0800000000000000
+      internalID: -6543881980314947982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_119
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 874
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a1b6305a858050800000000000000
+      internalID: 5802195772056380234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_120
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 873
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad53dfafe8ad4a0800000000000000
+      internalID: -6567779897925314014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_121
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 874
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e715607d8655c0800000000000000
+      internalID: -4227035686368713890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_122
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 874
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acccf8a06ae62630800000000000000
+      internalID: 3902063828036013219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_123
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 874
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81ac926d95777c0800000000000000
+      internalID: -4073688561574340371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_124
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 874
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3cd81a398977760800000000000000
+      internalID: 7455595467973182400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_125
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 874
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2b9c9698042680800000000000000
+      internalID: -8780883930500092243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_126
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 874
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b82d2c06d8aa10800000000000000
+      internalID: 1921020588859111866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 860
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85abaccb61362a90800000000000000
+      internalID: -7339124203688581748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_128
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 860
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38591376011754b40800000000000000
+      internalID: 5423865641502348675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 797
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9841b9b8b6636b0800000000000000
+      internalID: -5316944062717851205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_130
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 797
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a10d3dfd9521f0800000000000000
+      internalID: -1070275625454819655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 797
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a8082b71116f460800000000000000
+      internalID: 7275021041540303393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_132
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 797
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7116c7866412e63e0800000000000000
+      internalID: -2058671393377328873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 797
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098784f5419b6e300800000000000000
+      internalID: 281115523906304144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_134
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 797
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b314eb6281ae4ce0800000000000000
+      internalID: -1419019251047197771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 797
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b750b5d9a40fe1df0800000000000000
+      internalID: -207464329554229893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_136
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 797
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531599f51c6b31b60800000000000000
+      internalID: 7715711528264618293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_137
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 797
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025cc81b1d4ef7960800000000000000
+      internalID: 7602046285302777120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_138
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 797
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554dc3baf5f64a00800000000000000
+      internalID: 740549645856228693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_139
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 797
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ecb349b9fe3870800000000000000
+      internalID: 8664637307208132381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_140
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 797
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd4f278d4757c90800000000000000
+      internalID: -7172698358527238328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_141
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 797
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fc08358ccb8ce00800000000000000
+      internalID: 1065308880453553985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 784
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98b8e2d53de0f60800000000000000
+      internalID: 8002565985050266103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 728
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6481af7628e6e840800000000000000
+      internalID: 5253141267421955182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 715
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe596d2483f74e610800000000000000
+      internalID: 1649583243140699631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_145
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 715
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fdcc26527e48ff0800000000000000
+      internalID: -34648749354721444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_146
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b629148a601d79f0800000000000000
+      internalID: -469200736507844936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_147
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 675
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd244e5ff743e50800000000000000
+      internalID: 6788191232427483087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_148
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 674
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83206128957de70800000000000000
+      internalID: 9139872384021575875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 669
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951a66f64c560420800000000000000
+      internalID: 2595863695077283220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_150
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 668
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55aa10ca65606f0800000000000000
+      internalID: -718791793756711431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 664
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa9207c66990a7c0800000000000000
+      internalID: -4062078197183636751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 665
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2fe14db9461990800000000000000
+      internalID: -7415658659215103169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_153
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 666
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f03acfe5d9857200800000000000000
+      internalID: 177199312295047416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_154
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 667
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e004b526ba8b30aa0800000000000000
+      internalID: -6195905616102604786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_155
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 668
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544892f95bea63bb0800000000000000
+      internalID: -4956582244792040379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_156
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 663
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc2cda334928410800000000000000
+      internalID: 1477906577410412524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_157
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 663
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66723964f22622b10800000000000000
+      internalID: 1955233143419250534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_158
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 660
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51821795e51d14370800000000000000
+      internalID: 8305149391005624341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_159
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 660
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aa30f0ebd8dffd0800000000000000
+      internalID: -2306531586708624840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_160
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 659
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed7a89d0b2a1630800000000000000
+      internalID: 3898475764838293020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_161
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 662
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1169196dadaaac0800000000000000
+      internalID: -3843018716906909238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_162
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 668
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41cb1165faf1750800000000000000
+      internalID: 6277929189777347801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_163
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 607
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a54ef6170c85c20800000000000000
+      internalID: 3195515529060440600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_164
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 607
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e2006d2bd4c9de0800000000000000
+      internalID: -1325098759863914997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_165
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 605
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae80c76da222d6b0800000000000000
+      internalID: -5273114085532070232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 605
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fc8147e422e25f0800000000000000
+      internalID: -779647965137940654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_167
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 605
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328febb07957c930800000000000000
+      internalID: 4163394721251557938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 606
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398a1d91ee3b1550800000000000000
+      internalID: 6132564456319387953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_169
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 606
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a76818cacd24e0800000000000000
+      internalID: -2004723298358286178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 607
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba037e270e0c060800000000000000
+      internalID: 6971819007279148006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_171
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 605
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddec7a0896851bb0800000000000000
+      internalID: -4965915026536993316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_172
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 606
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5645d160a4cb530800000000000000
+      internalID: 3872051169754113457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_173
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 607
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b14d61322b89ac0800000000000000
+      internalID: -3848130017811489891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_174
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 608
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e741b87d6473a5e0800000000000000
+      internalID: -1899546604295075864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_175
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 556
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae39c7082db6d570800000000000000
+      internalID: 8491182127080619695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_176
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 554
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dcef2011c66aeb0800000000000000
+      internalID: -4708957540048777940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_177
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 556
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f980b807f9c420800000000000000
+      internalID: 2650921472377878593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_178
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 564
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91751e27f86423dd0800000000000000
+      internalID: -2507864460570306791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_179
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 568
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd41e27072e0b20800000000000000
+      internalID: 3102460105096224515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_180
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5d2e64779b2230800000000000000
+      internalID: 3615149652215422882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_181
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 515
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff6df7908338a60800000000000000
+      internalID: 7675039803420114749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_182
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 556
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4399b16e1bee9d0800000000000000
+      internalID: -2743059521158433575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_183
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 559
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a31eff0a2f20d50800000000000000
+      internalID: 6702185968782359097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 570
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a5255b3baa0410800000000000000
+      internalID: 1444154901845614921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_185
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 568
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e43f68ac204aee0800000000000000
+      internalID: -1250871727631413740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_186
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 559
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bfdd6d7bd67f1f0800000000000000
+      internalID: -1011218954970072228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_187
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 541
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f7f25538f089b30800000000000000
+      internalID: 4294199301442076442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_188
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 522
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245842f80828b5e40800000000000000
+      internalID: 5646250046508008770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_189
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 519
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac626fa58ddc39c0800000000000000
+      internalID: -3946035607240545107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_190
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 518
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa32714c62e76a8f0800000000000000
+      internalID: -529597201205746769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_191
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc59b49c9672fef0800000000000000
+      internalID: -75867828829725511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_192
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 517
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a14d9acf802f3d90800000000000000
+      internalID: -7115933084270378585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_193
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 523
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ddf068c06b2b50800000000000000
+      internalID: 6569450895186974751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_194
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 520
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500b75c61bb11dd0800000000000000
+      internalID: -2517025010246549409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_195
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 516
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fdb6ef6438da7c0800000000000000
+      internalID: -4058443348251517158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_196
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 502
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75ed8822e7a40e0800000000000000
+      internalID: -2284875174146844739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_197
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 412
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff66104bcdc12840800000000000000
+      internalID: 5197661717799530487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 438
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ad0bc2918939450800000000000000
+      internalID: 6094381954653805180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_199
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 438
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df36eb7f5ddc8d0800000000000000
+      internalID: -2824366131263570640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_200
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 438
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd55a1225320280800000000000000
+      internalID: -9078635478238503081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_201
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 438
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124e8d201f01f7b90800000000000000
+      internalID: -7242051048467536863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_202
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 438
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86ce44b9ea5f380800000000000000
+      internalID: -8938045903547373317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_203
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 449
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8e4e77588351f0800000000000000
+      internalID: -1057351578139324483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_204
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 439
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ddbcd95576ce620800000000000000
+      internalID: 2804730285362240920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_205
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 449
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5446ab6917c4dbca0800000000000000
+      internalID: -5999555077843819451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_206
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 449
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8e73be83601680800000000000000
+      internalID: -8786413408451917305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_207
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 439
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7e2b12cfbd4c40800000000000000
+      internalID: 5498261560489836138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_208
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 449
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc0a5360fddab920800000000000000
+      internalID: 3006959725751962847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_209
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 421
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b370766b5b5a68b0800000000000000
+      internalID: -5158209975080684615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_210
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 421
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9912078cb362059e0800000000000000
+      internalID: -1634764626527772263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_211
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 421
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c1e65331784ee0800000000000000
+      internalID: -1276646029044628622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_212
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 421
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457eafaecc37a4fa0800000000000000
+      internalID: -5815708644842739884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_213
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 421
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df033dec1b3e4f040800000000000000
+      internalID: 4680616265563451645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_214
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 429
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c12c7bd7257cd70800000000000000
+      internalID: 9063303475013753957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_215
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 429
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49247efad1e893b00800000000000000
+      internalID: 808833866246079124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_216
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 429
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae627339f5dde010800000000000000
+      internalID: 1219866340373982880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_217
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 408
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668f8a2ca8d42650800000000000000
+      internalID: 6207324420383409770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_218
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0ec9444cf4a130800000000000000
+      internalID: 3577261374265232235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_219
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 408
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2aab489b9f0f3c0800000000000000
+      internalID: -4327684666711956745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_220
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 408
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8505f565b12db90800000000000000
+      internalID: -7218677194941245250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_221
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 408
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7da292f0ab2ce0800000000000000
+      internalID: -1428871493056628212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_222
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 408
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8e348c1c682460800000000000000
+      internalID: 7217137272594795021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw Unit_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1233
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afadfe19188e9750800000000000000
+      internalID: 6313633369095516067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Claw Unit_0: 7531746894886490631
+      Claw Unit_1: 556127235918396869
+      Claw Unit_10: 61199334350873586
+      Claw Unit_100: -6561250917071419421
+      Claw Unit_101: -1565538043385854217
+      Claw Unit_102: -6239101152403906567
+      Claw Unit_103: 1685579429610978617
+      Claw Unit_104: -7909941796133279748
+      Claw Unit_105: 1960461794839694584
+      Claw Unit_106: 2485271145033470591
+      Claw Unit_107: 2230983018424904280
+      Claw Unit_108: -2529354331495876086
+      Claw Unit_109: -7128589585050780021
+      Claw Unit_11: 8988951617331385559
+      Claw Unit_110: 3952603374419026952
+      Claw Unit_111: 3139508927350474152
+      Claw Unit_112: -1007827432677069315
+      Claw Unit_113: -3648069962224611337
+      Claw Unit_114: 2624418555707784903
+      Claw Unit_115: 3466680322363167738
+      Claw Unit_116: -7893296763476321880
+      Claw Unit_117: -3387763454972660596
+      Claw Unit_118: -6543881980314947982
+      Claw Unit_119: 5802195772056380234
+      Claw Unit_12: -7581651609394137142
+      Claw Unit_120: -6567779897925314014
+      Claw Unit_121: -4227035686368713890
+      Claw Unit_122: 3902063828036013219
+      Claw Unit_123: -4073688561574340371
+      Claw Unit_124: 7455595467973182400
+      Claw Unit_125: -8780883930500092243
+      Claw Unit_126: 1921020588859111866
+      Claw Unit_127: -7339124203688581748
+      Claw Unit_128: 5423865641502348675
+      Claw Unit_129: -5316944062717851205
+      Claw Unit_13: -5175361864933920227
+      Claw Unit_130: -1070275625454819655
+      Claw Unit_131: 7275021041540303393
+      Claw Unit_132: -2058671393377328873
+      Claw Unit_133: 281115523906304144
+      Claw Unit_134: -1419019251047197771
+      Claw Unit_135: -207464329554229893
+      Claw Unit_136: 7715711528264618293
+      Claw Unit_137: 7602046285302777120
+      Claw Unit_138: 740549645856228693
+      Claw Unit_139: 8664637307208132381
+      Claw Unit_14: 155660769299591047
+      Claw Unit_140: -7172698358527238328
+      Claw Unit_141: 1065308880453553985
+      Claw Unit_142: 8002565985050266103
+      Claw Unit_143: 5253141267421955182
+      Claw Unit_144: 1649583243140699631
+      Claw Unit_145: -34648749354721444
+      Claw Unit_146: -469200736507844936
+      Claw Unit_147: 6788191232427483087
+      Claw Unit_148: 9139872384021575875
+      Claw Unit_149: 2595863695077283220
+      Claw Unit_15: 6633331857248055193
+      Claw Unit_150: -718791793756711431
+      Claw Unit_151: -4062078197183636751
+      Claw Unit_152: -7415658659215103169
+      Claw Unit_153: 177199312295047416
+      Claw Unit_154: -6195905616102604786
+      Claw Unit_155: -4956582244792040379
+      Claw Unit_156: 1477906577410412524
+      Claw Unit_157: 1955233143419250534
+      Claw Unit_158: 8305149391005624341
+      Claw Unit_159: -2306531586708624840
+      Claw Unit_16: 3159217660566993141
+      Claw Unit_160: 3898475764838293020
+      Claw Unit_161: -3843018716906909238
+      Claw Unit_162: 6277929189777347801
+      Claw Unit_163: 3195515529060440600
+      Claw Unit_164: -1325098759863914997
+      Claw Unit_165: -5273114085532070232
+      Claw Unit_166: -779647965137940654
+      Claw Unit_167: 4163394721251557938
+      Claw Unit_168: 6132564456319387953
+      Claw Unit_169: -2004723298358286178
+      Claw Unit_17: 6991049006340874346
+      Claw Unit_170: 6971819007279148006
+      Claw Unit_171: -4965915026536993316
+      Claw Unit_172: 3872051169754113457
+      Claw Unit_173: -3848130017811489891
+      Claw Unit_174: -1899546604295075864
+      Claw Unit_175: 8491182127080619695
+      Claw Unit_176: -4708957540048777940
+      Claw Unit_177: 2650921472377878593
+      Claw Unit_178: -2507864460570306791
+      Claw Unit_179: 3102460105096224515
+      Claw Unit_18: -8475069047429491539
+      Claw Unit_180: 3615149652215422882
+      Claw Unit_181: 7675039803420114749
+      Claw Unit_182: -2743059521158433575
+      Claw Unit_183: 6702185968782359097
+      Claw Unit_184: 1444154901845614921
+      Claw Unit_185: -1250871727631413740
+      Claw Unit_186: -1011218954970072228
+      Claw Unit_187: 4294199301442076442
+      Claw Unit_188: 5646250046508008770
+      Claw Unit_189: -3946035607240545107
+      Claw Unit_19: -2523079291548487484
+      Claw Unit_190: -529597201205746769
+      Claw Unit_191: -75867828829725511
+      Claw Unit_192: -7115933084270378585
+      Claw Unit_193: 6569450895186974751
+      Claw Unit_194: -2517025010246549409
+      Claw Unit_195: -4058443348251517158
+      Claw Unit_196: -2284875174146844739
+      Claw Unit_197: 5197661717799530487
+      Claw Unit_198: 6094381954653805180
+      Claw Unit_199: -2824366131263570640
+      Claw Unit_2: 3170854890977565948
+      Claw Unit_20: 9075835054391799028
+      Claw Unit_200: -9078635478238503081
+      Claw Unit_201: -7242051048467536863
+      Claw Unit_202: -8938045903547373317
+      Claw Unit_203: -1057351578139324483
+      Claw Unit_204: 2804730285362240920
+      Claw Unit_205: -5999555077843819451
+      Claw Unit_206: -8786413408451917305
+      Claw Unit_207: 5498261560489836138
+      Claw Unit_208: 3006959725751962847
+      Claw Unit_209: -5158209975080684615
+      Claw Unit_21: -114156056388331294
+      Claw Unit_210: -1634764626527772263
+      Claw Unit_211: -1276646029044628622
+      Claw Unit_212: -5815708644842739884
+      Claw Unit_213: 4680616265563451645
+      Claw Unit_214: 9063303475013753957
+      Claw Unit_215: 808833866246079124
+      Claw Unit_216: 1219866340373982880
+      Claw Unit_217: 6207324420383409770
+      Claw Unit_218: 3577261374265232235
+      Claw Unit_219: -4327684666711956745
+      Claw Unit_22: -1948877500557142762
+      Claw Unit_220: -7218677194941245250
+      Claw Unit_221: -1428871493056628212
+      Claw Unit_222: 7217137272594795021
+      Claw Unit_223: 6313633369095516067
+      Claw Unit_23: -8168184131096945207
+      Claw Unit_24: -310272239523618841
+      Claw Unit_25: -5078939548167177588
+      Claw Unit_26: -6985904595187987377
+      Claw Unit_27: -7026101809790076321
+      Claw Unit_28: -7313570598969972506
+      Claw Unit_29: 963204623324327714
+      Claw Unit_3: -3907925653316831616
+      Claw Unit_30: 2922593385044720587
+      Claw Unit_31: -520851310976529940
+      Claw Unit_32: 6547931304436618960
+      Claw Unit_33: -1359766872675468055
+      Claw Unit_34: -8221763005166479456
+      Claw Unit_35: -9032707188697889396
+      Claw Unit_36: 1141489459113192898
+      Claw Unit_37: 7583070495985286722
+      Claw Unit_38: -3634794892655120164
+      Claw Unit_39: -7661884662126608289
+      Claw Unit_4: 6144753217235630382
+      Claw Unit_40: -8479300025001957581
+      Claw Unit_41: -280377662002108159
+      Claw Unit_42: -3314559150916762311
+      Claw Unit_43: -7278096448708530960
+      Claw Unit_44: -7982049664587023506
+      Claw Unit_45: -3875434452218390323
+      Claw Unit_46: 7776066695993642832
+      Claw Unit_47: -2610935151274760288
+      Claw Unit_48: -1912708417967610786
+      Claw Unit_49: -1719879511323062018
+      Claw Unit_5: 4865192020181919518
+      Claw Unit_50: -4271479635444872718
+      Claw Unit_51: -8639740887884709428
+      Claw Unit_52: -6891708350602795574
+      Claw Unit_53: 4785986350217899513
+      Claw Unit_54: -131377057466315757
+      Claw Unit_55: 2138404392047597427
+      Claw Unit_56: 1684378226628121210
+      Claw Unit_57: -4231730490722715151
+      Claw Unit_58: 7166184311630714642
+      Claw Unit_59: 7166109030539280803
+      Claw Unit_6: 2571696835274379493
+      Claw Unit_60: 5887946658569914817
+      Claw Unit_61: 6557475646051340877
+      Claw Unit_62: 589842573487806589
+      Claw Unit_63: 4953377841419265945
+      Claw Unit_64: 2279447318558477002
+      Claw Unit_65: -2586658528213233530
+      Claw Unit_66: 3115340045328497286
+      Claw Unit_67: -4933075354494863017
+      Claw Unit_68: 5142331585272147042
+      Claw Unit_69: -8705092842009740782
+      Claw Unit_7: -4183869694757800194
+      Claw Unit_70: -8322661949939489120
+      Claw Unit_71: -2430623591490567822
+      Claw Unit_72: 4210224862657195461
+      Claw Unit_73: 7294281780735048499
+      Claw Unit_74: 6411320323304855382
+      Claw Unit_75: 810324239385078457
+      Claw Unit_76: -2989806480071760025
+      Claw Unit_77: 8001057973857516284
+      Claw Unit_78: 6453249120233044642
+      Claw Unit_79: -126039457784420481
+      Claw Unit_8: -3381301084257509494
+      Claw Unit_80: -3081755369472812492
+      Claw Unit_81: 7093115242989994182
+      Claw Unit_82: -6528375715396627708
+      Claw Unit_83: -5877783448546365533
+      Claw Unit_84: -50813632393934306
+      Claw Unit_85: -9008920133088435536
+      Claw Unit_86: -4058046639871792933
+      Claw Unit_87: 2006280047310746409
+      Claw Unit_88: -885554739557810658
+      Claw Unit_89: -3624882986341395758
+      Claw Unit_9: 7794817679359803454
+      Claw Unit_90: -3235125231831219420
+      Claw Unit_91: 1472774272930767918
+      Claw Unit_92: -5300070098691902167
+      Claw Unit_93: 1322476900442633062
+      Claw Unit_94: 380866748195372742
+      Claw Unit_95: 2900725635857739779
+      Claw Unit_96: 539088706973695309
+      Claw Unit_97: -4398473081270452173
+      Claw Unit_98: -1364187436393294194
+      Claw Unit_99: 4773018709590892855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

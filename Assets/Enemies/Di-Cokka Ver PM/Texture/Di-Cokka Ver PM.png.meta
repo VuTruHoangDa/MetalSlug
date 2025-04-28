@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: b994b2bae021a814c8d20cfaa9a8881f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8186677385525766556
+    second: Di-Cokka Ver PM_0
+  - first:
+      213: 5701900396074267258
+    second: Di-Cokka Ver PM_1
+  - first:
+      213: 1224646946415990249
+    second: Di-Cokka Ver PM_2
+  - first:
+      213: -1797481460224688769
+    second: Di-Cokka Ver PM_3
+  - first:
+      213: -8173288411705683551
+    second: Di-Cokka Ver PM_4
+  - first:
+      213: 3975291730940771375
+    second: Di-Cokka Ver PM_5
+  - first:
+      213: -422367518082161971
+    second: Di-Cokka Ver PM_6
+  - first:
+      213: 7163054233039574447
+    second: Di-Cokka Ver PM_7
+  - first:
+      213: 6529642095596987627
+    second: Di-Cokka Ver PM_8
+  - first:
+      213: -4085389201862763126
+    second: Di-Cokka Ver PM_9
+  - first:
+      213: 8313066924181604183
+    second: Di-Cokka Ver PM_10
+  - first:
+      213: -1931691529053904735
+    second: Di-Cokka Ver PM_11
+  - first:
+      213: -2546561810303829896
+    second: Di-Cokka Ver PM_12
+  - first:
+      213: 236871728456601867
+    second: Di-Cokka Ver PM_13
+  - first:
+      213: 6873842728538873820
+    second: Di-Cokka Ver PM_14
+  - first:
+      213: -2031479930693168643
+    second: Di-Cokka Ver PM_15
+  - first:
+      213: -8569102054324577657
+    second: Di-Cokka Ver PM_16
+  - first:
+      213: -5680155855604287549
+    second: Di-Cokka Ver PM_17
+  - first:
+      213: -235957908527585000
+    second: Di-Cokka Ver PM_18
+  - first:
+      213: -1178277605346627204
+    second: Di-Cokka Ver PM_19
+  - first:
+      213: -8715473893992592605
+    second: Di-Cokka Ver PM_20
+  - first:
+      213: -2699889150076066158
+    second: Di-Cokka Ver PM_21
+  - first:
+      213: 4747816476389685892
+    second: Di-Cokka Ver PM_22
+  - first:
+      213: -7791909529419425391
+    second: Di-Cokka Ver PM_23
+  - first:
+      213: 664991069581903760
+    second: Di-Cokka Ver PM_24
+  - first:
+      213: -6141192211111411526
+    second: Di-Cokka Ver PM_25
+  - first:
+      213: -6221757030451013244
+    second: Di-Cokka Ver PM_26
+  - first:
+      213: 8383360085279102946
+    second: Di-Cokka Ver PM_27
+  - first:
+      213: -7458045048501041244
+    second: Di-Cokka Ver PM_28
+  - first:
+      213: -8763570707834893164
+    second: Di-Cokka Ver PM_29
+  - first:
+      213: 6030703102235471515
+    second: Di-Cokka Ver PM_30
+  - first:
+      213: 7988554022479846185
+    second: Di-Cokka Ver PM_31
+  - first:
+      213: 9169925364962218342
+    second: Di-Cokka Ver PM_32
+  - first:
+      213: 8819015954758880308
+    second: Di-Cokka Ver PM_33
+  - first:
+      213: 8517051684746176485
+    second: Di-Cokka Ver PM_34
+  - first:
+      213: 8391336245718117159
+    second: Di-Cokka Ver PM_35
+  - first:
+      213: 8785800632374626920
+    second: Di-Cokka Ver PM_36
+  - first:
+      213: 455619016173977585
+    second: Di-Cokka Ver PM_37
+  - first:
+      213: 2656938448528206427
+    second: Di-Cokka Ver PM_38
+  - first:
+      213: -8739912631485272166
+    second: Di-Cokka Ver PM_39
+  - first:
+      213: -8630588361871427098
+    second: Di-Cokka Ver PM_40
+  - first:
+      213: 338863367661228701
+    second: Di-Cokka Ver PM_41
+  - first:
+      213: -201654730715413743
+    second: Di-Cokka Ver PM_42
+  - first:
+      213: 7231198369280509299
+    second: Di-Cokka Ver PM_43
+  - first:
+      213: 8257271117661543705
+    second: Di-Cokka Ver PM_44
+  - first:
+      213: -8617007780702579929
+    second: Di-Cokka Ver PM_45
+  - first:
+      213: 7046766628037134870
+    second: Di-Cokka Ver PM_46
+  - first:
+      213: -4339633753741026727
+    second: Di-Cokka Ver PM_47
+  - first:
+      213: 2078383561867058173
+    second: Di-Cokka Ver PM_48
+  - first:
+      213: 5590820728681520229
+    second: Di-Cokka Ver PM_49
+  - first:
+      213: -324979204992434261
+    second: Di-Cokka Ver PM_50
+  - first:
+      213: 1827350717066902757
+    second: Di-Cokka Ver PM_51
+  - first:
+      213: -3170387837204404456
+    second: Di-Cokka Ver PM_52
+  - first:
+      213: 5551107861145819984
+    second: Di-Cokka Ver PM_53
+  - first:
+      213: 6047249273151349194
+    second: Di-Cokka Ver PM_54
+  - first:
+      213: -1428924195689675349
+    second: Di-Cokka Ver PM_55
+  - first:
+      213: 3915587069106746119
+    second: Di-Cokka Ver PM_56
+  - first:
+      213: 1866828988382527165
+    second: Di-Cokka Ver PM_57
+  - first:
+      213: 5731245992321175324
+    second: Di-Cokka Ver PM_58
+  - first:
+      213: 8179869230371168551
+    second: Di-Cokka Ver PM_59
+  - first:
+      213: -4305894041132218397
+    second: Di-Cokka Ver PM_60
+  - first:
+      213: -6540262557370976389
+    second: Di-Cokka Ver PM_61
+  - first:
+      213: 2048887293272357663
+    second: Di-Cokka Ver PM_62
+  - first:
+      213: -4511042649337247938
+    second: Di-Cokka Ver PM_63
+  - first:
+      213: -7142881421170777516
+    second: Di-Cokka Ver PM_64
+  - first:
+      213: -3131654070425769042
+    second: Di-Cokka Ver PM_65
+  - first:
+      213: 8400433921199051111
+    second: Di-Cokka Ver PM_66
+  - first:
+      213: 5292686500289701177
+    second: Di-Cokka Ver PM_67
+  - first:
+      213: 4992131106291639317
+    second: Di-Cokka Ver PM_68
+  - first:
+      213: -6109242936638998145
+    second: Di-Cokka Ver PM_69
+  - first:
+      213: 2299419312236625253
+    second: Di-Cokka Ver PM_70
+  - first:
+      213: -8165888934754217357
+    second: Di-Cokka Ver PM_71
+  - first:
+      213: 1740088296848910047
+    second: Di-Cokka Ver PM_72
+  - first:
+      213: -4581585096829562921
+    second: Di-Cokka Ver PM_73
+  - first:
+      213: 4853816300052430656
+    second: Di-Cokka Ver PM_74
+  - first:
+      213: 5395538387868093170
+    second: Di-Cokka Ver PM_75
+  - first:
+      213: 4697109659524491204
+    second: Di-Cokka Ver PM_76
+  - first:
+      213: -283129289033969844
+    second: Di-Cokka Ver PM_77
+  - first:
+      213: -1413180303348891729
+    second: Di-Cokka Ver PM_78
+  - first:
+      213: -2332932159317898577
+    second: Di-Cokka Ver PM_79
+  - first:
+      213: -7914388653813656662
+    second: Di-Cokka Ver PM_80
+  - first:
+      213: -1833241900268633829
+    second: Di-Cokka Ver PM_81
+  - first:
+      213: 7619560592973605587
+    second: Di-Cokka Ver PM_82
+  - first:
+      213: 337205971626884824
+    second: Di-Cokka Ver PM_83
+  - first:
+      213: 7808566024578022637
+    second: Di-Cokka Ver PM_84
+  - first:
+      213: -5256500427889572440
+    second: Di-Cokka Ver PM_85
+  - first:
+      213: 7526699560652877671
+    second: Di-Cokka Ver PM_86
+  - first:
+      213: 5649428553606948788
+    second: Di-Cokka Ver PM_87
+  - first:
+      213: -5845098033316681629
+    second: Di-Cokka Ver PM_88
+  - first:
+      213: -8237915984059932661
+    second: Di-Cokka Ver PM_89
+  - first:
+      213: 3183753700431999707
+    second: Di-Cokka Ver PM_90
+  - first:
+      213: -1953312654595944347
+    second: Di-Cokka Ver PM_91
+  - first:
+      213: -4313321858822409607
+    second: Di-Cokka Ver PM_92
+  - first:
+      213: 5877428882830211039
+    second: Di-Cokka Ver PM_93
+  - first:
+      213: -2274303252156455297
+    second: Di-Cokka Ver PM_94
+  - first:
+      213: 1854657047430615282
+    second: Di-Cokka Ver PM_95
+  - first:
+      213: 1362082550044218760
+    second: Di-Cokka Ver PM_96
+  - first:
+      213: 6831591682220277660
+    second: Di-Cokka Ver PM_97
+  - first:
+      213: -6748834111045750465
+    second: Di-Cokka Ver PM_98
+  - first:
+      213: 5975449251140310538
+    second: Di-Cokka Ver PM_99
+  - first:
+      213: 5962458454346984310
+    second: Di-Cokka Ver PM_100
+  - first:
+      213: -8994416678984400393
+    second: Di-Cokka Ver PM_101
+  - first:
+      213: -202794867254729271
+    second: Di-Cokka Ver PM_102
+  - first:
+      213: 3390310199769663012
+    second: Di-Cokka Ver PM_103
+  - first:
+      213: 6961593304582662172
+    second: Di-Cokka Ver PM_104
+  - first:
+      213: 8960185002358964691
+    second: Di-Cokka Ver PM_105
+  - first:
+      213: 6630292369620508885
+    second: Di-Cokka Ver PM_106
+  - first:
+      213: 9025567815030672987
+    second: Di-Cokka Ver PM_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1083
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665301fa44136e80800000000000000
+      internalID: -8186677385525766556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a727aa44338312f40800000000000000
+      internalID: 5701900396074267258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1083
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e55468c8e1def010800000000000000
+      internalID: 1224646946415990249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df4f8a2201e07e0800000000000000
+      internalID: -1797481460224688769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a157755e75a29e80800000000000000
+      internalID: -8173288411705683551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cb54d64c21b2730800000000000000
+      internalID: 3975291730940771375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2ac08eaf2732af0800000000000000
+      internalID: -422367518082161971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1020
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59e2b9fd7486360800000000000000
+      internalID: 7163054233039574447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4ee72f3e2fd9a50800000000000000
+      internalID: 6529642095596987627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd0cd8a28cd47c0800000000000000
+      internalID: -4085389201862763126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c4e1b252fd5370800000000000000
+      internalID: 8313066924181604183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06c13f9c04135e0800000000000000
+      internalID: -1931691529053904735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b34a968bc8acd0800000000000000
+      internalID: -2546561810303829896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011dfff499894300800000000000000
+      internalID: 236871728456601867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf167cda8bc46f50800000000000000
+      internalID: 6873842728538873820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d2ba24cbbec3e0800000000000000
+      internalID: -2031479930693168643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad9e7251f641980800000000000000
+      internalID: -8569102054324577657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f9d518580c21b0800000000000000
+      internalID: -5680155855604287549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 957
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819e4484885b9bcf0800000000000000
+      internalID: -235957908527585000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 895
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71348eb2cae5afe0800000000000000
+      internalID: -1178277605346627204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b81638baa6c0780800000000000000
+      internalID: -8715473893992592605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 771
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e8c46f11188ad0800000000000000
+      internalID: -2699889150076066158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a34f52ee1a3e140800000000000000
+      internalID: 4747816476389685892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 771
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19959f8f0939dd390800000000000000
+      internalID: -7791909529419425391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0978c31cad58a3900800000000000000
+      internalID: 664991069581903760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 771
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab00f4fa83a16caa0800000000000000
+      internalID: -6141192211111411526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899d21f1f0e7a9a0800000000000000
+      internalID: -6221757030451013244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7df33a49da75470800000000000000
+      internalID: 8383360085279102946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70c35fa83bf7890800000000000000
+      internalID: -7458045048501041244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c8b736fda816680800000000000000
+      internalID: -8763570707834893164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_30
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 833
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e679af48c51b350800000000000000
+      internalID: 6030703102235471515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bddeaee8b0dde60800000000000000
+      internalID: 7988554022479846185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661da6bf88e124f70800000000000000
+      internalID: 9169925364962218342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cc7e32940736a70800000000000000
+      internalID: 8819015954758880308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e720fac165a23670800000000000000
+      internalID: 8517051684746176485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b63e43bd3047470800000000000000
+      internalID: 8391336245718117159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8710402f6de970800000000000000
+      internalID: 8785800632374626920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff76fbc41fa25600800000000000000
+      internalID: 455619016173977585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae99e11775fd420800000000000000
+      internalID: 2656938448528206427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fee5884c795b680800000000000000
+      internalID: -8739912631485272166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e978089c9df93880800000000000000
+      internalID: -8630588361871427098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9217d00072e3b400800000000000000
+      internalID: 338863367661228701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1134e604714933df0800000000000000
+      internalID: -201654730715413743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 705
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754955ba906a5460800000000000000
+      internalID: 7231198369280509299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d1f462558b79270800000000000000
+      internalID: 8257271117661543705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723127c041d3a6880800000000000000
+      internalID: -8617007780702579929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0b3fa9e42bc160800000000000000
+      internalID: 7046766628037134870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a98f4e71686c3c0800000000000000
+      internalID: -4339633753741026727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd81876d6e7dc10800000000000000
+      internalID: 2078383561867058173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 573
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cd3ffc4d5969d40800000000000000
+      internalID: 5590820728681520229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf790782217d7bf0800000000000000
+      internalID: -324979204992434261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 573
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf3d2abcd0c5910800000000000000
+      internalID: 1827350717066902757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817663b3f058004d0800000000000000
+      internalID: -3170387837204404456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 573
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b997d403f790d40800000000000000
+      internalID: 5551107861145819984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ec6a9c252ce350800000000000000
+      internalID: 6047249273151349194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 573
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c4f8c3017b2ce0800000000000000
+      internalID: -1428924195689675349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703783591b5f65630800000000000000
+      internalID: 3915587069106746119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe31f4f21f48e910800000000000000
+      internalID: 1866828988382527165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 511
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f4fa45dd9798f40800000000000000
+      internalID: 5731245992321175324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721eb69e9bbb48170800000000000000
+      internalID: 8179869230371168551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c7d5ee246e34c0800000000000000
+      internalID: -4305894041132218397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777d1a1bd15c35a0800000000000000
+      internalID: -6540262557370976389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7f44432c1f6c10800000000000000
+      internalID: 2048887293272357663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cd976c9e8561c0800000000000000
+      internalID: -4511042649337247938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e06a21336fdc90800000000000000
+      internalID: -7142881421170777516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabadd417312a84d0800000000000000
+      internalID: -3131654070425769042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611638d426549470800000000000000
+      internalID: 8400433921199051111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e5458456637940800000000000000
+      internalID: 5292686500289701177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 449
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e0beaacc974540800000000000000
+      internalID: 4992131106291639317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797113daeb973ba0800000000000000
+      internalID: -6109242936638998145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_70
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 380
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d798f7ead29ef10800000000000000
+      internalID: 2299419312236625253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729ea0574fecae80800000000000000
+      internalID: -8165888934754217357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd66e7b2619062810800000000000000
+      internalID: 1740088296848910047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0043f0a0fa60c0800000000000000
+      internalID: -4581585096829562921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f30a155383c5340800000000000000
+      internalID: 4853816300052430656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa8cd4b39dc0ea40800000000000000
+      internalID: 5395538387868093170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76307595c7f2140800000000000000
+      internalID: 4697109659524491204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0f95696f121cf0800000000000000
+      internalID: -283129289033969844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_78
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf7f4f5000636ce0800000000000000
+      internalID: -1413180303348891729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa85cebf82cf9fd0800000000000000
+      internalID: -2332932159317898577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31e0b93717a2290800000000000000
+      internalID: -7914388653813656662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11402364340f86e0800000000000000
+      internalID: -1833241900268633829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_82
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa1c83dfd1eb960800000000000000
+      internalID: 7619560592973605587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_83
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8def5fa6b0ffda400800000000000000
+      internalID: 337205971626884824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_84
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 322
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec38248d699d5c60800000000000000
+      internalID: 7808566024578022637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a504f106b82d07b0800000000000000
+      internalID: -5256500427889572440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 263
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fadcb4f55347860800000000000000
+      internalID: 7526699560652877671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e0b9665dc66e40800000000000000
+      internalID: 5649428553606948788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36823deae4a02eea0800000000000000
+      internalID: -5845098033316681629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0068901f0b0dad80800000000000000
+      internalID: -8237915984059932661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2b59e4f17fe2c20800000000000000
+      internalID: 3183753700431999707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560988f5d7074e4e0800000000000000
+      internalID: -1953312654595944347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97276f25f900424c0800000000000000
+      internalID: -4313321858822409607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd737b1dd62d09150800000000000000
+      internalID: 5877428882830211039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e2bfed3d0070e0800000000000000
+      internalID: -2274303252156455297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d64c12c01db910800000000000000
+      internalID: 1854657047430615282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885d426dcd617e210800000000000000
+      internalID: 1362082550044218760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_97
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb04d8070bece50800000000000000
+      internalID: 6831591682220277660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_98
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31341302235752a0800000000000000
+      internalID: -6748834111045750465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_99
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0697934f6f0de250800000000000000
+      internalID: 5975449251140310538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_100
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b606faf58eeb250800000000000000
+      internalID: 5962458454346984310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_101
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 213
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f149475fa96d2380800000000000000
+      internalID: -8994416678984400393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_102
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 163
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5620784278f2df0800000000000000
+      internalID: -202794867254729271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42687aff92dcc0f20800000000000000
+      internalID: 3390310199769663012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 139
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c182366f93c8c9060800000000000000
+      internalID: 6961593304582662172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 139
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1836b59c8f85c70800000000000000
+      internalID: 8960185002358964691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 139
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0a63808c7830c50800000000000000
+      internalID: 6630292369620508885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Di-Cokka Ver PM_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 632
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0a17bb12414d70800000000000000
+      internalID: 9025567815030672987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Di-Cokka Ver PM_0: -8186677385525766556
+      Di-Cokka Ver PM_1: 5701900396074267258
+      Di-Cokka Ver PM_10: 8313066924181604183
+      Di-Cokka Ver PM_100: 5962458454346984310
+      Di-Cokka Ver PM_101: -8994416678984400393
+      Di-Cokka Ver PM_102: -202794867254729271
+      Di-Cokka Ver PM_103: 3390310199769663012
+      Di-Cokka Ver PM_104: 6961593304582662172
+      Di-Cokka Ver PM_105: 8960185002358964691
+      Di-Cokka Ver PM_106: 6630292369620508885
+      Di-Cokka Ver PM_107: 9025567815030672987
+      Di-Cokka Ver PM_11: -1931691529053904735
+      Di-Cokka Ver PM_12: -2546561810303829896
+      Di-Cokka Ver PM_13: 236871728456601867
+      Di-Cokka Ver PM_14: 6873842728538873820
+      Di-Cokka Ver PM_15: -2031479930693168643
+      Di-Cokka Ver PM_16: -8569102054324577657
+      Di-Cokka Ver PM_17: -5680155855604287549
+      Di-Cokka Ver PM_18: -235957908527585000
+      Di-Cokka Ver PM_19: -1178277605346627204
+      Di-Cokka Ver PM_2: 1224646946415990249
+      Di-Cokka Ver PM_20: -8715473893992592605
+      Di-Cokka Ver PM_21: -2699889150076066158
+      Di-Cokka Ver PM_22: 4747816476389685892
+      Di-Cokka Ver PM_23: -7791909529419425391
+      Di-Cokka Ver PM_24: 664991069581903760
+      Di-Cokka Ver PM_25: -6141192211111411526
+      Di-Cokka Ver PM_26: -6221757030451013244
+      Di-Cokka Ver PM_27: 8383360085279102946
+      Di-Cokka Ver PM_28: -7458045048501041244
+      Di-Cokka Ver PM_29: -8763570707834893164
+      Di-Cokka Ver PM_3: -1797481460224688769
+      Di-Cokka Ver PM_30: 6030703102235471515
+      Di-Cokka Ver PM_31: 7988554022479846185
+      Di-Cokka Ver PM_32: 9169925364962218342
+      Di-Cokka Ver PM_33: 8819015954758880308
+      Di-Cokka Ver PM_34: 8517051684746176485
+      Di-Cokka Ver PM_35: 8391336245718117159
+      Di-Cokka Ver PM_36: 8785800632374626920
+      Di-Cokka Ver PM_37: 455619016173977585
+      Di-Cokka Ver PM_38: 2656938448528206427
+      Di-Cokka Ver PM_39: -8739912631485272166
+      Di-Cokka Ver PM_4: -8173288411705683551
+      Di-Cokka Ver PM_40: -8630588361871427098
+      Di-Cokka Ver PM_41: 338863367661228701
+      Di-Cokka Ver PM_42: -201654730715413743
+      Di-Cokka Ver PM_43: 7231198369280509299
+      Di-Cokka Ver PM_44: 8257271117661543705
+      Di-Cokka Ver PM_45: -8617007780702579929
+      Di-Cokka Ver PM_46: 7046766628037134870
+      Di-Cokka Ver PM_47: -4339633753741026727
+      Di-Cokka Ver PM_48: 2078383561867058173
+      Di-Cokka Ver PM_49: 5590820728681520229
+      Di-Cokka Ver PM_5: 3975291730940771375
+      Di-Cokka Ver PM_50: -324979204992434261
+      Di-Cokka Ver PM_51: 1827350717066902757
+      Di-Cokka Ver PM_52: -3170387837204404456
+      Di-Cokka Ver PM_53: 5551107861145819984
+      Di-Cokka Ver PM_54: 6047249273151349194
+      Di-Cokka Ver PM_55: -1428924195689675349
+      Di-Cokka Ver PM_56: 3915587069106746119
+      Di-Cokka Ver PM_57: 1866828988382527165
+      Di-Cokka Ver PM_58: 5731245992321175324
+      Di-Cokka Ver PM_59: 8179869230371168551
+      Di-Cokka Ver PM_6: -422367518082161971
+      Di-Cokka Ver PM_60: -4305894041132218397
+      Di-Cokka Ver PM_61: -6540262557370976389
+      Di-Cokka Ver PM_62: 2048887293272357663
+      Di-Cokka Ver PM_63: -4511042649337247938
+      Di-Cokka Ver PM_64: -7142881421170777516
+      Di-Cokka Ver PM_65: -3131654070425769042
+      Di-Cokka Ver PM_66: 8400433921199051111
+      Di-Cokka Ver PM_67: 5292686500289701177
+      Di-Cokka Ver PM_68: 4992131106291639317
+      Di-Cokka Ver PM_69: -6109242936638998145
+      Di-Cokka Ver PM_7: 7163054233039574447
+      Di-Cokka Ver PM_70: 2299419312236625253
+      Di-Cokka Ver PM_71: -8165888934754217357
+      Di-Cokka Ver PM_72: 1740088296848910047
+      Di-Cokka Ver PM_73: -4581585096829562921
+      Di-Cokka Ver PM_74: 4853816300052430656
+      Di-Cokka Ver PM_75: 5395538387868093170
+      Di-Cokka Ver PM_76: 4697109659524491204
+      Di-Cokka Ver PM_77: -283129289033969844
+      Di-Cokka Ver PM_78: -1413180303348891729
+      Di-Cokka Ver PM_79: -2332932159317898577
+      Di-Cokka Ver PM_8: 6529642095596987627
+      Di-Cokka Ver PM_80: -7914388653813656662
+      Di-Cokka Ver PM_81: -1833241900268633829
+      Di-Cokka Ver PM_82: 7619560592973605587
+      Di-Cokka Ver PM_83: 337205971626884824
+      Di-Cokka Ver PM_84: 7808566024578022637
+      Di-Cokka Ver PM_85: -5256500427889572440
+      Di-Cokka Ver PM_86: 7526699560652877671
+      Di-Cokka Ver PM_87: 5649428553606948788
+      Di-Cokka Ver PM_88: -5845098033316681629
+      Di-Cokka Ver PM_89: -8237915984059932661
+      Di-Cokka Ver PM_9: -4085389201862763126
+      Di-Cokka Ver PM_90: 3183753700431999707
+      Di-Cokka Ver PM_91: -1953312654595944347
+      Di-Cokka Ver PM_92: -4313321858822409607
+      Di-Cokka Ver PM_93: 5877428882830211039
+      Di-Cokka Ver PM_94: -2274303252156455297
+      Di-Cokka Ver PM_95: 1854657047430615282
+      Di-Cokka Ver PM_96: 1362082550044218760
+      Di-Cokka Ver PM_97: 6831591682220277660
+      Di-Cokka Ver PM_98: -6748834111045750465
+      Di-Cokka Ver PM_99: 5975449251140310538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

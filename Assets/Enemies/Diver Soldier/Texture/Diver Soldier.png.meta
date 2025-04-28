@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 21eb9e2263506a54d836a6399478a732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2735455552804513660
+    second: Diver Soldier_0
+  - first:
+      213: -1150629303067823111
+    second: Diver Soldier_1
+  - first:
+      213: 3459452420207507113
+    second: Diver Soldier_2
+  - first:
+      213: 1459197343586948439
+    second: Diver Soldier_3
+  - first:
+      213: 5086644195160189034
+    second: Diver Soldier_4
+  - first:
+      213: -7185005845012255603
+    second: Diver Soldier_5
+  - first:
+      213: 6094956942545495975
+    second: Diver Soldier_6
+  - first:
+      213: 1110693677467780554
+    second: Diver Soldier_7
+  - first:
+      213: -8685610392782499676
+    second: Diver Soldier_8
+  - first:
+      213: -6554553351151215352
+    second: Diver Soldier_9
+  - first:
+      213: -7340436589247346130
+    second: Diver Soldier_10
+  - first:
+      213: 1159569076289589312
+    second: Diver Soldier_11
+  - first:
+      213: 4185174638934312767
+    second: Diver Soldier_12
+  - first:
+      213: -6569487271763826918
+    second: Diver Soldier_13
+  - first:
+      213: -3187600235760357533
+    second: Diver Soldier_14
+  - first:
+      213: 4765737448161561616
+    second: Diver Soldier_15
+  - first:
+      213: 3968984326051489090
+    second: Diver Soldier_16
+  - first:
+      213: 6284487346503029070
+    second: Diver Soldier_17
+  - first:
+      213: -4489633738340602784
+    second: Diver Soldier_18
+  - first:
+      213: 2770589911600209937
+    second: Diver Soldier_19
+  - first:
+      213: 2028158930172312355
+    second: Diver Soldier_20
+  - first:
+      213: 6645369733772077712
+    second: Diver Soldier_21
+  - first:
+      213: -2888464718273596668
+    second: Diver Soldier_22
+  - first:
+      213: -6483347346290257956
+    second: Diver Soldier_23
+  - first:
+      213: 5162273712546740892
+    second: Diver Soldier_24
+  - first:
+      213: 2053180744908940634
+    second: Diver Soldier_25
+  - first:
+      213: 9110351724795905236
+    second: Diver Soldier_26
+  - first:
+      213: 2437258011345908481
+    second: Diver Soldier_27
+  - first:
+      213: -3190122330369374093
+    second: Diver Soldier_28
+  - first:
+      213: -1757994052036443624
+    second: Diver Soldier_29
+  - first:
+      213: -5196181704263798882
+    second: Diver Soldier_30
+  - first:
+      213: 6545820925995042455
+    second: Diver Soldier_31
+  - first:
+      213: -988240981974053916
+    second: Diver Soldier_32
+  - first:
+      213: -8902250364123463220
+    second: Diver Soldier_33
+  - first:
+      213: 6662411203254228433
+    second: Diver Soldier_34
+  - first:
+      213: 358364941751423076
+    second: Diver Soldier_35
+  - first:
+      213: 3319508504282302901
+    second: Diver Soldier_36
+  - first:
+      213: -2224723291322081954
+    second: Diver Soldier_37
+  - first:
+      213: 534809206788654029
+    second: Diver Soldier_38
+  - first:
+      213: -4902754815156510192
+    second: Diver Soldier_39
+  - first:
+      213: -181625640627919363
+    second: Diver Soldier_40
+  - first:
+      213: -7235174656037806820
+    second: Diver Soldier_41
+  - first:
+      213: -1240441925303314238
+    second: Diver Soldier_42
+  - first:
+      213: 4253033324054510554
+    second: Diver Soldier_43
+  - first:
+      213: 1935175983495709648
+    second: Diver Soldier_44
+  - first:
+      213: -8173013937291406576
+    second: Diver Soldier_45
+  - first:
+      213: 7902790970753888058
+    second: Diver Soldier_46
+  - first:
+      213: 5327652941776914632
+    second: Diver Soldier_47
+  - first:
+      213: 7574474481985756200
+    second: Diver Soldier_48
+  - first:
+      213: -4244814220210933385
+    second: Diver Soldier_49
+  - first:
+      213: 2828079764060946039
+    second: Diver Soldier_50
+  - first:
+      213: 8664966329893838951
+    second: Diver Soldier_51
+  - first:
+      213: 6594643539174221951
+    second: Diver Soldier_52
+  - first:
+      213: -3093096655866523661
+    second: Diver Soldier_53
+  - first:
+      213: 2026483817847070867
+    second: Diver Soldier_54
+  - first:
+      213: 1873008817023408482
+    second: Diver Soldier_55
+  - first:
+      213: 3677147283405378358
+    second: Diver Soldier_56
+  - first:
+      213: 2532413080133390713
+    second: Diver Soldier_57
+  - first:
+      213: -4650522717257074517
+    second: Diver Soldier_58
+  - first:
+      213: -5369177672722218179
+    second: Diver Soldier_59
+  - first:
+      213: 7982000357076185125
+    second: Diver Soldier_60
+  - first:
+      213: 4991825183151883520
+    second: Diver Soldier_61
+  - first:
+      213: 5145859597686239253
+    second: Diver Soldier_62
+  - first:
+      213: 2741161280638407532
+    second: Diver Soldier_63
+  - first:
+      213: -7715888039413211524
+    second: Diver Soldier_64
+  - first:
+      213: -4602661243993878138
+    second: Diver Soldier_65
+  - first:
+      213: -2175819014891270023
+    second: Diver Soldier_66
+  - first:
+      213: 1120711266997796791
+    second: Diver Soldier_67
+  - first:
+      213: 6029761850857345902
+    second: Diver Soldier_68
+  - first:
+      213: -1813195292400692926
+    second: Diver Soldier_69
+  - first:
+      213: 2870161350935309221
+    second: Diver Soldier_70
+  - first:
+      213: -2705749237819871332
+    second: Diver Soldier_71
+  - first:
+      213: 8086843834883421914
+    second: Diver Soldier_72
+  - first:
+      213: 8492493463355364562
+    second: Diver Soldier_73
+  - first:
+      213: 1672808440494776446
+    second: Diver Soldier_74
+  - first:
+      213: 275405550462192563
+    second: Diver Soldier_75
+  - first:
+      213: -1207461761678225879
+    second: Diver Soldier_76
+  - first:
+      213: -123125859004325562
+    second: Diver Soldier_77
+  - first:
+      213: -8563539159191811422
+    second: Diver Soldier_78
+  - first:
+      213: 1286313571662596741
+    second: Diver Soldier_79
+  - first:
+      213: 2406928698510820720
+    second: Diver Soldier_80
+  - first:
+      213: 3220936963455425683
+    second: Diver Soldier_81
+  - first:
+      213: -148874098962891175
+    second: Diver Soldier_82
+  - first:
+      213: 6937573644958827450
+    second: Diver Soldier_83
+  - first:
+      213: 1830094010422018183
+    second: Diver Soldier_84
+  - first:
+      213: -4916941370428754103
+    second: Diver Soldier_85
+  - first:
+      213: -7775281209862829185
+    second: Diver Soldier_86
+  - first:
+      213: 470367172373680289
+    second: Diver Soldier_87
+  - first:
+      213: -1620948258016334952
+    second: Diver Soldier_88
+  - first:
+      213: 1943608660553555213
+    second: Diver Soldier_89
+  - first:
+      213: 4022993409427010813
+    second: Diver Soldier_90
+  - first:
+      213: 5902323766104457635
+    second: Diver Soldier_91
+  - first:
+      213: -3963954526889581382
+    second: Diver Soldier_92
+  - first:
+      213: -7260717588613439274
+    second: Diver Soldier_93
+  - first:
+      213: 3214516032139327667
+    second: Diver Soldier_94
+  - first:
+      213: -577562369808917694
+    second: Diver Soldier_95
+  - first:
+      213: -7776349264287851000
+    second: Diver Soldier_96
+  - first:
+      213: 1327766977019687720
+    second: Diver Soldier_97
+  - first:
+      213: 773630755090914239
+    second: Diver Soldier_98
+  - first:
+      213: 4613039603996648231
+    second: Diver Soldier_99
+  - first:
+      213: -8857759048725844708
+    second: Diver Soldier_100
+  - first:
+      213: 2226370655063668978
+    second: Diver Soldier_101
+  - first:
+      213: 5927347976033119683
+    second: Diver Soldier_102
+  - first:
+      213: 3909344290223689173
+    second: Diver Soldier_103
+  - first:
+      213: 6769009028479573182
+    second: Diver Soldier_104
+  - first:
+      213: 6494316095875074077
+    second: Diver Soldier_105
+  - first:
+      213: -2729311323954267675
+    second: Diver Soldier_106
+  - first:
+      213: -7696582854662686339
+    second: Diver Soldier_107
+  - first:
+      213: -5337703084251339056
+    second: Diver Soldier_108
+  - first:
+      213: -2568071330691775100
+    second: Diver Soldier_109
+  - first:
+      213: -1015757967517568125
+    second: Diver Soldier_110
+  - first:
+      213: 6206999968802945325
+    second: Diver Soldier_111
+  - first:
+      213: 5025656356197034555
+    second: Diver Soldier_112
+  - first:
+      213: 3129136741945081556
+    second: Diver Soldier_113
+  - first:
+      213: -5568797292714688433
+    second: Diver Soldier_114
+  - first:
+      213: -8864609036270927993
+    second: Diver Soldier_115
+  - first:
+      213: -8706753025695868142
+    second: Diver Soldier_116
+  - first:
+      213: 7626205219177614825
+    second: Diver Soldier_117
+  - first:
+      213: 545507974794710210
+    second: Diver Soldier_118
+  - first:
+      213: -6586172714662284020
+    second: Diver Soldier_119
+  - first:
+      213: 419135288736462541
+    second: Diver Soldier_120
+  - first:
+      213: -5825869292966660125
+    second: Diver Soldier_121
+  - first:
+      213: 2681507391010302186
+    second: Diver Soldier_122
+  - first:
+      213: -1504402585533741238
+    second: Diver Soldier_123
+  - first:
+      213: -7078303631019805088
+    second: Diver Soldier_124
+  - first:
+      213: -1051956076112009301
+    second: Diver Soldier_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diver Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 837
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7768cb055a46f520800000000000000
+      internalID: 2735455552804513660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 837
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3bc72ceb42800f0800000000000000
+      internalID: -1150629303067823111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 837
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a675dfa5a1720030800000000000000
+      internalID: 3459452420207507113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 837
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75591b9b04c104410800000000000000
+      internalID: 1459197343586948439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 837
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68635ff1f3679640800000000000000
+      internalID: 5086644195160189034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 837
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c60f2704bb94c90800000000000000
+      internalID: -7185005845012255603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 837
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a9b9fb03a59450800000000000000
+      internalID: 6094956942545495975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 837
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac54db3d30af96f00800000000000000
+      internalID: 1110693677467780554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 801
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a012c8bd53867780800000000000000
+      internalID: -8685610392782499676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 803
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d1943647c8905a0800000000000000
+      internalID: -6554553351151215352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 802
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac1a930d7812a90800000000000000
+      internalID: -7340436589247346130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 801
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040d4c46eed971010800000000000000
+      internalID: 1159569076289589312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 795
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3747acf82ab41a30800000000000000
+      internalID: 4185174638934312767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 801
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17211a022e74d4a0800000000000000
+      internalID: -6569487271763826918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 803
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f6d85697e53c3d0800000000000000
+      internalID: -3187600235760357533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 803
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c427a85fc432240800000000000000
+      internalID: 4765737448161561616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 801
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2456469473aa41730800000000000000
+      internalID: 3968984326051489090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 753
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4110cbe1fbf63750800000000000000
+      internalID: 6284487346503029070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 710
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c699ee6ed91b1c0800000000000000
+      internalID: -4489633738340602784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 710
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110263b68dc137620800000000000000
+      internalID: 2770589911600209937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 710
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf4f42dc7752c10800000000000000
+      internalID: 2028158930172312355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 710
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aed9e6098193c50800000000000000
+      internalID: 6645369733772077712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 665
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403bd0974ac1ae7d0800000000000000
+      internalID: -2888464718273596668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 663
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc5e450f58606a0800000000000000
+      internalID: -6483347346290257956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 663
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a7fa5379414a740800000000000000
+      internalID: 5162273712546740892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 662
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5528ff520d5e7c10800000000000000
+      internalID: 2053180744908940634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 663
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c35fff987e6e70800000000000000
+      internalID: 9110351724795905236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 663
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037f388f31e2d120800000000000000
+      internalID: 2437258011345908481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 665
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ca4c74a86ab3d0800000000000000
+      internalID: -3190122330369374093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 615
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124e1359b95a97e0800000000000000
+      internalID: -1757994052036443624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 615
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fe8f0454473e7b0800000000000000
+      internalID: -5196181704263798882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 615
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c041737d67da50800000000000000
+      internalID: 6545820925995042455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 616
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb04f410101942f0800000000000000
+      internalID: -988240981974053916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 616
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc144d0c57ad47480800000000000000
+      internalID: -8902250364123463220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 569
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d51d8db0b3a57c50800000000000000
+      internalID: 6662411203254228433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 568
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601c0d040b29f400800000000000000
+      internalID: 358364941751423076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 568
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b982aaa563411e20800000000000000
+      internalID: 3319508504282302901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 568
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d953124f13021e0800000000000000
+      internalID: -2224723291322081954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 568
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc30f39d3260c6700800000000000000
+      internalID: 534809206788654029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 568
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a2c5b87ae5fbb0800000000000000
+      internalID: -4902754815156510192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 569
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df52540317cba7df0800000000000000
+      internalID: -181625640627919363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 569
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d15f2ebfe779b90800000000000000
+      internalID: -7235174656037806820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 568
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c85bcd14a019cee0800000000000000
+      internalID: -1240441925303314238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 567
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbfa22564fc50b30800000000000000
+      internalID: 4253033324054510554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 567
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30122dd402bda10800000000000000
+      internalID: 1935175983495709648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 567
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013dd63602f939e80800000000000000
+      internalID: -8173013937291406576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 567
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f23f1648a5cad60800000000000000
+      internalID: 7902790970753888058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 567
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88d299f10afe940800000000000000
+      internalID: 5327652941776914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 567
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c950bf860fd1960800000000000000
+      internalID: 7574474481985756200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771fccae4f36715c0800000000000000
+      internalID: -4244814220210933385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 521
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb255cf8b5f3720800000000000000
+      internalID: 2828079764060946039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 521
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760ea04d7f4204870800000000000000
+      internalID: 8664966329893838951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_52
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 521
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78edc4eb51e48b50800000000000000
+      internalID: 6594643539174221951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 521
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff802bbafc1315d0800000000000000
+      internalID: -3093096655866523661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 521
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3902ad9ab448f1c10800000000000000
+      internalID: 2026483817847070867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 521
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269dadf68934ef910800000000000000
+      internalID: 1873008817023408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 521
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6339b2ec8f9d70330800000000000000
+      internalID: 3677147283405378358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 521
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97157e17740f42320800000000000000
+      internalID: 2532413080133390713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 521
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f10a6a36067fb0800000000000000
+      internalID: -4650522717257074517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_59
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 522
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d330f619a59dc75b0800000000000000
+      internalID: -5369177672722218179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_60
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 523
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5203198c803c5ce60800000000000000
+      internalID: 7982000357076185125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0050e966e86864540800000000000000
+      internalID: 4991825183151883520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 464
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107f184a04c96740800000000000000
+      internalID: 5145859597686239253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 463
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d18459af8a0620800000000000000
+      internalID: 2741161280638407532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 463
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e171c65b8abe490800000000000000
+      internalID: -7715888039413211524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 464
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681994a0cff0020c0800000000000000
+      internalID: -4602661243993878138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 467
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9709dd94220fdc1e0800000000000000
+      internalID: -2175819014891270023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 467
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7e25a5f09d8f00800000000000000
+      internalID: 1120711266997796791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63dd80d4740ea350800000000000000
+      internalID: 6029761850857345902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 420
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241db000d7c36d6e0800000000000000
+      internalID: -1813195292400692926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 426
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abed8aba8cd4d720800000000000000
+      internalID: 2870161350935309221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 433
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f6674676f337ad0800000000000000
+      internalID: -2705749237819871332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_72
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 428
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b8443f9d3a3070800000000000000
+      internalID: 8086843834883421914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 421
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49f9c4fc56bd570800000000000000
+      internalID: 8492493463355364562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_74
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 416
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7067f8e962073710800000000000000
+      internalID: 1672808440494776446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 412
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb487493ef62d300800000000000000
+      internalID: 275405550462192563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_76
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 410
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4d47dceb3e3fe0800000000000000
+      internalID: -1207461761678225879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_77
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 410
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e16ffea19a4ef0800000000000000
+      internalID: -123125859004325562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_78
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 412
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa893c9182382980800000000000000
+      internalID: -8563539159191811422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 412
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a86b4d067e9d110800000000000000
+      internalID: 1286313571662596741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_80
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 410
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0754e6a16e0276120800000000000000
+      internalID: 2406928698510820720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_81
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 410
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9fae5a1113bc20800000000000000
+      internalID: 3220936963455425683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e7f07bbc71fedf0800000000000000
+      internalID: -148874098962891175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 376
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab302e62976374060800000000000000
+      internalID: 6937573644958827450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78046c46eccc56910800000000000000
+      internalID: 1830094010422018183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 267
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947fb2aefd383cbb0800000000000000
+      internalID: -4916941370428754103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 261
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4b515fe6a81490800000000000000
+      internalID: -7775281209862829185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 326
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0965f7374178600800000000000000
+      internalID: 470367172373680289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 326
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be5a1c52c3189e0800000000000000
+      internalID: -1620948258016334952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 325
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddaa277c519fa10800000000000000
+      internalID: 1943608660553555213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_90
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 363
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df472aee03b84d730800000000000000
+      internalID: 4022993409427010813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 323
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18004813449e150800000000000000
+      internalID: 5902323766104457635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 367
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4e1f61c543df8c0800000000000000
+      internalID: -3963954526889581382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_93
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 322
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0e34472dfbc3b90800000000000000
+      internalID: -7260717588613439274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 354
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8767ccc414c9c20800000000000000
+      internalID: 3214516032139327667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 353
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b18efa5161cf7f0800000000000000
+      internalID: -577562369808917694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_96
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 359
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e90c48b8bd41490800000000000000
+      internalID: -7776349264287851000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_97
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 353
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b0c1e70d2d6210800000000000000
+      internalID: 1327766977019687720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_98
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 359
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd288a21d7cba00800000000000000
+      internalID: 773630755090914239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_99
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 348
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7236703341fc40040800000000000000
+      internalID: 4613039603996648231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_100
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 352
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1da1ba531be21580800000000000000
+      internalID: -8857759048725844708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_101
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 352
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f87c61a058a5ee10800000000000000
+      internalID: 2226370655063668978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_102
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 321
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cda59b649b224250800000000000000
+      internalID: 5927347976033119683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 338
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd0c7b5be7c04630800000000000000
+      internalID: 3909344290223689173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_104
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 320
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcdfeff8d950fd50800000000000000
+      internalID: 6769009028479573182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_105
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 330
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184cb1b412702a50800000000000000
+      internalID: 6494316095875074077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_106
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 326
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93146bfc98f1ad0800000000000000
+      internalID: -2729311323954267675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f7730cae303590800000000000000
+      internalID: -7696582854662686339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 275
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d621b2435bace5b0800000000000000
+      internalID: -5337703084251339056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_109
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48580402bb06c5cd0800000000000000
+      internalID: -2568071330691775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_110
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 279
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b750a28d47e1f0800000000000000
+      internalID: -1015757967517568125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 262
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293c55e591b32650800000000000000
+      internalID: 6206999968802945325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_112
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 223
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aee4234d7beb540800000000000000
+      internalID: 5025656356197034555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de7245b94dec6b20800000000000000
+      internalID: 3129136741945081556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 237
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408595fd58a7b2b0800000000000000
+      internalID: -5568797292714688433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 235
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f7a585c059af480800000000000000
+      internalID: -8864609036270927993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_116
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 232
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1754e0466b2780800000000000000
+      internalID: -8706753025695868142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_117
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 230
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edcf41dd39b5d960800000000000000
+      internalID: 7626205219177614825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc08c3ec98029700800000000000000
+      internalID: 545507974794710210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_119
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 235
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c053f21afc63994a0800000000000000
+      internalID: -6586172714662284020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_120
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 232
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6b7fd035111d500800000000000000
+      internalID: 419135288736462541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 230
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7bddcaeba562fa0800000000000000
+      internalID: -5825869292966660125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_122
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 227
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e0cfc3c0a63520800000000000000
+      internalID: 2681507391010302186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_123
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470512b1d94f1be0800000000000000
+      internalID: -1504402585533741238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 423
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f4bc9950d4cd90800000000000000
+      internalID: -7078303631019805088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diver Soldier_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 294
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a704b583b661f0800000000000000
+      internalID: -1051956076112009301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diver Soldier_0: 2735455552804513660
+      Diver Soldier_1: -1150629303067823111
+      Diver Soldier_10: -7340436589247346130
+      Diver Soldier_100: -8857759048725844708
+      Diver Soldier_101: 2226370655063668978
+      Diver Soldier_102: 5927347976033119683
+      Diver Soldier_103: 3909344290223689173
+      Diver Soldier_104: 6769009028479573182
+      Diver Soldier_105: 6494316095875074077
+      Diver Soldier_106: -2729311323954267675
+      Diver Soldier_107: -7696582854662686339
+      Diver Soldier_108: -5337703084251339056
+      Diver Soldier_109: -2568071330691775100
+      Diver Soldier_11: 1159569076289589312
+      Diver Soldier_110: -1015757967517568125
+      Diver Soldier_111: 6206999968802945325
+      Diver Soldier_112: 5025656356197034555
+      Diver Soldier_113: 3129136741945081556
+      Diver Soldier_114: -5568797292714688433
+      Diver Soldier_115: -8864609036270927993
+      Diver Soldier_116: -8706753025695868142
+      Diver Soldier_117: 7626205219177614825
+      Diver Soldier_118: 545507974794710210
+      Diver Soldier_119: -6586172714662284020
+      Diver Soldier_12: 4185174638934312767
+      Diver Soldier_120: 419135288736462541
+      Diver Soldier_121: -5825869292966660125
+      Diver Soldier_122: 2681507391010302186
+      Diver Soldier_123: -1504402585533741238
+      Diver Soldier_124: -7078303631019805088
+      Diver Soldier_125: -1051956076112009301
+      Diver Soldier_13: -6569487271763826918
+      Diver Soldier_14: -3187600235760357533
+      Diver Soldier_15: 4765737448161561616
+      Diver Soldier_16: 3968984326051489090
+      Diver Soldier_17: 6284487346503029070
+      Diver Soldier_18: -4489633738340602784
+      Diver Soldier_19: 2770589911600209937
+      Diver Soldier_2: 3459452420207507113
+      Diver Soldier_20: 2028158930172312355
+      Diver Soldier_21: 6645369733772077712
+      Diver Soldier_22: -2888464718273596668
+      Diver Soldier_23: -6483347346290257956
+      Diver Soldier_24: 5162273712546740892
+      Diver Soldier_25: 2053180744908940634
+      Diver Soldier_26: 9110351724795905236
+      Diver Soldier_27: 2437258011345908481
+      Diver Soldier_28: -3190122330369374093
+      Diver Soldier_29: -1757994052036443624
+      Diver Soldier_3: 1459197343586948439
+      Diver Soldier_30: -5196181704263798882
+      Diver Soldier_31: 6545820925995042455
+      Diver Soldier_32: -988240981974053916
+      Diver Soldier_33: -8902250364123463220
+      Diver Soldier_34: 6662411203254228433
+      Diver Soldier_35: 358364941751423076
+      Diver Soldier_36: 3319508504282302901
+      Diver Soldier_37: -2224723291322081954
+      Diver Soldier_38: 534809206788654029
+      Diver Soldier_39: -4902754815156510192
+      Diver Soldier_4: 5086644195160189034
+      Diver Soldier_40: -181625640627919363
+      Diver Soldier_41: -7235174656037806820
+      Diver Soldier_42: -1240441925303314238
+      Diver Soldier_43: 4253033324054510554
+      Diver Soldier_44: 1935175983495709648
+      Diver Soldier_45: -8173013937291406576
+      Diver Soldier_46: 7902790970753888058
+      Diver Soldier_47: 5327652941776914632
+      Diver Soldier_48: 7574474481985756200
+      Diver Soldier_49: -4244814220210933385
+      Diver Soldier_5: -7185005845012255603
+      Diver Soldier_50: 2828079764060946039
+      Diver Soldier_51: 8664966329893838951
+      Diver Soldier_52: 6594643539174221951
+      Diver Soldier_53: -3093096655866523661
+      Diver Soldier_54: 2026483817847070867
+      Diver Soldier_55: 1873008817023408482
+      Diver Soldier_56: 3677147283405378358
+      Diver Soldier_57: 2532413080133390713
+      Diver Soldier_58: -4650522717257074517
+      Diver Soldier_59: -5369177672722218179
+      Diver Soldier_6: 6094956942545495975
+      Diver Soldier_60: 7982000357076185125
+      Diver Soldier_61: 4991825183151883520
+      Diver Soldier_62: 5145859597686239253
+      Diver Soldier_63: 2741161280638407532
+      Diver Soldier_64: -7715888039413211524
+      Diver Soldier_65: -4602661243993878138
+      Diver Soldier_66: -2175819014891270023
+      Diver Soldier_67: 1120711266997796791
+      Diver Soldier_68: 6029761850857345902
+      Diver Soldier_69: -1813195292400692926
+      Diver Soldier_7: 1110693677467780554
+      Diver Soldier_70: 2870161350935309221
+      Diver Soldier_71: -2705749237819871332
+      Diver Soldier_72: 8086843834883421914
+      Diver Soldier_73: 8492493463355364562
+      Diver Soldier_74: 1672808440494776446
+      Diver Soldier_75: 275405550462192563
+      Diver Soldier_76: -1207461761678225879
+      Diver Soldier_77: -123125859004325562
+      Diver Soldier_78: -8563539159191811422
+      Diver Soldier_79: 1286313571662596741
+      Diver Soldier_8: -8685610392782499676
+      Diver Soldier_80: 2406928698510820720
+      Diver Soldier_81: 3220936963455425683
+      Diver Soldier_82: -148874098962891175
+      Diver Soldier_83: 6937573644958827450
+      Diver Soldier_84: 1830094010422018183
+      Diver Soldier_85: -4916941370428754103
+      Diver Soldier_86: -7775281209862829185
+      Diver Soldier_87: 470367172373680289
+      Diver Soldier_88: -1620948258016334952
+      Diver Soldier_89: 1943608660553555213
+      Diver Soldier_9: -6554553351151215352
+      Diver Soldier_90: 4022993409427010813
+      Diver Soldier_91: 5902323766104457635
+      Diver Soldier_92: -3963954526889581382
+      Diver Soldier_93: -7260717588613439274
+      Diver Soldier_94: 3214516032139327667
+      Diver Soldier_95: -577562369808917694
+      Diver Soldier_96: -7776349264287851000
+      Diver Soldier_97: 1327766977019687720
+      Diver Soldier_98: 773630755090914239
+      Diver Soldier_99: 4613039603996648231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

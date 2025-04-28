@@ -1,0 +1,4303 @@
+fileFormatVersion: 2
+guid: 7d46a2e1d72378b42a66cda6d08ba402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5807425011887968814
+    second: Rebel Soldier Shield_0
+  - first:
+      213: -2818171137973688011
+    second: Rebel Soldier Shield_1
+  - first:
+      213: -3962580845160005584
+    second: Rebel Soldier Shield_2
+  - first:
+      213: 3281446689546528560
+    second: Rebel Soldier Shield_3
+  - first:
+      213: -548720847686195422
+    second: Rebel Soldier Shield_4
+  - first:
+      213: -6896955496902228884
+    second: Rebel Soldier Shield_5
+  - first:
+      213: 889259372063157466
+    second: Rebel Soldier Shield_6
+  - first:
+      213: 7696987347698862302
+    second: Rebel Soldier Shield_7
+  - first:
+      213: 7811936619468077516
+    second: Rebel Soldier Shield_8
+  - first:
+      213: 3786121895993417412
+    second: Rebel Soldier Shield_9
+  - first:
+      213: -7294900055635838327
+    second: Rebel Soldier Shield_10
+  - first:
+      213: -7258626407771021975
+    second: Rebel Soldier Shield_11
+  - first:
+      213: 161958675378268275
+    second: Rebel Soldier Shield_12
+  - first:
+      213: 3621391047356952006
+    second: Rebel Soldier Shield_13
+  - first:
+      213: 8565263146928263321
+    second: Rebel Soldier Shield_14
+  - first:
+      213: 8686102022214803009
+    second: Rebel Soldier Shield_15
+  - first:
+      213: 6111637815339103826
+    second: Rebel Soldier Shield_16
+  - first:
+      213: 4313075142108188163
+    second: Rebel Soldier Shield_17
+  - first:
+      213: 3892360727766418446
+    second: Rebel Soldier Shield_18
+  - first:
+      213: -5360692410442081136
+    second: Rebel Soldier Shield_19
+  - first:
+      213: -3260186978570799335
+    second: Rebel Soldier Shield_20
+  - first:
+      213: 5564217492325278402
+    second: Rebel Soldier Shield_21
+  - first:
+      213: -8223180052709433221
+    second: Rebel Soldier Shield_22
+  - first:
+      213: 3010068508894919699
+    second: Rebel Soldier Shield_23
+  - first:
+      213: -6740471248213481342
+    second: Rebel Soldier Shield_24
+  - first:
+      213: -983477019732529396
+    second: Rebel Soldier Shield_25
+  - first:
+      213: -1626552265465888109
+    second: Rebel Soldier Shield_26
+  - first:
+      213: -8939329872242440203
+    second: Rebel Soldier Shield_27
+  - first:
+      213: -6997779641349984070
+    second: Rebel Soldier Shield_28
+  - first:
+      213: -4872382523342673075
+    second: Rebel Soldier Shield_29
+  - first:
+      213: -2173043350707166698
+    second: Rebel Soldier Shield_30
+  - first:
+      213: 2902762810215117563
+    second: Rebel Soldier Shield_31
+  - first:
+      213: 3821912277354831821
+    second: Rebel Soldier Shield_32
+  - first:
+      213: 1249220696658440540
+    second: Rebel Soldier Shield_33
+  - first:
+      213: 1959709226501715078
+    second: Rebel Soldier Shield_34
+  - first:
+      213: -7162141534572849236
+    second: Rebel Soldier Shield_35
+  - first:
+      213: 3037061417879697185
+    second: Rebel Soldier Shield_36
+  - first:
+      213: 1426618833317718139
+    second: Rebel Soldier Shield_37
+  - first:
+      213: -4954192386664146243
+    second: Rebel Soldier Shield_38
+  - first:
+      213: -7433400638236107386
+    second: Rebel Soldier Shield_39
+  - first:
+      213: -7190639660490416671
+    second: Rebel Soldier Shield_40
+  - first:
+      213: -8513359761581896197
+    second: Rebel Soldier Shield_41
+  - first:
+      213: 7364087742262898186
+    second: Rebel Soldier Shield_42
+  - first:
+      213: 5260261655545965750
+    second: Rebel Soldier Shield_43
+  - first:
+      213: -3100992792644989702
+    second: Rebel Soldier Shield_44
+  - first:
+      213: -7259085948646096808
+    second: Rebel Soldier Shield_45
+  - first:
+      213: -4626635407555613695
+    second: Rebel Soldier Shield_46
+  - first:
+      213: 7251231622444940693
+    second: Rebel Soldier Shield_47
+  - first:
+      213: -5636715621281257174
+    second: Rebel Soldier Shield_48
+  - first:
+      213: 8396624809098426233
+    second: Rebel Soldier Shield_49
+  - first:
+      213: -3720844374945816435
+    second: Rebel Soldier Shield_50
+  - first:
+      213: -533210178185587683
+    second: Rebel Soldier Shield_51
+  - first:
+      213: -4944336751164962116
+    second: Rebel Soldier Shield_52
+  - first:
+      213: -5468228124066077605
+    second: Rebel Soldier Shield_53
+  - first:
+      213: 6667996933633433512
+    second: Rebel Soldier Shield_54
+  - first:
+      213: 7355530499818397281
+    second: Rebel Soldier Shield_55
+  - first:
+      213: -3933961427429895749
+    second: Rebel Soldier Shield_56
+  - first:
+      213: -960214971438540096
+    second: Rebel Soldier Shield_57
+  - first:
+      213: 8896209911169115856
+    second: Rebel Soldier Shield_58
+  - first:
+      213: -477212287487220781
+    second: Rebel Soldier Shield_59
+  - first:
+      213: -1526243725960884135
+    second: Rebel Soldier Shield_60
+  - first:
+      213: -7764654627738792743
+    second: Rebel Soldier Shield_61
+  - first:
+      213: -119484067695619502
+    second: Rebel Soldier Shield_62
+  - first:
+      213: -7107909357686404959
+    second: Rebel Soldier Shield_63
+  - first:
+      213: 8294576331944306268
+    second: Rebel Soldier Shield_64
+  - first:
+      213: -7213241376210803780
+    second: Rebel Soldier Shield_65
+  - first:
+      213: -1738567005415837770
+    second: Rebel Soldier Shield_66
+  - first:
+      213: -7870871468066381395
+    second: Rebel Soldier Shield_67
+  - first:
+      213: 5945795928074127566
+    second: Rebel Soldier Shield_68
+  - first:
+      213: 2357431710688187258
+    second: Rebel Soldier Shield_69
+  - first:
+      213: 8818156839936637529
+    second: Rebel Soldier Shield_70
+  - first:
+      213: -6945794726240277607
+    second: Rebel Soldier Shield_71
+  - first:
+      213: -2565229713950078310
+    second: Rebel Soldier Shield_72
+  - first:
+      213: -5777298046624987047
+    second: Rebel Soldier Shield_73
+  - first:
+      213: -4052246932827132604
+    second: Rebel Soldier Shield_74
+  - first:
+      213: 7382188295218012684
+    second: Rebel Soldier Shield_75
+  - first:
+      213: 2038282453006723212
+    second: Rebel Soldier Shield_76
+  - first:
+      213: -9022831960361791330
+    second: Rebel Soldier Shield_77
+  - first:
+      213: 6487307200174280384
+    second: Rebel Soldier Shield_78
+  - first:
+      213: -6881617428614957203
+    second: Rebel Soldier Shield_79
+  - first:
+      213: 3124495148648418967
+    second: Rebel Soldier Shield_80
+  - first:
+      213: 4391761235179859823
+    second: Rebel Soldier Shield_81
+  - first:
+      213: 5044986784130245394
+    second: Rebel Soldier Shield_82
+  - first:
+      213: -4122656462348510632
+    second: Rebel Soldier Shield_83
+  - first:
+      213: -15260609337054786
+    second: Rebel Soldier Shield_84
+  - first:
+      213: -9072653498110808143
+    second: Rebel Soldier Shield_85
+  - first:
+      213: 1279791527902298293
+    second: Rebel Soldier Shield_86
+  - first:
+      213: -6446277654974750597
+    second: Rebel Soldier Shield_87
+  - first:
+      213: 5134088551970456592
+    second: Rebel Soldier Shield_88
+  - first:
+      213: -3604419855675295264
+    second: Rebel Soldier Shield_89
+  - first:
+      213: 3459335927145201505
+    second: Rebel Soldier Shield_90
+  - first:
+      213: -3680579735994762712
+    second: Rebel Soldier Shield_91
+  - first:
+      213: 7777462947221267443
+    second: Rebel Soldier Shield_92
+  - first:
+      213: -7002973416800378382
+    second: Rebel Soldier Shield_93
+  - first:
+      213: -6086488184631941094
+    second: Rebel Soldier Shield_94
+  - first:
+      213: -1949327239240194056
+    second: Rebel Soldier Shield_95
+  - first:
+      213: -5819233643205229985
+    second: Rebel Soldier Shield_96
+  - first:
+      213: 7727448738056750143
+    second: Rebel Soldier Shield_97
+  - first:
+      213: -5182885092601158314
+    second: Rebel Soldier Shield_98
+  - first:
+      213: 3873110465840336912
+    second: Rebel Soldier Shield_99
+  - first:
+      213: -2579777670335200044
+    second: Rebel Soldier Shield_100
+  - first:
+      213: 2244478803556678119
+    second: Rebel Soldier Shield_101
+  - first:
+      213: -2229899315516013154
+    second: Rebel Soldier Shield_102
+  - first:
+      213: -7315996765054990311
+    second: Rebel Soldier Shield_103
+  - first:
+      213: 5080128077774522946
+    second: Rebel Soldier Shield_104
+  - first:
+      213: 8388811163625980731
+    second: Rebel Soldier Shield_105
+  - first:
+      213: -2658205953059201014
+    second: Rebel Soldier Shield_106
+  - first:
+      213: 734279608897776176
+    second: Rebel Soldier Shield_107
+  - first:
+      213: -224977997542090483
+    second: Rebel Soldier Shield_108
+  - first:
+      213: 3072523697479386071
+    second: Rebel Soldier Shield_109
+  - first:
+      213: 2331383166319034508
+    second: Rebel Soldier Shield_110
+  - first:
+      213: -3507691409556107538
+    second: Rebel Soldier Shield_111
+  - first:
+      213: 8789768749740607054
+    second: Rebel Soldier Shield_112
+  - first:
+      213: 71706580791757205
+    second: Rebel Soldier Shield_113
+  - first:
+      213: 597381695445568720
+    second: Rebel Soldier Shield_114
+  - first:
+      213: -1488000850394405537
+    second: Rebel Soldier Shield_115
+  - first:
+      213: -5417827184270121201
+    second: Rebel Soldier Shield_116
+  - first:
+      213: 2431330223777699640
+    second: Rebel Soldier Shield_117
+  - first:
+      213: -7147393494838981517
+    second: Rebel Soldier Shield_118
+  - first:
+      213: -7299939565140821659
+    second: Rebel Soldier Shield_119
+  - first:
+      213: -214836855884286015
+    second: Rebel Soldier Shield_120
+  - first:
+      213: 6381944872759564741
+    second: Rebel Soldier Shield_121
+  - first:
+      213: -2364647431246630992
+    second: Rebel Soldier Shield_122
+  - first:
+      213: 786489472472243407
+    second: Rebel Soldier Shield_123
+  - first:
+      213: 6951995246234452273
+    second: Rebel Soldier Shield_124
+  - first:
+      213: -8303592030572984404
+    second: Rebel Soldier Shield_125
+  - first:
+      213: 8491818416731392515
+    second: Rebel Soldier Shield_126
+  - first:
+      213: -6295835353948864546
+    second: Rebel Soldier Shield_127
+  - first:
+      213: 400939112207820218
+    second: Rebel Soldier Shield_128
+  - first:
+      213: -6690042671710128643
+    second: Rebel Soldier Shield_129
+  - first:
+      213: 9052369959716721535
+    second: Rebel Soldier Shield_130
+  - first:
+      213: -1887583937861656399
+    second: Rebel Soldier Shield_131
+  - first:
+      213: 6038382541934099167
+    second: Rebel Soldier Shield_132
+  - first:
+      213: -3957393048206319250
+    second: Rebel Soldier Shield_133
+  - first:
+      213: -1568468341556406462
+    second: Rebel Soldier Shield_134
+  - first:
+      213: -2864911035601574710
+    second: Rebel Soldier Shield_135
+  - first:
+      213: -8358198008145792771
+    second: Rebel Soldier Shield_136
+  - first:
+      213: -5351444470468770598
+    second: Rebel Soldier Shield_137
+  - first:
+      213: 3356013279219393168
+    second: Rebel Soldier Shield_138
+  - first:
+      213: 5960375589008223329
+    second: Rebel Soldier Shield_139
+  - first:
+      213: 9223059839778297553
+    second: Rebel Soldier Shield_140
+  - first:
+      213: 2717722427314233391
+    second: Rebel Soldier Shield_141
+  - first:
+      213: 212186709591294532
+    second: Rebel Soldier Shield_142
+  - first:
+      213: 3082217220052934910
+    second: Rebel Soldier Shield_143
+  - first:
+      213: -5723522814849595310
+    second: Rebel Soldier Shield_144
+  - first:
+      213: 7466979413608786561
+    second: Rebel Soldier Shield_145
+  - first:
+      213: 3474523788949813906
+    second: Rebel Soldier Shield_146
+  - first:
+      213: 2466956303357326977
+    second: Rebel Soldier Shield_147
+  - first:
+      213: 2471355472551213361
+    second: Rebel Soldier Shield_148
+  - first:
+      213: -8851512937249268946
+    second: Rebel Soldier Shield_149
+  - first:
+      213: 8497288917288941746
+    second: Rebel Soldier Shield_150
+  - first:
+      213: 2850437936029354242
+    second: Rebel Soldier Shield_151
+  - first:
+      213: -2541664564840628434
+    second: Rebel Soldier Shield_152
+  - first:
+      213: 5061433884991289168
+    second: Rebel Soldier Shield_153
+  - first:
+      213: 7425236281913079457
+    second: Rebel Soldier Shield_154
+  - first:
+      213: -315493842429784500
+    second: Rebel Soldier Shield_155
+  - first:
+      213: 4587187985764990019
+    second: Rebel Soldier Shield_156
+  - first:
+      213: -2412232849363655684
+    second: Rebel Soldier Shield_157
+  - first:
+      213: -1633496738473753171
+    second: Rebel Soldier Shield_158
+  - first:
+      213: -2895858385538710245
+    second: Rebel Soldier Shield_159
+  - first:
+      213: -5964716611813759710
+    second: Rebel Soldier Shield_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1165
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde2b288b1e76fa0800000000000000
+      internalID: -5807425011887968814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1165
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e1d40848d3e8d0800000000000000
+      internalID: -2818171137973688011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1165
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030887a47b51209c0800000000000000
+      internalID: -3962580845160005584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1165
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0376dc7d06a0a8d20800000000000000
+      internalID: 3281446689546528560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1165
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22720d8db4d8268f0800000000000000
+      internalID: -548720847686195422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1165
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64077764871940a0800000000000000
+      internalID: -6896955496902228884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1121
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce209ffa8475c00800000000000000
+      internalID: 889259372063157466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1121
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8444c563131da60800000000000000
+      internalID: 7696987347698862302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1122
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b24b47f2996c60800000000000000
+      internalID: 7811936619468077516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1122
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce140ffdc10b8430800000000000000
+      internalID: 3786121895993417412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1121
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a39d7ac0f43ca90800000000000000
+      internalID: -7294900055635838327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1121
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd98f6dbd244b90800000000000000
+      internalID: -7258626407771021975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1121
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e632ae846f3200800000000000000
+      internalID: 161958675378268275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1121
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdad7a78f3c14230800000000000000
+      internalID: 3621391047356952006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1122
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905760937dedd670800000000000000
+      internalID: 8565263146928263321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1122
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5aeca4cb3b8870800000000000000
+      internalID: 8686102022214803009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1121
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b1235636e0d450800000000000000
+      internalID: 6111637815339103826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1121
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0de67dfe1bdb30800000000000000
+      internalID: 4313075142108188163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1080
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c2349571740630800000000000000
+      internalID: 3892360727766418446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1080
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9775a7aefa95b0800000000000000
+      internalID: -5360692410442081136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1080
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917fee8573d71c2d0800000000000000
+      internalID: -3260186978570799335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1080
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2201b2452183d40800000000000000
+      internalID: 5564217492325278402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1039
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b702d227f4561ed80800000000000000
+      internalID: -8223180052709433221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1039
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c754e5c59e5c920800000000000000
+      internalID: 3010068508894919699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1039
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288608fbc190572a0800000000000000
+      internalID: -6740471248213481342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1039
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f251a7cdcf952f0800000000000000
+      internalID: -983477019732529396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1039
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928c4815535d69e0800000000000000
+      internalID: -1626552265465888109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1039
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f783f208de11f380800000000000000
+      internalID: -8939329872242440203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0bfd4fd74e2ee90800000000000000
+      internalID: -6997779641349984070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 990
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba656f8e1d16cb0800000000000000
+      internalID: -4872382523342673075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 990
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122397f59cc7d1e0800000000000000
+      internalID: -2173043350707166698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 990
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2361a756fa84820800000000000000
+      internalID: 2902762810215117563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 993
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf507687f82a0530800000000000000
+      internalID: 3821912277354831821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 995
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51746eda9f165110800000000000000
+      internalID: 1249220696658440540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 993
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b0b49829423b10800000000000000
+      internalID: 1959709226501715078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 990
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7d6b09836fa9c90800000000000000
+      internalID: -7162141534572849236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 990
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12773cdb44fc52a20800000000000000
+      internalID: 3037061417879697185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 990
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e8c5354e5cc310800000000000000
+      internalID: 1426618833317718139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 947
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba50f3d54c2f3bb0800000000000000
+      internalID: -4954192386664146243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 947
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d56ccd08147d890800000000000000
+      internalID: -7433400638236107386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 947
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed12a09357b53c90800000000000000
+      internalID: -7190639660490416671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 947
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8ecd07687ad980800000000000000
+      internalID: -8513359761581896197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 947
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6364f8ce723660800000000000000
+      internalID: 7364087742262898186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 906
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcec6c0b14300940800000000000000
+      internalID: 5260261655545965750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 906
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc495f1c7f07f4d0800000000000000
+      internalID: -3100992792644989702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 906
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508bec3acb824b90800000000000000
+      internalID: -7259085948646096808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 906
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c276b1c93eacfb0800000000000000
+      internalID: -4626635407555613695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df8efedbc81a460800000000000000
+      internalID: 7251231622444940693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_48
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 865
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29a2adc10d56c1b0800000000000000
+      internalID: -5636715621281257174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 865
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773b82d6cdc68470800000000000000
+      internalID: 8396624809098426233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 865
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8028de31c7ec5cc0800000000000000
+      internalID: -3720844374945816435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 865
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1410a20b28a998f0800000000000000
+      internalID: -533210178185587683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 831
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba47e8cbef226bb0800000000000000
+      internalID: -4944336751164962116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ad3a3e73fc14b0800000000000000
+      internalID: -5468228124066077605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 865
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5d90f1eb798c50800000000000000
+      internalID: 6667996933633433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1a30b408141660800000000000000
+      internalID: 7355530499818397281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 865
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1d3fdbce2c769c0800000000000000
+      internalID: -3933961427429895749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad4672291aca2f0800000000000000
+      internalID: -960214971438540096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 865
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d66b82b7cfa57b70800000000000000
+      internalID: 8896209911169115856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36fd1f3f99069f0800000000000000
+      internalID: -477212287487220781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 865
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950de69ea61b1dae0800000000000000
+      internalID: -1526243725960884135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc490641c76e3490800000000000000
+      internalID: -7764654627738792743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 865
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2521fac9fd1875ef0800000000000000
+      internalID: -119484067695619502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 865
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84d673912ab5d90800000000000000
+      internalID: -7107909357686404959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_64
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 842
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5627e33a314c1370800000000000000
+      internalID: 8294576331944306268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 842
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32ecb8f2b65eb90800000000000000
+      internalID: -7213241376210803780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 781
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf69f7158e5fd7e0800000000000000
+      internalID: -1738567005415837770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 781
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da16529f91c05c290800000000000000
+      internalID: -7870871468066381395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 781
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec882d7f4e5b38250800000000000000
+      internalID: 5945795928074127566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_69
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 781
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739fc196a747b020800000000000000
+      internalID: 2357431710688187258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 781
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aba12ece2606a70800000000000000
+      internalID: 8818156839936637529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 781
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99baaa33f749b9f90800000000000000
+      internalID: -6945794726240277607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 781
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a8ab49a29766cd0800000000000000
+      internalID: -2565229713950078310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 780
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580c59390ae2dfa0800000000000000
+      internalID: -5777298046624987047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d2ca262e683c7c0800000000000000
+      internalID: -4052246932827132604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 730
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c022489542dc27660800000000000000
+      internalID: 7382188295218012684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 729
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a06b771f694c10800000000000000
+      internalID: 2038282453006723212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 730
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901896132678c280800000000000000
+      internalID: -9022831960361791330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 730
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cec83ff68b870a50800000000000000
+      internalID: 6487307200174280384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 730
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b447b8659f70a0800000000000000
+      internalID: -6881617428614957203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 688
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ece9d88cf6c5b20800000000000000
+      internalID: 3124495148648418967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 686
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe939239ba2fc30800000000000000
+      internalID: 4391761235179859823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 686
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213af9c20c4630640800000000000000
+      internalID: 5044986784130245394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 685
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9fbe4ac169c6c0800000000000000
+      internalID: -4122656462348510632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 684
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a8618e88c9cff0800000000000000
+      internalID: -15260609337054786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf66e266b5771280800000000000000
+      internalID: -9072653498110808143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 683
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0cb2f2d9bb2c110800000000000000
+      internalID: 1279791527902298293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_87
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 684
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7021bb60a83a86a0800000000000000
+      internalID: -6446277654974750597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 684
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01449912652ff3740800000000000000
+      internalID: 5134088551970456592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 639
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9fb110d378afdc0800000000000000
+      internalID: -3604419855675295264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_90
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 642
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f7c3882b7020030800000000000000
+      internalID: 3459335927145201505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 643
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af78c0b34fbecc0800000000000000
+      internalID: -3680579735994762712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 642
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e2eef7591feb60800000000000000
+      internalID: 7777462947221267443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 594
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12c10e7c070de90800000000000000
+      internalID: -7002973416800378382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_94
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 599
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a6616e33788ba0800000000000000
+      internalID: -6086488184631941094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 599
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76812343992f4e0800000000000000
+      internalID: -1949327239240194056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5200c745dded3fa0800000000000000
+      internalID: -5819233643205229985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34c9eb7fa96d3b60800000000000000
+      internalID: 7727448738056750143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65527d7e771b218b0800000000000000
+      internalID: -5182885092601158314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d244b27d00c530800000000000000
+      internalID: 3873110465840336912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_100
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d48f2880e9c23cd0800000000000000
+      internalID: -2579777670335200044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b3ef749df52f10800000000000000
+      internalID: 2244478803556678119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_102
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 599
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9508c5136ecd01e0800000000000000
+      internalID: -2229899315516013154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 562
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188df834bb587a90800000000000000
+      internalID: -7315996765054990311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 562
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0d31329d308640800000000000000
+      internalID: 5080128077774522946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 562
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3302c7be4b0b6470800000000000000
+      internalID: 8388811163625980731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 562
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e31cf4c72c1bd0800000000000000
+      internalID: -2658205953059201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_107
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 546
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2a26f96fa03a00800000000000000
+      internalID: 734279608897776176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 562
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09993604b7b0ecf0800000000000000
+      internalID: -224977997542090483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 573
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d38a30260cc3aa20800000000000000
+      internalID: 3072523697479386071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_110
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 573
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8085c733acba5020800000000000000
+      internalID: 2331383166319034508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 498
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee08bf5f3d225fc0800000000000000
+      internalID: -3507691409556107538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 498
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464e129b188bf970800000000000000
+      internalID: 8789768749740607054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 498
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599862c51c0cef000800000000000000
+      internalID: 71706580791757205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 498
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8a58ac735a4800800000000000000
+      internalID: 597381695445568720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_115
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 498
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5523ce3c1f895be0800000000000000
+      internalID: -1488000850394405537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 498
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ef1b71e200d4b0800000000000000
+      internalID: -5417827184270121201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_117
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 498
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d0ffe4f1ddb120800000000000000
+      internalID: 2431330223777699640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 498
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4f262c7b5fcc90800000000000000
+      internalID: -7147393494838981517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 498
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56936f964a761ba90800000000000000
+      internalID: -7299939565140821659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7fa50940fb40df0800000000000000
+      internalID: -214836855884286015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 451
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c995fc7c09319850800000000000000
+      internalID: 6381944872759564741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_122
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 451
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf218190b51f2fd0800000000000000
+      internalID: -2364647431246630992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccda4a120c2aea00800000000000000
+      internalID: 786489472472243407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131420cd7d27a7060800000000000000
+      internalID: 6951995246234452273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_125
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 397
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7cee1ea07b3cc80800000000000000
+      internalID: -8303592030572984404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 397
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a0562cbdff8d570800000000000000
+      internalID: 8491818416731392515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_127
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 397
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf38833a13b0a8a0800000000000000
+      internalID: -6295835353948864546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_128
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 397
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab525bf8ffb609500800000000000000
+      internalID: 400939112207820218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_129
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 397
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5338ca2a13823a0800000000000000
+      internalID: -6690042671710128643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 397
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731550548a70ad70800000000000000
+      internalID: 9052369959716721535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_131
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 397
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0e50cc864fdc5e0800000000000000
+      internalID: -1887583937861656399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_132
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 397
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaf6eddde4acc350800000000000000
+      internalID: 6038382541934099167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_133
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 397
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ef056df38419c0800000000000000
+      internalID: -3957393048206319250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247951c7a5eab3ae0800000000000000
+      internalID: -1568468341556406462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42fd1979acd38d0800000000000000
+      internalID: -2864911035601574710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b71af137b10c80800000000000000
+      internalID: -8358198008145792771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_137
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 353
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40b767b99dbb5b0800000000000000
+      internalID: -5351444470468770598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_138
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ad59eb44f29e20800000000000000
+      internalID: 3356013279219393168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 353
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16caebec40287b250800000000000000
+      internalID: 5960375589008223329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61824fe04eeff70800000000000000
+      internalID: 9223059839778297553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_141
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 353
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f206d26062a47b520800000000000000
+      internalID: 2717722427314233391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_142
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 303
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4428f3b20b6d1f200800000000000000
+      internalID: 212186709591294532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 353
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0e8d93b3c36ca20800000000000000
+      internalID: 3082217220052934910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_144
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 303
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258cb0d0356f190b0800000000000000
+      internalID: -5723522814849595310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_145
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 353
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a6e45073a00a760800000000000000
+      internalID: 7466979413608786561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_146
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 325
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7ffb2afcf73030800000000000000
+      internalID: 3474523788949813906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_147
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 325
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186360affa36c3220800000000000000
+      internalID: 2466956303357326977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_148
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 337
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f12f55b40c4220800000000000000
+      internalID: 2471355472551213361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_149
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 325
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b9b7281eb192580800000000000000
+      internalID: -8851512937249268946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_150
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 318
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8fedcef3f6ce570800000000000000
+      internalID: 8497288917288941746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_151
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 311
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209c357533ace8720800000000000000
+      internalID: 2850437936029354242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_152
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff97a6b813abcd0800000000000000
+      internalID: -2541664564840628434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f7014d43dd3640800000000000000
+      internalID: 5061433884991289168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_154
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a675ccce0dbb0760800000000000000
+      internalID: 7425236281913079457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_155
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 271
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e462995042f9bf0800000000000000
+      internalID: -315493842429784500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 271
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c36794b27f8af30800000000000000
+      internalID: 4587187985764990019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a62a0107068ed0800000000000000
+      internalID: -2412232849363655684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_158
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 277
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54389fe57a459e0800000000000000
+      internalID: -1633496738473753171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_159
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 271
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15012a2428dfc7d0800000000000000
+      internalID: -2895858385538710245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Soldier Shield_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 488
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22528fe08d1193da0800000000000000
+      internalID: -5964716611813759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rebel Soldier Shield_0: -5807425011887968814
+      Rebel Soldier Shield_1: -2818171137973688011
+      Rebel Soldier Shield_10: -7294900055635838327
+      Rebel Soldier Shield_100: -2579777670335200044
+      Rebel Soldier Shield_101: 2244478803556678119
+      Rebel Soldier Shield_102: -2229899315516013154
+      Rebel Soldier Shield_103: -7315996765054990311
+      Rebel Soldier Shield_104: 5080128077774522946
+      Rebel Soldier Shield_105: 8388811163625980731
+      Rebel Soldier Shield_106: -2658205953059201014
+      Rebel Soldier Shield_107: 734279608897776176
+      Rebel Soldier Shield_108: -224977997542090483
+      Rebel Soldier Shield_109: 3072523697479386071
+      Rebel Soldier Shield_11: -7258626407771021975
+      Rebel Soldier Shield_110: 2331383166319034508
+      Rebel Soldier Shield_111: -3507691409556107538
+      Rebel Soldier Shield_112: 8789768749740607054
+      Rebel Soldier Shield_113: 71706580791757205
+      Rebel Soldier Shield_114: 597381695445568720
+      Rebel Soldier Shield_115: -1488000850394405537
+      Rebel Soldier Shield_116: -5417827184270121201
+      Rebel Soldier Shield_117: 2431330223777699640
+      Rebel Soldier Shield_118: -7147393494838981517
+      Rebel Soldier Shield_119: -7299939565140821659
+      Rebel Soldier Shield_12: 161958675378268275
+      Rebel Soldier Shield_120: -214836855884286015
+      Rebel Soldier Shield_121: 6381944872759564741
+      Rebel Soldier Shield_122: -2364647431246630992
+      Rebel Soldier Shield_123: 786489472472243407
+      Rebel Soldier Shield_124: 6951995246234452273
+      Rebel Soldier Shield_125: -8303592030572984404
+      Rebel Soldier Shield_126: 8491818416731392515
+      Rebel Soldier Shield_127: -6295835353948864546
+      Rebel Soldier Shield_128: 400939112207820218
+      Rebel Soldier Shield_129: -6690042671710128643
+      Rebel Soldier Shield_13: 3621391047356952006
+      Rebel Soldier Shield_130: 9052369959716721535
+      Rebel Soldier Shield_131: -1887583937861656399
+      Rebel Soldier Shield_132: 6038382541934099167
+      Rebel Soldier Shield_133: -3957393048206319250
+      Rebel Soldier Shield_134: -1568468341556406462
+      Rebel Soldier Shield_135: -2864911035601574710
+      Rebel Soldier Shield_136: -8358198008145792771
+      Rebel Soldier Shield_137: -5351444470468770598
+      Rebel Soldier Shield_138: 3356013279219393168
+      Rebel Soldier Shield_139: 5960375589008223329
+      Rebel Soldier Shield_14: 8565263146928263321
+      Rebel Soldier Shield_140: 9223059839778297553
+      Rebel Soldier Shield_141: 2717722427314233391
+      Rebel Soldier Shield_142: 212186709591294532
+      Rebel Soldier Shield_143: 3082217220052934910
+      Rebel Soldier Shield_144: -5723522814849595310
+      Rebel Soldier Shield_145: 7466979413608786561
+      Rebel Soldier Shield_146: 3474523788949813906
+      Rebel Soldier Shield_147: 2466956303357326977
+      Rebel Soldier Shield_148: 2471355472551213361
+      Rebel Soldier Shield_149: -8851512937249268946
+      Rebel Soldier Shield_15: 8686102022214803009
+      Rebel Soldier Shield_150: 8497288917288941746
+      Rebel Soldier Shield_151: 2850437936029354242
+      Rebel Soldier Shield_152: -2541664564840628434
+      Rebel Soldier Shield_153: 5061433884991289168
+      Rebel Soldier Shield_154: 7425236281913079457
+      Rebel Soldier Shield_155: -315493842429784500
+      Rebel Soldier Shield_156: 4587187985764990019
+      Rebel Soldier Shield_157: -2412232849363655684
+      Rebel Soldier Shield_158: -1633496738473753171
+      Rebel Soldier Shield_159: -2895858385538710245
+      Rebel Soldier Shield_16: 6111637815339103826
+      Rebel Soldier Shield_160: -5964716611813759710
+      Rebel Soldier Shield_17: 4313075142108188163
+      Rebel Soldier Shield_18: 3892360727766418446
+      Rebel Soldier Shield_19: -5360692410442081136
+      Rebel Soldier Shield_2: -3962580845160005584
+      Rebel Soldier Shield_20: -3260186978570799335
+      Rebel Soldier Shield_21: 5564217492325278402
+      Rebel Soldier Shield_22: -8223180052709433221
+      Rebel Soldier Shield_23: 3010068508894919699
+      Rebel Soldier Shield_24: -6740471248213481342
+      Rebel Soldier Shield_25: -983477019732529396
+      Rebel Soldier Shield_26: -1626552265465888109
+      Rebel Soldier Shield_27: -8939329872242440203
+      Rebel Soldier Shield_28: -6997779641349984070
+      Rebel Soldier Shield_29: -4872382523342673075
+      Rebel Soldier Shield_3: 3281446689546528560
+      Rebel Soldier Shield_30: -2173043350707166698
+      Rebel Soldier Shield_31: 2902762810215117563
+      Rebel Soldier Shield_32: 3821912277354831821
+      Rebel Soldier Shield_33: 1249220696658440540
+      Rebel Soldier Shield_34: 1959709226501715078
+      Rebel Soldier Shield_35: -7162141534572849236
+      Rebel Soldier Shield_36: 3037061417879697185
+      Rebel Soldier Shield_37: 1426618833317718139
+      Rebel Soldier Shield_38: -4954192386664146243
+      Rebel Soldier Shield_39: -7433400638236107386
+      Rebel Soldier Shield_4: -548720847686195422
+      Rebel Soldier Shield_40: -7190639660490416671
+      Rebel Soldier Shield_41: -8513359761581896197
+      Rebel Soldier Shield_42: 7364087742262898186
+      Rebel Soldier Shield_43: 5260261655545965750
+      Rebel Soldier Shield_44: -3100992792644989702
+      Rebel Soldier Shield_45: -7259085948646096808
+      Rebel Soldier Shield_46: -4626635407555613695
+      Rebel Soldier Shield_47: 7251231622444940693
+      Rebel Soldier Shield_48: -5636715621281257174
+      Rebel Soldier Shield_49: 8396624809098426233
+      Rebel Soldier Shield_5: -6896955496902228884
+      Rebel Soldier Shield_50: -3720844374945816435
+      Rebel Soldier Shield_51: -533210178185587683
+      Rebel Soldier Shield_52: -4944336751164962116
+      Rebel Soldier Shield_53: -5468228124066077605
+      Rebel Soldier Shield_54: 6667996933633433512
+      Rebel Soldier Shield_55: 7355530499818397281
+      Rebel Soldier Shield_56: -3933961427429895749
+      Rebel Soldier Shield_57: -960214971438540096
+      Rebel Soldier Shield_58: 8896209911169115856
+      Rebel Soldier Shield_59: -477212287487220781
+      Rebel Soldier Shield_6: 889259372063157466
+      Rebel Soldier Shield_60: -1526243725960884135
+      Rebel Soldier Shield_61: -7764654627738792743
+      Rebel Soldier Shield_62: -119484067695619502
+      Rebel Soldier Shield_63: -7107909357686404959
+      Rebel Soldier Shield_64: 8294576331944306268
+      Rebel Soldier Shield_65: -7213241376210803780
+      Rebel Soldier Shield_66: -1738567005415837770
+      Rebel Soldier Shield_67: -7870871468066381395
+      Rebel Soldier Shield_68: 5945795928074127566
+      Rebel Soldier Shield_69: 2357431710688187258
+      Rebel Soldier Shield_7: 7696987347698862302
+      Rebel Soldier Shield_70: 8818156839936637529
+      Rebel Soldier Shield_71: -6945794726240277607
+      Rebel Soldier Shield_72: -2565229713950078310
+      Rebel Soldier Shield_73: -5777298046624987047
+      Rebel Soldier Shield_74: -4052246932827132604
+      Rebel Soldier Shield_75: 7382188295218012684
+      Rebel Soldier Shield_76: 2038282453006723212
+      Rebel Soldier Shield_77: -9022831960361791330
+      Rebel Soldier Shield_78: 6487307200174280384
+      Rebel Soldier Shield_79: -6881617428614957203
+      Rebel Soldier Shield_8: 7811936619468077516
+      Rebel Soldier Shield_80: 3124495148648418967
+      Rebel Soldier Shield_81: 4391761235179859823
+      Rebel Soldier Shield_82: 5044986784130245394
+      Rebel Soldier Shield_83: -4122656462348510632
+      Rebel Soldier Shield_84: -15260609337054786
+      Rebel Soldier Shield_85: -9072653498110808143
+      Rebel Soldier Shield_86: 1279791527902298293
+      Rebel Soldier Shield_87: -6446277654974750597
+      Rebel Soldier Shield_88: 5134088551970456592
+      Rebel Soldier Shield_89: -3604419855675295264
+      Rebel Soldier Shield_9: 3786121895993417412
+      Rebel Soldier Shield_90: 3459335927145201505
+      Rebel Soldier Shield_91: -3680579735994762712
+      Rebel Soldier Shield_92: 7777462947221267443
+      Rebel Soldier Shield_93: -7002973416800378382
+      Rebel Soldier Shield_94: -6086488184631941094
+      Rebel Soldier Shield_95: -1949327239240194056
+      Rebel Soldier Shield_96: -5819233643205229985
+      Rebel Soldier Shield_97: 7727448738056750143
+      Rebel Soldier Shield_98: -5182885092601158314
+      Rebel Soldier Shield_99: 3873110465840336912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

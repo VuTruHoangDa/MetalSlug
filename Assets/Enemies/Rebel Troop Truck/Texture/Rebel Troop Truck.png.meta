@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 35d03757b1232e5458343b733edf4c4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7517423999885030624
+    second: Rebel Troop Truck_0
+  - first:
+      213: -1132420069201492158
+    second: Rebel Troop Truck_1
+  - first:
+      213: -3080981852086539254
+    second: Rebel Troop Truck_2
+  - first:
+      213: -5051599337584523753
+    second: Rebel Troop Truck_3
+  - first:
+      213: -6685569002556083441
+    second: Rebel Troop Truck_4
+  - first:
+      213: -3284255672906011622
+    second: Rebel Troop Truck_5
+  - first:
+      213: 6032371113527898843
+    second: Rebel Troop Truck_6
+  - first:
+      213: 6916864289469855970
+    second: Rebel Troop Truck_7
+  - first:
+      213: 2685669787956620366
+    second: Rebel Troop Truck_8
+  - first:
+      213: 8785352276667488568
+    second: Rebel Troop Truck_9
+  - first:
+      213: 5290746340823828438
+    second: Rebel Troop Truck_10
+  - first:
+      213: -389839768505987090
+    second: Rebel Troop Truck_11
+  - first:
+      213: 7143311051503869098
+    second: Rebel Troop Truck_12
+  - first:
+      213: -2789322481155573314
+    second: Rebel Troop Truck_13
+  - first:
+      213: -4328978011692337619
+    second: Rebel Troop Truck_14
+  - first:
+      213: 3836460944628990860
+    second: Rebel Troop Truck_15
+  - first:
+      213: -2344940535824718385
+    second: Rebel Troop Truck_16
+  - first:
+      213: -9083731532028383316
+    second: Rebel Troop Truck_17
+  - first:
+      213: 7797243709568623909
+    second: Rebel Troop Truck_18
+  - first:
+      213: -2175673890105632261
+    second: Rebel Troop Truck_19
+  - first:
+      213: -8172579974066774025
+    second: Rebel Troop Truck_20
+  - first:
+      213: -7442200350203622969
+    second: Rebel Troop Truck_21
+  - first:
+      213: 2762698389806205334
+    second: Rebel Troop Truck_22
+  - first:
+      213: -8838740315924550866
+    second: Rebel Troop Truck_23
+  - first:
+      213: 3816670094568792083
+    second: Rebel Troop Truck_24
+  - first:
+      213: -3967914063672274869
+    second: Rebel Troop Truck_25
+  - first:
+      213: 1333809947729051130
+    second: Rebel Troop Truck_26
+  - first:
+      213: 7864863502758388363
+    second: Rebel Troop Truck_27
+  - first:
+      213: 8313962842259838168
+    second: Rebel Troop Truck_28
+  - first:
+      213: 7420077192302008799
+    second: Rebel Troop Truck_29
+  - first:
+      213: -4321636572614159049
+    second: Rebel Troop Truck_30
+  - first:
+      213: -523827980743392392
+    second: Rebel Troop Truck_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rebel Troop Truck_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 684
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b4238c41435860800000000000000
+      internalID: 7517423999885030624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 602
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247c8b662f5d840f0800000000000000
+      internalID: -1132420069201492158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce4fa44572e35d0800000000000000
+      internalID: -3080981852086539254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160dafba2d15e9b0800000000000000
+      internalID: -5051599337584523753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f033841f9661833a0800000000000000
+      internalID: -6685569002556083441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 579
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c20e0cddafb62d0800000000000000
+      internalID: -3284255672906011622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 493
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2782f119947b350800000000000000
+      internalID: 6032371113527898843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 493
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87f659c63adff50800000000000000
+      internalID: 6916864289469855970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 493
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c272f517a654520800000000000000
+      internalID: 2685669787956620366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 493
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8395f6d4957dbe970800000000000000
+      internalID: 8785352276667488568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 472
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78081f3c18c6940800000000000000
+      internalID: 5290746340823828438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 472
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef41e6cbc2079af0800000000000000
+      internalID: -389839768505987090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac9201fd83222360800000000000000
+      internalID: 7143311051503869098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f5ba5bf55a49d0800000000000000
+      internalID: -2789322481155573314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f99c2f616ce3c0800000000000000
+      internalID: -4328978011692337619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 392
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83454717e8dd3530800000000000000
+      internalID: 3836460944628990860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 392
+        width: 125
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5e0c6b109157fd0800000000000000
+      internalID: -2344940535824718385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 392
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafee6e9c4a10f180800000000000000
+      internalID: -9083731532028383316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 392
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525acff97df553c60800000000000000
+      internalID: 7797243709568623909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 392
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95929cf147ec1e0800000000000000
+      internalID: -2175673890105632261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff574350d9259e80800000000000000
+      internalID: -8172579974066774025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 306
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c943d2463ef7b890800000000000000
+      internalID: -7442200350203622969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 306
+        width: 143
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69941f15c83175620800000000000000
+      internalID: 2762698389806205334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba467238c765580800000000000000
+      internalID: -8838740315924550866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31021abba3987f430800000000000000
+      internalID: 3816670094568792083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4099879e232fe8c0800000000000000
+      internalID: -3967914063672274869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb544a415a28210800000000000000
+      internalID: 1333809947729051130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8229d89fab952d60800000000000000
+      internalID: 7864863502758388363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d1b0e721216370800000000000000
+      internalID: 8313962842259838168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99325a4e869f660800000000000000
+      internalID: 7420077192302008799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7351ff82f667604c0800000000000000
+      internalID: -4321636572614159049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rebel Troop Truck_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1119
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87341641a3dfab8f0800000000000000
+      internalID: -523827980743392392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rebel Troop Truck_0: 7517423999885030624
+      Rebel Troop Truck_1: -1132420069201492158
+      Rebel Troop Truck_10: 5290746340823828438
+      Rebel Troop Truck_11: -389839768505987090
+      Rebel Troop Truck_12: 7143311051503869098
+      Rebel Troop Truck_13: -2789322481155573314
+      Rebel Troop Truck_14: -4328978011692337619
+      Rebel Troop Truck_15: 3836460944628990860
+      Rebel Troop Truck_16: -2344940535824718385
+      Rebel Troop Truck_17: -9083731532028383316
+      Rebel Troop Truck_18: 7797243709568623909
+      Rebel Troop Truck_19: -2175673890105632261
+      Rebel Troop Truck_2: -3080981852086539254
+      Rebel Troop Truck_20: -8172579974066774025
+      Rebel Troop Truck_21: -7442200350203622969
+      Rebel Troop Truck_22: 2762698389806205334
+      Rebel Troop Truck_23: -8838740315924550866
+      Rebel Troop Truck_24: 3816670094568792083
+      Rebel Troop Truck_25: -3967914063672274869
+      Rebel Troop Truck_26: 1333809947729051130
+      Rebel Troop Truck_27: 7864863502758388363
+      Rebel Troop Truck_28: 8313962842259838168
+      Rebel Troop Truck_29: 7420077192302008799
+      Rebel Troop Truck_3: -5051599337584523753
+      Rebel Troop Truck_30: -4321636572614159049
+      Rebel Troop Truck_31: -523827980743392392
+      Rebel Troop Truck_4: -6685569002556083441
+      Rebel Troop Truck_5: -3284255672906011622
+      Rebel Troop Truck_6: 6032371113527898843
+      Rebel Troop Truck_7: 6916864289469855970
+      Rebel Troop Truck_8: 2685669787956620366
+      Rebel Troop Truck_9: 8785352276667488568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

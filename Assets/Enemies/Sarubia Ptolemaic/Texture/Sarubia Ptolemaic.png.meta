@@ -1,0 +1,5551 @@
+fileFormatVersion: 2
+guid: 2e2335b37d6859f4191a36073b0bf0f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8721086331277070031
+    second: Sarubia Ptolemaic_0
+  - first:
+      213: 7903742947267925985
+    second: Sarubia Ptolemaic_1
+  - first:
+      213: -6023134392600088380
+    second: Sarubia Ptolemaic_2
+  - first:
+      213: -894670919203598955
+    second: Sarubia Ptolemaic_3
+  - first:
+      213: 169822921371194595
+    second: Sarubia Ptolemaic_4
+  - first:
+      213: -7045097065041694558
+    second: Sarubia Ptolemaic_5
+  - first:
+      213: -5069703788951139743
+    second: Sarubia Ptolemaic_6
+  - first:
+      213: -4829142643364954718
+    second: Sarubia Ptolemaic_7
+  - first:
+      213: 3384742924383001800
+    second: Sarubia Ptolemaic_8
+  - first:
+      213: -3765890549251972371
+    second: Sarubia Ptolemaic_9
+  - first:
+      213: 681769737843055526
+    second: Sarubia Ptolemaic_10
+  - first:
+      213: 4685940434998657131
+    second: Sarubia Ptolemaic_11
+  - first:
+      213: 2812807554137458404
+    second: Sarubia Ptolemaic_12
+  - first:
+      213: -885935291317404646
+    second: Sarubia Ptolemaic_13
+  - first:
+      213: -1193918218087188151
+    second: Sarubia Ptolemaic_14
+  - first:
+      213: -9198432341539767676
+    second: Sarubia Ptolemaic_15
+  - first:
+      213: 6984229464650755016
+    second: Sarubia Ptolemaic_16
+  - first:
+      213: 8257013024014449451
+    second: Sarubia Ptolemaic_17
+  - first:
+      213: -4602007378389546495
+    second: Sarubia Ptolemaic_18
+  - first:
+      213: 3616127283855375242
+    second: Sarubia Ptolemaic_19
+  - first:
+      213: 7798746762022205004
+    second: Sarubia Ptolemaic_20
+  - first:
+      213: 1953963070578885905
+    second: Sarubia Ptolemaic_21
+  - first:
+      213: 7412719400167233775
+    second: Sarubia Ptolemaic_22
+  - first:
+      213: 1125227620386194856
+    second: Sarubia Ptolemaic_23
+  - first:
+      213: -2303067818520608078
+    second: Sarubia Ptolemaic_24
+  - first:
+      213: 4066458350781836284
+    second: Sarubia Ptolemaic_25
+  - first:
+      213: 7696745184314857338
+    second: Sarubia Ptolemaic_26
+  - first:
+      213: 4266853245749809751
+    second: Sarubia Ptolemaic_27
+  - first:
+      213: 5049726812588150362
+    second: Sarubia Ptolemaic_28
+  - first:
+      213: 6672697887868176549
+    second: Sarubia Ptolemaic_29
+  - first:
+      213: 5231769599367335818
+    second: Sarubia Ptolemaic_30
+  - first:
+      213: 7376795083503708598
+    second: Sarubia Ptolemaic_31
+  - first:
+      213: -2418834989500787359
+    second: Sarubia Ptolemaic_32
+  - first:
+      213: -7412030389624656248
+    second: Sarubia Ptolemaic_33
+  - first:
+      213: 2511945626125613443
+    second: Sarubia Ptolemaic_34
+  - first:
+      213: 593077758843259691
+    second: Sarubia Ptolemaic_35
+  - first:
+      213: -863782274254091126
+    second: Sarubia Ptolemaic_36
+  - first:
+      213: -3967024379596548536
+    second: Sarubia Ptolemaic_37
+  - first:
+      213: -6228108288059171564
+    second: Sarubia Ptolemaic_38
+  - first:
+      213: -5773908201737530998
+    second: Sarubia Ptolemaic_39
+  - first:
+      213: 6865495507704121019
+    second: Sarubia Ptolemaic_40
+  - first:
+      213: -7005678267527599930
+    second: Sarubia Ptolemaic_41
+  - first:
+      213: 3554724198841505070
+    second: Sarubia Ptolemaic_42
+  - first:
+      213: -8496208846789879313
+    second: Sarubia Ptolemaic_43
+  - first:
+      213: -7389870930940347877
+    second: Sarubia Ptolemaic_44
+  - first:
+      213: 3277716057080953480
+    second: Sarubia Ptolemaic_45
+  - first:
+      213: -302543188205946676
+    second: Sarubia Ptolemaic_46
+  - first:
+      213: 1895362795291032711
+    second: Sarubia Ptolemaic_47
+  - first:
+      213: 27340430479756756
+    second: Sarubia Ptolemaic_48
+  - first:
+      213: -5620423742204529979
+    second: Sarubia Ptolemaic_49
+  - first:
+      213: 7049584076974935502
+    second: Sarubia Ptolemaic_50
+  - first:
+      213: -3672748186670176616
+    second: Sarubia Ptolemaic_51
+  - first:
+      213: -574678691689764702
+    second: Sarubia Ptolemaic_52
+  - first:
+      213: -993376763738622461
+    second: Sarubia Ptolemaic_53
+  - first:
+      213: 1018749650091151431
+    second: Sarubia Ptolemaic_54
+  - first:
+      213: -5565057617566265513
+    second: Sarubia Ptolemaic_55
+  - first:
+      213: -2923791828645712087
+    second: Sarubia Ptolemaic_56
+  - first:
+      213: -1016364817788527776
+    second: Sarubia Ptolemaic_57
+  - first:
+      213: 5258281661695525172
+    second: Sarubia Ptolemaic_58
+  - first:
+      213: 3884871748329147572
+    second: Sarubia Ptolemaic_59
+  - first:
+      213: -3382964429755240406
+    second: Sarubia Ptolemaic_60
+  - first:
+      213: -5999687432564520557
+    second: Sarubia Ptolemaic_61
+  - first:
+      213: 126559576939554717
+    second: Sarubia Ptolemaic_62
+  - first:
+      213: -8822021448182509134
+    second: Sarubia Ptolemaic_63
+  - first:
+      213: 4325353476064175068
+    second: Sarubia Ptolemaic_64
+  - first:
+      213: 5236206448893592414
+    second: Sarubia Ptolemaic_65
+  - first:
+      213: -8237791116612382777
+    second: Sarubia Ptolemaic_66
+  - first:
+      213: -1633864587164856418
+    second: Sarubia Ptolemaic_67
+  - first:
+      213: -1449046148611461873
+    second: Sarubia Ptolemaic_68
+  - first:
+      213: 1731105571099654972
+    second: Sarubia Ptolemaic_69
+  - first:
+      213: -6652826873945008823
+    second: Sarubia Ptolemaic_70
+  - first:
+      213: 5442274790118030362
+    second: Sarubia Ptolemaic_71
+  - first:
+      213: 3506881933187531355
+    second: Sarubia Ptolemaic_72
+  - first:
+      213: 6899408577422263513
+    second: Sarubia Ptolemaic_73
+  - first:
+      213: -3385992276882293484
+    second: Sarubia Ptolemaic_74
+  - first:
+      213: -7328442619478082191
+    second: Sarubia Ptolemaic_75
+  - first:
+      213: 2329615901622026482
+    second: Sarubia Ptolemaic_76
+  - first:
+      213: -2595567395405277586
+    second: Sarubia Ptolemaic_77
+  - first:
+      213: 5506604359602000549
+    second: Sarubia Ptolemaic_78
+  - first:
+      213: 1175372728663691633
+    second: Sarubia Ptolemaic_79
+  - first:
+      213: 2591426541394987988
+    second: Sarubia Ptolemaic_80
+  - first:
+      213: -3313577112822386430
+    second: Sarubia Ptolemaic_81
+  - first:
+      213: -2887770994015300641
+    second: Sarubia Ptolemaic_82
+  - first:
+      213: -6084250545081399518
+    second: Sarubia Ptolemaic_83
+  - first:
+      213: 5420102524653305544
+    second: Sarubia Ptolemaic_84
+  - first:
+      213: 8348795720184412606
+    second: Sarubia Ptolemaic_85
+  - first:
+      213: -3612997093388289022
+    second: Sarubia Ptolemaic_86
+  - first:
+      213: 5279347160692294987
+    second: Sarubia Ptolemaic_87
+  - first:
+      213: 4678500304995240460
+    second: Sarubia Ptolemaic_88
+  - first:
+      213: 8820849744999075140
+    second: Sarubia Ptolemaic_89
+  - first:
+      213: 1227820437481828356
+    second: Sarubia Ptolemaic_90
+  - first:
+      213: -5279916457712806649
+    second: Sarubia Ptolemaic_91
+  - first:
+      213: -942795252064450034
+    second: Sarubia Ptolemaic_92
+  - first:
+      213: -892686281767760545
+    second: Sarubia Ptolemaic_93
+  - first:
+      213: 303789878644884826
+    second: Sarubia Ptolemaic_94
+  - first:
+      213: -1906279269339016011
+    second: Sarubia Ptolemaic_95
+  - first:
+      213: 7344224413661724246
+    second: Sarubia Ptolemaic_96
+  - first:
+      213: -6677707445470924018
+    second: Sarubia Ptolemaic_97
+  - first:
+      213: 6113075681522503388
+    second: Sarubia Ptolemaic_98
+  - first:
+      213: -6474142677894379427
+    second: Sarubia Ptolemaic_99
+  - first:
+      213: -3602492902130096881
+    second: Sarubia Ptolemaic_100
+  - first:
+      213: -5128695107356852060
+    second: Sarubia Ptolemaic_101
+  - first:
+      213: 5120459960986861948
+    second: Sarubia Ptolemaic_102
+  - first:
+      213: -1994392672051386195
+    second: Sarubia Ptolemaic_103
+  - first:
+      213: 5116671430569616170
+    second: Sarubia Ptolemaic_104
+  - first:
+      213: -287401158624897442
+    second: Sarubia Ptolemaic_105
+  - first:
+      213: 7938865536328978525
+    second: Sarubia Ptolemaic_106
+  - first:
+      213: 9209303156183016506
+    second: Sarubia Ptolemaic_107
+  - first:
+      213: 6298045074056770104
+    second: Sarubia Ptolemaic_108
+  - first:
+      213: 2394248214417474233
+    second: Sarubia Ptolemaic_109
+  - first:
+      213: -6310079737047455680
+    second: Sarubia Ptolemaic_110
+  - first:
+      213: 8061290302129345713
+    second: Sarubia Ptolemaic_111
+  - first:
+      213: 1282848274190005942
+    second: Sarubia Ptolemaic_112
+  - first:
+      213: -4581068294619836837
+    second: Sarubia Ptolemaic_113
+  - first:
+      213: -2374461530856266198
+    second: Sarubia Ptolemaic_114
+  - first:
+      213: 222226841217262449
+    second: Sarubia Ptolemaic_115
+  - first:
+      213: 3638574114362769308
+    second: Sarubia Ptolemaic_116
+  - first:
+      213: -9139208896788216833
+    second: Sarubia Ptolemaic_117
+  - first:
+      213: -2869357872894154309
+    second: Sarubia Ptolemaic_118
+  - first:
+      213: -3366158108120355243
+    second: Sarubia Ptolemaic_119
+  - first:
+      213: -8382280390827950926
+    second: Sarubia Ptolemaic_120
+  - first:
+      213: 6105878043878494150
+    second: Sarubia Ptolemaic_121
+  - first:
+      213: -9031418427108188695
+    second: Sarubia Ptolemaic_122
+  - first:
+      213: -3976118289227725775
+    second: Sarubia Ptolemaic_123
+  - first:
+      213: 4974998914468991535
+    second: Sarubia Ptolemaic_124
+  - first:
+      213: -3836456472578347009
+    second: Sarubia Ptolemaic_125
+  - first:
+      213: -6672903373505070107
+    second: Sarubia Ptolemaic_126
+  - first:
+      213: -8740692345449226266
+    second: Sarubia Ptolemaic_127
+  - first:
+      213: 1078054185435391499
+    second: Sarubia Ptolemaic_128
+  - first:
+      213: -1172696007611135145
+    second: Sarubia Ptolemaic_129
+  - first:
+      213: -871162365532499065
+    second: Sarubia Ptolemaic_130
+  - first:
+      213: 6832853743965712854
+    second: Sarubia Ptolemaic_131
+  - first:
+      213: -3774425579752408838
+    second: Sarubia Ptolemaic_132
+  - first:
+      213: 2802991272882414849
+    second: Sarubia Ptolemaic_133
+  - first:
+      213: 5322591530067080909
+    second: Sarubia Ptolemaic_134
+  - first:
+      213: 5004300915554718161
+    second: Sarubia Ptolemaic_135
+  - first:
+      213: 8916384397414129210
+    second: Sarubia Ptolemaic_136
+  - first:
+      213: 582421474580228101
+    second: Sarubia Ptolemaic_137
+  - first:
+      213: 5897933261011669705
+    second: Sarubia Ptolemaic_138
+  - first:
+      213: 3255639254849365296
+    second: Sarubia Ptolemaic_139
+  - first:
+      213: -5635913648562281064
+    second: Sarubia Ptolemaic_140
+  - first:
+      213: -646243952382215497
+    second: Sarubia Ptolemaic_141
+  - first:
+      213: -6850819842145167065
+    second: Sarubia Ptolemaic_142
+  - first:
+      213: 2604814185045296958
+    second: Sarubia Ptolemaic_143
+  - first:
+      213: -8560814619391446772
+    second: Sarubia Ptolemaic_144
+  - first:
+      213: -473654049307584220
+    second: Sarubia Ptolemaic_145
+  - first:
+      213: 691586520805292722
+    second: Sarubia Ptolemaic_146
+  - first:
+      213: 1606965695746692162
+    second: Sarubia Ptolemaic_147
+  - first:
+      213: -534034159810981370
+    second: Sarubia Ptolemaic_148
+  - first:
+      213: -7227843340647074503
+    second: Sarubia Ptolemaic_149
+  - first:
+      213: 7715954833165389266
+    second: Sarubia Ptolemaic_150
+  - first:
+      213: -7948919908106490627
+    second: Sarubia Ptolemaic_151
+  - first:
+      213: 6606979174979509218
+    second: Sarubia Ptolemaic_152
+  - first:
+      213: 2750405504141307320
+    second: Sarubia Ptolemaic_153
+  - first:
+      213: -5605991319836462247
+    second: Sarubia Ptolemaic_154
+  - first:
+      213: 5402327457076005929
+    second: Sarubia Ptolemaic_155
+  - first:
+      213: 3899992500554183167
+    second: Sarubia Ptolemaic_156
+  - first:
+      213: -8756439498058558121
+    second: Sarubia Ptolemaic_157
+  - first:
+      213: 1650592858178222936
+    second: Sarubia Ptolemaic_158
+  - first:
+      213: 1032425018799718892
+    second: Sarubia Ptolemaic_159
+  - first:
+      213: -3324725193298306545
+    second: Sarubia Ptolemaic_160
+  - first:
+      213: 6924410388113940204
+    second: Sarubia Ptolemaic_161
+  - first:
+      213: 1046318599054268704
+    second: Sarubia Ptolemaic_162
+  - first:
+      213: -4368616464236677863
+    second: Sarubia Ptolemaic_163
+  - first:
+      213: 3529692542785045293
+    second: Sarubia Ptolemaic_164
+  - first:
+      213: 8393393801898351632
+    second: Sarubia Ptolemaic_165
+  - first:
+      213: -7106930340486690226
+    second: Sarubia Ptolemaic_166
+  - first:
+      213: 3164863055436252184
+    second: Sarubia Ptolemaic_167
+  - first:
+      213: 8038136833114689897
+    second: Sarubia Ptolemaic_168
+  - first:
+      213: -6682359715688031529
+    second: Sarubia Ptolemaic_169
+  - first:
+      213: -2377400984065774934
+    second: Sarubia Ptolemaic_170
+  - first:
+      213: -1300978765771729660
+    second: Sarubia Ptolemaic_171
+  - first:
+      213: 7050620786095212730
+    second: Sarubia Ptolemaic_172
+  - first:
+      213: 3958087289888015540
+    second: Sarubia Ptolemaic_173
+  - first:
+      213: 4837356459172302678
+    second: Sarubia Ptolemaic_174
+  - first:
+      213: -8734658552118785604
+    second: Sarubia Ptolemaic_175
+  - first:
+      213: 2416568015488221849
+    second: Sarubia Ptolemaic_176
+  - first:
+      213: 6776834485136388355
+    second: Sarubia Ptolemaic_177
+  - first:
+      213: -2378609766898913571
+    second: Sarubia Ptolemaic_178
+  - first:
+      213: 2605362724879090084
+    second: Sarubia Ptolemaic_179
+  - first:
+      213: -3277116894512943341
+    second: Sarubia Ptolemaic_180
+  - first:
+      213: 4819750537933400434
+    second: Sarubia Ptolemaic_181
+  - first:
+      213: -4540477915621031179
+    second: Sarubia Ptolemaic_182
+  - first:
+      213: -183132898814351778
+    second: Sarubia Ptolemaic_183
+  - first:
+      213: 890409739406089547
+    second: Sarubia Ptolemaic_184
+  - first:
+      213: 5057577457153268656
+    second: Sarubia Ptolemaic_185
+  - first:
+      213: 6988933721422171854
+    second: Sarubia Ptolemaic_186
+  - first:
+      213: -595887811288651469
+    second: Sarubia Ptolemaic_187
+  - first:
+      213: 4620820184994900700
+    second: Sarubia Ptolemaic_188
+  - first:
+      213: 2357016576231573516
+    second: Sarubia Ptolemaic_189
+  - first:
+      213: -7563545721143325710
+    second: Sarubia Ptolemaic_190
+  - first:
+      213: -6810800212120834541
+    second: Sarubia Ptolemaic_191
+  - first:
+      213: -2171722940543377004
+    second: Sarubia Ptolemaic_192
+  - first:
+      213: 2083718654892313823
+    second: Sarubia Ptolemaic_193
+  - first:
+      213: 2476285216245565105
+    second: Sarubia Ptolemaic_194
+  - first:
+      213: 4125106388806988672
+    second: Sarubia Ptolemaic_195
+  - first:
+      213: 7157047341850243081
+    second: Sarubia Ptolemaic_196
+  - first:
+      213: 580200100766730196
+    second: Sarubia Ptolemaic_197
+  - first:
+      213: -6827613854437369555
+    second: Sarubia Ptolemaic_198
+  - first:
+      213: 1370059414896401086
+    second: Sarubia Ptolemaic_199
+  - first:
+      213: -6345474318360700046
+    second: Sarubia Ptolemaic_200
+  - first:
+      213: -439347134856855153
+    second: Sarubia Ptolemaic_201
+  - first:
+      213: 4968112044182082279
+    second: Sarubia Ptolemaic_202
+  - first:
+      213: 8675527359386479359
+    second: Sarubia Ptolemaic_203
+  - first:
+      213: 5860761002434247682
+    second: Sarubia Ptolemaic_204
+  - first:
+      213: -3270442453328740300
+    second: Sarubia Ptolemaic_205
+  - first:
+      213: -1354821847887568658
+    second: Sarubia Ptolemaic_206
+  - first:
+      213: -458170990637180861
+    second: Sarubia Ptolemaic_207
+  - first:
+      213: -6597930623251423290
+    second: Sarubia Ptolemaic_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1293
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec84fdfc5870970800000000000000
+      internalID: 8721086331277070031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1293
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e757efa55cbfad60800000000000000
+      internalID: 7903742947267925985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1318
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c032ae8e27896ca0800000000000000
+      internalID: -6023134392600088380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1318
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d4ff50a8d7593f0800000000000000
+      internalID: -894670919203598955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49c071c055b5200800000000000000
+      internalID: 169822921371194595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1318
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fa0ebb89ca3e90800000000000000
+      internalID: -7045097065041694558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1229
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8d1fa34bc4a9b0800000000000000
+      internalID: -5069703788951139743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1229
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad7a8c0a507bfcb0800000000000000
+      internalID: -4829142643364954718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1229
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9ddfa1c509fe20800000000000000
+      internalID: 3384742924383001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1229
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e5dc7f7edcbbc0800000000000000
+      internalID: -3765890549251972371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1229
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1fb2e6f1267900800000000000000
+      internalID: 681769737843055526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1229
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600cba9ffdc70140800000000000000
+      internalID: 4685940434998657131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e606ed4199190720800000000000000
+      internalID: 2812807554137458404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c3b03eb8684b3f0800000000000000
+      internalID: -885935291317404646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1252
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949bb00d4b95e6fe0800000000000000
+      internalID: -1193918218087188151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48abe00558a985080800000000000000
+      internalID: -9198432341539767676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1252
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb235ea1b7fce060800000000000000
+      internalID: 6984229464650755016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb72a099dc69270800000000000000
+      internalID: 8257013024014449451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a4d5dfba26220c0800000000000000
+      internalID: -4602007378389546495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1167
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b3cc80b901f2230800000000000000
+      internalID: 3616127283855375242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1167
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46bf8b4cd6ba3c60800000000000000
+      internalID: 7798746762022205004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1167
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11506166f0fdd1b10800000000000000
+      internalID: 1953963070578885905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1167
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85d9a25054fd660800000000000000
+      internalID: 7412719400167233775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1167
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c39c1f8c9d9f00800000000000000
+      internalID: 1125227620386194856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1167
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2027f650cd900e0800000000000000
+      internalID: -2303067818520608078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1205
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba5443356fe6830800000000000000
+      internalID: 4066458350781836284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1205
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7719cd47f450da60800000000000000
+      internalID: 7696745184314857338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1205
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d3a59b68e63b30800000000000000
+      internalID: 4266853245749809751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_28
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1193
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e051d08cb341640800000000000000
+      internalID: 5049726812588150362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8c1e3206f2a9c50800000000000000
+      internalID: 6672697887868176549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1193
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4af44bbafa9840800000000000000
+      internalID: 5231769599367335818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b926156b04af5660800000000000000
+      internalID: 7376795083503708598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165158084629e6ed0800000000000000
+      internalID: -2418834989500787359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_33
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1178
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea50a91ad232990800000000000000
+      internalID: -7412030389624656248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1178
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893054fc393cd220800000000000000
+      internalID: 2511945626125613443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1178
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b890454190b3800800000000000000
+      internalID: 593077758843259691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1178
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4ecb199a3304f0800000000000000
+      internalID: -863782274254091126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84655de485c42f8c0800000000000000
+      internalID: -3967024379596548536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d119b82805199a0800000000000000
+      internalID: -6228108288059171564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1178
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8158bdf415fedfa0800000000000000
+      internalID: -5773908201737530998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1106
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb68ebf0ac3274f50800000000000000
+      internalID: 6865495507704121019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1106
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e75dbbb4d6ce90800000000000000
+      internalID: -7005678267527599930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1106
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25de6a33dae45130800000000000000
+      internalID: 3554724198841505070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1106
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9de859117671a80800000000000000
+      internalID: -8496208846789879313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1106
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab051aa87e17990800000000000000
+      internalID: -7389870930940347877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1106
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a77e84369cc7d20800000000000000
+      internalID: 3277716057080953480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1136
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc835c1c2962dcbf0800000000000000
+      internalID: -302543188205946676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_47
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1122
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c30d59b6ead4a10800000000000000
+      internalID: 1895362795291032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1136
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd80c60af1216000800000000000000
+      internalID: 27340430479756756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c23abe726e3002b0800000000000000
+      internalID: -5620423742204529979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1136
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd47522e5725d160800000000000000
+      internalID: 7049584076974935502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_51
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966018bbf6c70dc0800000000000000
+      internalID: -3672748186670176616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1136
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a868d156c45608f0800000000000000
+      internalID: -574678691689764702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_53
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1122
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3067b35b811d632f0800000000000000
+      internalID: -993376763738622461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_54
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1136
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409cb0c863532e00800000000000000
+      internalID: 1018749650091151431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_55
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1122
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f816ee491f4c2b0800000000000000
+      internalID: -5565057617566265513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1136
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe160a2da9c67d0800000000000000
+      internalID: -2923791828645712087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_57
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1122
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b9289459525e1f0800000000000000
+      internalID: -1016364817788527776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_58
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1136
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431005ecf4b29f840800000000000000
+      internalID: 5258281661695525172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_59
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc0c1da546d9e530800000000000000
+      internalID: 3884871748329147572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_60
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1136
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2038ac56cb4d01d0800000000000000
+      internalID: -3382964429755240406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1042
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399cd9a5114dcbca0800000000000000
+      internalID: -5999687432564520557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1042
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e762c341a1c100800000000000000
+      internalID: 126559576939554717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1042
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15434eb32e19580800000000000000
+      internalID: -8822021448182509134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1042
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36eccd11eb60c30800000000000000
+      internalID: 4325353476064175068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1042
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5389ecc50ebaa840800000000000000
+      internalID: 5236206448893592414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1042
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf437800ac7dad80800000000000000
+      internalID: -8237791116612382777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1042
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc2f680d85359e0800000000000000
+      internalID: -1633864587164856418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1042
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dadd88434f3ebe0800000000000000
+      internalID: -1449046148611461873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 978
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b381a585f160810800000000000000
+      internalID: 1731105571099654972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 978
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d552d4396ca3a0800000000000000
+      internalID: -6652826873945008823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 978
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7c035618d68b40800000000000000
+      internalID: 5442274790118030362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_72
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c0e8b982faa030800000000000000
+      internalID: 3506881933187531355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d48989eb8f9fbf50800000000000000
+      internalID: 6899408577422263513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df634c6f98201d0800000000000000
+      internalID: -3385992276882293484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfc2de3442c4a90800000000000000
+      internalID: -7328442619478082191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 998
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f04847d155745020800000000000000
+      internalID: 2329615901622026482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66584ea431bafbd0800000000000000
+      internalID: -2595567395405277586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 998
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d1b46d736b6c40800000000000000
+      internalID: 5506604359602000549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 915
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1715ea2f443cf4010800000000000000
+      internalID: 1175372728663691633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 915
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db0e5d95b896f320800000000000000
+      internalID: 2591426541394987988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_81
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 915
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017b560c2fc302d0800000000000000
+      internalID: -3313577112822386430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 904
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd39a0db4939ce7d0800000000000000
+      internalID: -2887770994015300641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22742ff6d56609ba0800000000000000
+      internalID: -6084250545081399518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 904
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce782c7782183b40800000000000000
+      internalID: 5420102524653305544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 904
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b4e34971ecd370800000000000000
+      internalID: 8348795720184412606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 904
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c721a394e0cddc0800000000000000
+      internalID: -3612997093388289022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_87
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 915
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45080f7542044940800000000000000
+      internalID: 5279347160692294987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a4cc85d3f5de040800000000000000
+      internalID: 4678500304995240460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 904
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc3c3bb14f96a70800000000000000
+      internalID: 8820849744999075140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b110ce281a0110800000000000000
+      internalID: 1227820437481828356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051a46b4f7f9b6b0800000000000000
+      internalID: -5279916457712806649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_92
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a06c0a6b48ae2f0800000000000000
+      internalID: -942795252064450034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 904
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d4e5f6e8a8c93f0800000000000000
+      internalID: -892686281767760545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 904
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55ccfaf847473400800000000000000
+      internalID: 303789878644884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 915
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45b5cba198b85e0800000000000000
+      internalID: -1906279269339016011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65efe0f513debe560800000000000000
+      internalID: 7344224413661724246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 904
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0379b655740453a0800000000000000
+      internalID: -6677707445470924018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_98
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 904
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde4a32a1f106d450800000000000000
+      internalID: 6113075681522503388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_99
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c8e239893726a0800000000000000
+      internalID: -6474142677894379427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 915
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056ba6dacf510ec0800000000000000
+      internalID: -3602492902130096881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_101
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 915
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a006bc09f633d8b0800000000000000
+      internalID: -5128695107356852060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718b3584378f0740800000000000000
+      internalID: 5120459960986861948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 840
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da82cb77e6e7254e0800000000000000
+      internalID: -1994392672051386195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 777
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23ed7b8e81120740800000000000000
+      internalID: 5116671430569616170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_105
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 840
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5690204b22f20cf0800000000000000
+      internalID: -287401158624897442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_106
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 840
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50da74b4248c2e60800000000000000
+      internalID: 7938865536328978525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_107
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 777
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a342c257d640ecf70800000000000000
+      internalID: 9209303156183016506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 840
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327d8a50a6276750800000000000000
+      internalID: 6298045074056770104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_109
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 840
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28774d0141a3120800000000000000
+      internalID: 2394248214417474233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 840
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04865e059e71e68a0800000000000000
+      internalID: -6310079737047455680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b498b9b1d47fdf60800000000000000
+      internalID: 8061290302129345713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_112
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 777
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b671d365b79dc110800000000000000
+      internalID: 1282848274190005942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_113
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 777
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e416758a6cc60c0800000000000000
+      internalID: -4581068294619836837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 798
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a266b7071d73c0fd0800000000000000
+      internalID: -2374461530856266198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 798
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173ef4a7222851300800000000000000
+      internalID: 222226841217262449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_116
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 798
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f368701efce7230800000000000000
+      internalID: 3638574114362769308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_117
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 798
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff349d21ee10b2180800000000000000
+      internalID: -9139208896788216833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 798
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96ca4973efd28d0800000000000000
+      internalID: -2869357872894154309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_119
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 798
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e6fab09010941d0800000000000000
+      internalID: -3366158108120355243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_120
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 798
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3af055682cab80800000000000000
+      internalID: -8382280390827950926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_121
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 798
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0c370bbf6cb450800000000000000
+      internalID: 6105878043878494150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 716
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9c428ac4f9a280800000000000000
+      internalID: -9031418427108188695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 716
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c5a97b7df1d8c0800000000000000
+      internalID: -3976118289227725775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 716
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d0ee672fba0540800000000000000
+      internalID: 4974998914468991535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 716
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff28b32a2b22cac0800000000000000
+      internalID: -3836456472578347009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_126
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 705
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb79b18cb51563a0800000000000000
+      internalID: -6672903373505070107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_127
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 705
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd58a3f92d2b680800000000000000
+      internalID: -8740692345449226266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_128
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 705
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06ef73e19406fe00800000000000000
+      internalID: 1078054185435391499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 705
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bc1dcb13fb9bfe0800000000000000
+      internalID: -1172696007611135145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_130
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 705
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831fb4b17209e3f0800000000000000
+      internalID: -871162365532499065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 705
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d13643374c23de50800000000000000
+      internalID: 6832853743965712854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 705
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b5b7deeb8e9bc0800000000000000
+      internalID: -3774425579752408838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_133
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 716
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052da836b936e620800000000000000
+      internalID: 2802991272882414849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_134
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 716
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6b62adbc4add940800000000000000
+      internalID: 5322591530067080909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_135
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 716
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d11dc43b29d27540800000000000000
+      internalID: 5004300915554718161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e54b05e5c5dbb70800000000000000
+      internalID: 8916384397414129210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 640
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e9edce3d251800800000000000000
+      internalID: 582421474580228101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_138
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 640
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2df836d0ba9d150800000000000000
+      internalID: 5897933261011669705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_139
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 640
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0352d1637aa5e2d20800000000000000
+      internalID: 3255639254849365296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_140
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 640
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956ba0a56639c1b0800000000000000
+      internalID: -5635913648562281064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_141
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 640
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba730c9c841807f0800000000000000
+      internalID: -646243952382215497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 583
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295db896affce0a0800000000000000
+      internalID: -6850819842145167065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_143
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 583
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37068d43b8262420800000000000000
+      internalID: 2604814185045296958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_144
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 583
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b337f570e13980800000000000000
+      internalID: -8560814619391446772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_145
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 583
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4299894d62e3d69f0800000000000000
+      internalID: -473654049307584220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_146
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 583
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3c08c642099900800000000000000
+      internalID: 691586520805292722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244583549c61d4610800000000000000
+      internalID: 1606965695746692162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 553
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602da86d2cab698f0800000000000000
+      internalID: -534034159810981370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 553
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fe84c6ca81bb90800000000000000
+      internalID: -7227843340647074503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 553
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd08c53a04941b60800000000000000
+      internalID: 7715954833165389266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 553
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc28417573cfa190800000000000000
+      internalID: -7948919908106490627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 553
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9e0bed84b0bb50800000000000000
+      internalID: 6606979174979509218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 553
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2f96db376b2620800000000000000
+      internalID: 2750405504141307320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_154
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 553
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953793fa8948332b0800000000000000
+      internalID: -5605991319836462247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 491
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cca5f033ce8fa40800000000000000
+      internalID: 5402327457076005929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_156
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 494
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13836248e8f1630800000000000000
+      internalID: 3899992500554183167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 500
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755150d8ba0ea7680800000000000000
+      internalID: -8756439498058558121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_158
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 454
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b7284957518e610800000000000000
+      internalID: 1650592858178222936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_159
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 491
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce188c6a519e35e00800000000000000
+      internalID: 1032425018799718892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_160
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 491
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a99a54d043cd1d0800000000000000
+      internalID: -3324725193298306545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_161
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 491
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5e869f82781060800000000000000
+      internalID: 6924410388113940204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_162
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 491
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299382e835458e00800000000000000
+      internalID: 1046318599054268704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_163
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 492
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ff31c87e8f53c0800000000000000
+      internalID: -4368616464236677863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_164
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 495
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234c03aaacfbf030800000000000000
+      internalID: 3529692542785045293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_165
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 495
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cdd1651335b7470800000000000000
+      internalID: 8393393801898351632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_166
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a48db628c1f5d90800000000000000
+      internalID: -7106930340486690226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_167
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 452
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81409064e2adbeb20800000000000000
+      internalID: 3164863055436252184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_168
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 454
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961d8c1acd23d8f60800000000000000
+      internalID: 8038136833114689897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_169
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 454
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad8054e3d7343a0800000000000000
+      internalID: -6682359715688031529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_170
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 471
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6818a666c10fd0800000000000000
+      internalID: -2377400984065774934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_171
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 467
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40599d594bef1fde0800000000000000
+      internalID: -1300978765771729660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_172
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c039cf36d8d160800000000000000
+      internalID: 7050620786095212730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_173
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b483c75b63fde630800000000000000
+      internalID: 3958087289888015540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_174
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f08e8f11eb12340800000000000000
+      internalID: 4837356459172302678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_175
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c1a6335248c680800000000000000
+      internalID: -8734658552118785604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_176
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9920fba7ecf598120800000000000000
+      internalID: 2416568015488221849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_177
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301fb2c1f072c0e50800000000000000
+      internalID: 6776834485136388355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_178
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde27b8f40b7dfed0800000000000000
+      internalID: -2378609766898913571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_179
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 416
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1467f289b182420800000000000000
+      internalID: 2605362724879090084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_180
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fef1f1c875582d0800000000000000
+      internalID: -3277116894512943341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_181
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a48ff39133e240800000000000000
+      internalID: 4819750537933400434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 562
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f207e8646bfcf0c0800000000000000
+      internalID: -4540477915621031179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ab7b4991657df0800000000000000
+      internalID: -183132898814351778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_184
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 416
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d19ddb0fe5b5c00800000000000000
+      internalID: 890409739406089547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_185
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 416
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd4ada6ef103640800000000000000
+      internalID: 5057577457153268656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_186
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 416
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece0e10d03eadf060800000000000000
+      internalID: 6988933721422171854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a72a513bfab7f0800000000000000
+      internalID: -595887811288651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_188
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda6391e973702040800000000000000
+      internalID: 4620820184994900700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_189
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c088dfb861ec5b020800000000000000
+      internalID: 2357016576231573516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_190
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb83d07d33e80790800000000000000
+      internalID: -7563545721143325710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_191
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee160da4d2b71a0800000000000000
+      internalID: -6810800212120834541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_192
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491685aed7d7cd1e0800000000000000
+      internalID: -2171722940543377004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_193
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc06bc931bdaec10800000000000000
+      internalID: 2083718654892313823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_194
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b64ed4c8488d5220800000000000000
+      internalID: 2476285216245565105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_195
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083f885a7625f3930800000000000000
+      internalID: 4125106388806988672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_196
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90033a343a0f25360800000000000000
+      internalID: 7157047341850243081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_197
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c8d8eae84d0800800000000000000
+      internalID: 580200100766730196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_198
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2999b6af517f31a0800000000000000
+      internalID: -6827613854437369555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_199
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba541a67cd630310800000000000000
+      internalID: 1370059414896401086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_200
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1fba2ab850f7a0800000000000000
+      internalID: -6345474318360700046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_201
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8185cdcb1027e9f0800000000000000
+      internalID: -439347134856855153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e210ddf49742f440800000000000000
+      internalID: 4968112044182082279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_203
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffae96f1b2aa56870800000000000000
+      internalID: 8675527359386479359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_204
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c3e8f741b955150800000000000000
+      internalID: 5860761002434247682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_205
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cbfe8aed0d92d0800000000000000
+      internalID: -3270442453328740300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_206
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee029be15b4b23de0800000000000000
+      internalID: -1354821847887568658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_207
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489ea859ef34a9f0800000000000000
+      internalID: -458170990637180861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarubia Ptolemaic_208
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5d643e017f64a0800000000000000
+      internalID: -6597930623251423290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sarubia Ptolemaic_0: 8721086331277070031
+      Sarubia Ptolemaic_1: 7903742947267925985
+      Sarubia Ptolemaic_10: 681769737843055526
+      Sarubia Ptolemaic_100: -3602492902130096881
+      Sarubia Ptolemaic_101: -5128695107356852060
+      Sarubia Ptolemaic_102: 5120459960986861948
+      Sarubia Ptolemaic_103: -1994392672051386195
+      Sarubia Ptolemaic_104: 5116671430569616170
+      Sarubia Ptolemaic_105: -287401158624897442
+      Sarubia Ptolemaic_106: 7938865536328978525
+      Sarubia Ptolemaic_107: 9209303156183016506
+      Sarubia Ptolemaic_108: 6298045074056770104
+      Sarubia Ptolemaic_109: 2394248214417474233
+      Sarubia Ptolemaic_11: 4685940434998657131
+      Sarubia Ptolemaic_110: -6310079737047455680
+      Sarubia Ptolemaic_111: 8061290302129345713
+      Sarubia Ptolemaic_112: 1282848274190005942
+      Sarubia Ptolemaic_113: -4581068294619836837
+      Sarubia Ptolemaic_114: -2374461530856266198
+      Sarubia Ptolemaic_115: 222226841217262449
+      Sarubia Ptolemaic_116: 3638574114362769308
+      Sarubia Ptolemaic_117: -9139208896788216833
+      Sarubia Ptolemaic_118: -2869357872894154309
+      Sarubia Ptolemaic_119: -3366158108120355243
+      Sarubia Ptolemaic_12: 2812807554137458404
+      Sarubia Ptolemaic_120: -8382280390827950926
+      Sarubia Ptolemaic_121: 6105878043878494150
+      Sarubia Ptolemaic_122: -9031418427108188695
+      Sarubia Ptolemaic_123: -3976118289227725775
+      Sarubia Ptolemaic_124: 4974998914468991535
+      Sarubia Ptolemaic_125: -3836456472578347009
+      Sarubia Ptolemaic_126: -6672903373505070107
+      Sarubia Ptolemaic_127: -8740692345449226266
+      Sarubia Ptolemaic_128: 1078054185435391499
+      Sarubia Ptolemaic_129: -1172696007611135145
+      Sarubia Ptolemaic_13: -885935291317404646
+      Sarubia Ptolemaic_130: -871162365532499065
+      Sarubia Ptolemaic_131: 6832853743965712854
+      Sarubia Ptolemaic_132: -3774425579752408838
+      Sarubia Ptolemaic_133: 2802991272882414849
+      Sarubia Ptolemaic_134: 5322591530067080909
+      Sarubia Ptolemaic_135: 5004300915554718161
+      Sarubia Ptolemaic_136: 8916384397414129210
+      Sarubia Ptolemaic_137: 582421474580228101
+      Sarubia Ptolemaic_138: 5897933261011669705
+      Sarubia Ptolemaic_139: 3255639254849365296
+      Sarubia Ptolemaic_14: -1193918218087188151
+      Sarubia Ptolemaic_140: -5635913648562281064
+      Sarubia Ptolemaic_141: -646243952382215497
+      Sarubia Ptolemaic_142: -6850819842145167065
+      Sarubia Ptolemaic_143: 2604814185045296958
+      Sarubia Ptolemaic_144: -8560814619391446772
+      Sarubia Ptolemaic_145: -473654049307584220
+      Sarubia Ptolemaic_146: 691586520805292722
+      Sarubia Ptolemaic_147: 1606965695746692162
+      Sarubia Ptolemaic_148: -534034159810981370
+      Sarubia Ptolemaic_149: -7227843340647074503
+      Sarubia Ptolemaic_15: -9198432341539767676
+      Sarubia Ptolemaic_150: 7715954833165389266
+      Sarubia Ptolemaic_151: -7948919908106490627
+      Sarubia Ptolemaic_152: 6606979174979509218
+      Sarubia Ptolemaic_153: 2750405504141307320
+      Sarubia Ptolemaic_154: -5605991319836462247
+      Sarubia Ptolemaic_155: 5402327457076005929
+      Sarubia Ptolemaic_156: 3899992500554183167
+      Sarubia Ptolemaic_157: -8756439498058558121
+      Sarubia Ptolemaic_158: 1650592858178222936
+      Sarubia Ptolemaic_159: 1032425018799718892
+      Sarubia Ptolemaic_16: 6984229464650755016
+      Sarubia Ptolemaic_160: -3324725193298306545
+      Sarubia Ptolemaic_161: 6924410388113940204
+      Sarubia Ptolemaic_162: 1046318599054268704
+      Sarubia Ptolemaic_163: -4368616464236677863
+      Sarubia Ptolemaic_164: 3529692542785045293
+      Sarubia Ptolemaic_165: 8393393801898351632
+      Sarubia Ptolemaic_166: -7106930340486690226
+      Sarubia Ptolemaic_167: 3164863055436252184
+      Sarubia Ptolemaic_168: 8038136833114689897
+      Sarubia Ptolemaic_169: -6682359715688031529
+      Sarubia Ptolemaic_17: 8257013024014449451
+      Sarubia Ptolemaic_170: -2377400984065774934
+      Sarubia Ptolemaic_171: -1300978765771729660
+      Sarubia Ptolemaic_172: 7050620786095212730
+      Sarubia Ptolemaic_173: 3958087289888015540
+      Sarubia Ptolemaic_174: 4837356459172302678
+      Sarubia Ptolemaic_175: -8734658552118785604
+      Sarubia Ptolemaic_176: 2416568015488221849
+      Sarubia Ptolemaic_177: 6776834485136388355
+      Sarubia Ptolemaic_178: -2378609766898913571
+      Sarubia Ptolemaic_179: 2605362724879090084
+      Sarubia Ptolemaic_18: -4602007378389546495
+      Sarubia Ptolemaic_180: -3277116894512943341
+      Sarubia Ptolemaic_181: 4819750537933400434
+      Sarubia Ptolemaic_182: -4540477915621031179
+      Sarubia Ptolemaic_183: -183132898814351778
+      Sarubia Ptolemaic_184: 890409739406089547
+      Sarubia Ptolemaic_185: 5057577457153268656
+      Sarubia Ptolemaic_186: 6988933721422171854
+      Sarubia Ptolemaic_187: -595887811288651469
+      Sarubia Ptolemaic_188: 4620820184994900700
+      Sarubia Ptolemaic_189: 2357016576231573516
+      Sarubia Ptolemaic_19: 3616127283855375242
+      Sarubia Ptolemaic_190: -7563545721143325710
+      Sarubia Ptolemaic_191: -6810800212120834541
+      Sarubia Ptolemaic_192: -2171722940543377004
+      Sarubia Ptolemaic_193: 2083718654892313823
+      Sarubia Ptolemaic_194: 2476285216245565105
+      Sarubia Ptolemaic_195: 4125106388806988672
+      Sarubia Ptolemaic_196: 7157047341850243081
+      Sarubia Ptolemaic_197: 580200100766730196
+      Sarubia Ptolemaic_198: -6827613854437369555
+      Sarubia Ptolemaic_199: 1370059414896401086
+      Sarubia Ptolemaic_2: -6023134392600088380
+      Sarubia Ptolemaic_20: 7798746762022205004
+      Sarubia Ptolemaic_200: -6345474318360700046
+      Sarubia Ptolemaic_201: -439347134856855153
+      Sarubia Ptolemaic_202: 4968112044182082279
+      Sarubia Ptolemaic_203: 8675527359386479359
+      Sarubia Ptolemaic_204: 5860761002434247682
+      Sarubia Ptolemaic_205: -3270442453328740300
+      Sarubia Ptolemaic_206: -1354821847887568658
+      Sarubia Ptolemaic_207: -458170990637180861
+      Sarubia Ptolemaic_208: -6597930623251423290
+      Sarubia Ptolemaic_21: 1953963070578885905
+      Sarubia Ptolemaic_22: 7412719400167233775
+      Sarubia Ptolemaic_23: 1125227620386194856
+      Sarubia Ptolemaic_24: -2303067818520608078
+      Sarubia Ptolemaic_25: 4066458350781836284
+      Sarubia Ptolemaic_26: 7696745184314857338
+      Sarubia Ptolemaic_27: 4266853245749809751
+      Sarubia Ptolemaic_28: 5049726812588150362
+      Sarubia Ptolemaic_29: 6672697887868176549
+      Sarubia Ptolemaic_3: -894670919203598955
+      Sarubia Ptolemaic_30: 5231769599367335818
+      Sarubia Ptolemaic_31: 7376795083503708598
+      Sarubia Ptolemaic_32: -2418834989500787359
+      Sarubia Ptolemaic_33: -7412030389624656248
+      Sarubia Ptolemaic_34: 2511945626125613443
+      Sarubia Ptolemaic_35: 593077758843259691
+      Sarubia Ptolemaic_36: -863782274254091126
+      Sarubia Ptolemaic_37: -3967024379596548536
+      Sarubia Ptolemaic_38: -6228108288059171564
+      Sarubia Ptolemaic_39: -5773908201737530998
+      Sarubia Ptolemaic_4: 169822921371194595
+      Sarubia Ptolemaic_40: 6865495507704121019
+      Sarubia Ptolemaic_41: -7005678267527599930
+      Sarubia Ptolemaic_42: 3554724198841505070
+      Sarubia Ptolemaic_43: -8496208846789879313
+      Sarubia Ptolemaic_44: -7389870930940347877
+      Sarubia Ptolemaic_45: 3277716057080953480
+      Sarubia Ptolemaic_46: -302543188205946676
+      Sarubia Ptolemaic_47: 1895362795291032711
+      Sarubia Ptolemaic_48: 27340430479756756
+      Sarubia Ptolemaic_49: -5620423742204529979
+      Sarubia Ptolemaic_5: -7045097065041694558
+      Sarubia Ptolemaic_50: 7049584076974935502
+      Sarubia Ptolemaic_51: -3672748186670176616
+      Sarubia Ptolemaic_52: -574678691689764702
+      Sarubia Ptolemaic_53: -993376763738622461
+      Sarubia Ptolemaic_54: 1018749650091151431
+      Sarubia Ptolemaic_55: -5565057617566265513
+      Sarubia Ptolemaic_56: -2923791828645712087
+      Sarubia Ptolemaic_57: -1016364817788527776
+      Sarubia Ptolemaic_58: 5258281661695525172
+      Sarubia Ptolemaic_59: 3884871748329147572
+      Sarubia Ptolemaic_6: -5069703788951139743
+      Sarubia Ptolemaic_60: -3382964429755240406
+      Sarubia Ptolemaic_61: -5999687432564520557
+      Sarubia Ptolemaic_62: 126559576939554717
+      Sarubia Ptolemaic_63: -8822021448182509134
+      Sarubia Ptolemaic_64: 4325353476064175068
+      Sarubia Ptolemaic_65: 5236206448893592414
+      Sarubia Ptolemaic_66: -8237791116612382777
+      Sarubia Ptolemaic_67: -1633864587164856418
+      Sarubia Ptolemaic_68: -1449046148611461873
+      Sarubia Ptolemaic_69: 1731105571099654972
+      Sarubia Ptolemaic_7: -4829142643364954718
+      Sarubia Ptolemaic_70: -6652826873945008823
+      Sarubia Ptolemaic_71: 5442274790118030362
+      Sarubia Ptolemaic_72: 3506881933187531355
+      Sarubia Ptolemaic_73: 6899408577422263513
+      Sarubia Ptolemaic_74: -3385992276882293484
+      Sarubia Ptolemaic_75: -7328442619478082191
+      Sarubia Ptolemaic_76: 2329615901622026482
+      Sarubia Ptolemaic_77: -2595567395405277586
+      Sarubia Ptolemaic_78: 5506604359602000549
+      Sarubia Ptolemaic_79: 1175372728663691633
+      Sarubia Ptolemaic_8: 3384742924383001800
+      Sarubia Ptolemaic_80: 2591426541394987988
+      Sarubia Ptolemaic_81: -3313577112822386430
+      Sarubia Ptolemaic_82: -2887770994015300641
+      Sarubia Ptolemaic_83: -6084250545081399518
+      Sarubia Ptolemaic_84: 5420102524653305544
+      Sarubia Ptolemaic_85: 8348795720184412606
+      Sarubia Ptolemaic_86: -3612997093388289022
+      Sarubia Ptolemaic_87: 5279347160692294987
+      Sarubia Ptolemaic_88: 4678500304995240460
+      Sarubia Ptolemaic_89: 8820849744999075140
+      Sarubia Ptolemaic_9: -3765890549251972371
+      Sarubia Ptolemaic_90: 1227820437481828356
+      Sarubia Ptolemaic_91: -5279916457712806649
+      Sarubia Ptolemaic_92: -942795252064450034
+      Sarubia Ptolemaic_93: -892686281767760545
+      Sarubia Ptolemaic_94: 303789878644884826
+      Sarubia Ptolemaic_95: -1906279269339016011
+      Sarubia Ptolemaic_96: 7344224413661724246
+      Sarubia Ptolemaic_97: -6677707445470924018
+      Sarubia Ptolemaic_98: 6113075681522503388
+      Sarubia Ptolemaic_99: -6474142677894379427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
